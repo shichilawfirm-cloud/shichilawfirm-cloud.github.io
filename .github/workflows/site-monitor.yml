@@ -28,7 +28,8 @@ jobs:
           trap 'rm -rf "$work"' EXIT
 
           fetch() {
-            local path="$1" output="$2" url="${site}${path}" meta status final
+            local path="$1" output="$2" meta status final
+            local url="${site}${path}"
             meta="$(curl --fail --silent --show-error --location --retry 2 --retry-all-errors --max-time 30 \
               -H 'Cache-Control: no-cache' -A 'ShichiCloudMonitor/1.0' \
               -o "$output" -w '%{http_code} %{url_effective}' "$url")"
@@ -74,7 +75,7 @@ jobs:
               await github.rest.issues.create({
                 owner: context.repo.owner, repo: context.repo.repo,
                 title,
-                body: `GitHub 雳端監控無法通過官網關鍵頁或聯絡方式檢查。\n\n執行紀錄：${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+                body: `GitHub 雲端監控無法通過官網關鍵頁或聯絡方式檢查。\n\n執行紀錄：${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
               });
             }
       - name: Close alert issue after recovery
