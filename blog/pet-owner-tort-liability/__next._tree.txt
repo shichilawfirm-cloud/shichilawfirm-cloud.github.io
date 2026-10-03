@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/1jeg0ux7vcw-o.css","style"]
 :HL["/_next/static/chunks/30_3srgzl5-x4.css","style"]
-:HL["/_next/static/chunks/2etpgrsf2k_o4.css","style"]
+:HL["/_next/static/chunks/42t42ouik-9tc.css","style"]
 :HL["/_next/static/media/6ad1cda2f16975ee-s.p.2j22bd4n1tlhh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/migrated/6d854a15_AT2175627957655.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"pet-owner-tort-liability","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"swbkGvK1oJlLduYDAc8q1"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"pet-owner-tort-liability","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"MKqqmN9nc2teKd09i2mPl"}
