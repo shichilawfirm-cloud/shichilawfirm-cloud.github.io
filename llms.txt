@@ -20,11 +20,15 @@
 - [羈押庭、聲請具保、陪同偵訊（急件）](https://defense.shichilawfirm.com/criminal-defense/bail/)：檢察官聲請羈押，不代表法院一定准押。刑事訴訟法第101條要求法院審查犯罪嫌疑、羈押原因與必要性；第101條之2並容許在無羈押必要時採具保、責付或限制住居。
 
 ## 程序導覽
+- [收到起訴書怎麼辦？開庭流程、認罪與否和上訴期限](https://defense.shichilawfirm.com/process/indictment-received/)：收到起訴書代表檢察官認為證據足夠，案件進入法院審理，但還沒有被判有罪。接下來通常先開準備程序，法官會問你認不認罪，這個回答會決定案件走哪一種程序。判決送達後，上訴期間是二十日。
 - [家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)：家人被檢察官聲請羈押時，先確認法院與案號，整理固定住居、工作、照護與可替代羈押的資料。聲押不等於一定羈押，法院仍須審查犯罪嫌疑、羈押原因與必要性。
 - [收到警局通知書怎麼辦？刑事律師教你到場前 5 步驟](https://defense.shichilawfirm.com/process/police-notice/)：警局通知書可能是通知犯罪嫌疑人，也可能是通知證人。先確認通知身分與案由，不要無故不到場；到場前整理資料，並依身分評估是否先諮詢或由律師陪同。
 
 ## 法律知識（節錄）
+- [傳訊息嗆人會構成恐嚇罪嗎？恐嚇、強制與恐嚇取財的差別](https://defense.shichilawfirm.com/blog/intimidation-threat-message-guide/)
+- [被告公然侮辱或誹謗怎麼辦？網路留言罵人的刑責與和解](https://defense.shichilawfirm.com/blog/defamation-public-insult-guide/)
 - [毒品案件會判多久？持有、施用、轉讓與販賣刑度差別](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)
+- [酒駕被抓會怎樣？第一次酒駕的刑責、易科罰金與緩起訴](https://defense.shichilawfirm.com/blog/drunk-driving-first-offense-guide/)
 - [傷害罪會判多久？和解、撤告與易科罰金一次看懂](https://defense.shichilawfirm.com/blog/injury-sentence-settlement-withdrawal-fine/)
 - [被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)
 - [詐欺車手判多久？初犯、自首、和解與緩刑條件](https://defense.shichilawfirm.com/blog/fraud-mule-sentence/)
