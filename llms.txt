@@ -29,6 +29,7 @@
 
 ## 法律知識（節錄）
 - [背信罪是什麼？和侵占、詐欺怎麼分，被告了怎麼辦](https://defense.shichilawfirm.com/blog/breach-of-trust-vs-embezzlement-guide/)
+- [犯罪被害人可以參與刑事審判嗎？資格、聲請期限與程序權利](https://defense.shichilawfirm.com/blog/crime-victim-trial-participation-guide/)
 - [刑事附帶民事訴訟何時提出？期限、對象與移送一次看](https://defense.shichilawfirm.com/blog/criminal-attached-civil-action-timing/)
 - [刑事認罪協商會判多久？適用範圍、撤回與上訴限制](https://defense.shichilawfirm.com/blog/criminal-plea-bargaining-guide/)
 - [刑事準備程序要做什麼？認罪答辯、證據爭點與開庭準備](https://defense.shichilawfirm.com/blog/criminal-pretrial-preparation-procedure/)
@@ -45,9 +46,11 @@
 - [不起訴處分不服怎麼辦？10日再議與准許提起自訴](https://defense.shichilawfirm.com/blog/non-prosecution-reconsideration-guide/)
 - [跟警察起衝突會怎樣？妨害公務與侮辱公務員的刑責](https://defense.shichilawfirm.com/blog/obstructing-officer-insulting-police-guide/)
 - [偷拍、外流私密影像會判多久？性影像相關罪名一次看懂](https://defense.shichilawfirm.com/blog/secret-filming-sexual-image-guide/)
+- [手機被扣押多久拿得回來？發還扣押物、暫時發還與擔保金](https://defense.shichilawfirm.com/blog/seized-property-return-guide/)
 - [一直傳訊息、等在樓下算跟騷嗎？書面告誡、保護令與刑責](https://defense.shichilawfirm.com/blog/stalking-harassment-warning-guide/)
 - [收到聲請簡易判決處刑書怎麼辦？程序、刑度與20日上訴](https://defense.shichilawfirm.com/blog/summary-judgment-procedure-guide/)
 - [順手拿走、撿到不還、挪用公款：竊盜與侵占差在哪？](https://defense.shichilawfirm.com/blog/theft-embezzlement-lost-property-guide/)
+- [法院要沒收第三人財產怎麼辦？參與沒收程序、上訴與撤銷](https://defense.shichilawfirm.com/blog/third-party-confiscation-participation-guide/)
 - [車禍鑑定可以覆議嗎？30日期限、聲請方式與證據準備](https://defense.shichilawfirm.com/blog/traffic-accident-appraisal-review-guide/)
 - [被告公然侮辱或誹謗怎麼辦？網路留言罵人的刑責與和解](https://defense.shichilawfirm.com/blog/defamation-public-insult-guide/)
 - [毒品案件會判多久？持有、施用、轉讓與販賣刑度差別](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)
@@ -55,9 +58,6 @@
 - [傷害罪會判多久？和解、撤告與易科罰金一次看懂](https://defense.shichilawfirm.com/blog/injury-sentence-settlement-withdrawal-fine/)
 - [被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)
 - [詐欺車手判多久？初犯、自首、和解與緩刑條件](https://defense.shichilawfirm.com/blog/fraud-mule-sentence/)
-- [詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)
-- [詐欺案件已經認罪，還需要請律師嗎？](https://defense.shichilawfirm.com/blog/fraud-plea-need-lawyer/)
-- [求職被騙去領錢、收包裹怎麼辦？被當詐欺車手後的處理重點](https://defense.shichilawfirm.com/blog/job-scam-mule-recruit/)
 
 ## 其他
 - [常見問題](https://defense.shichilawfirm.com/faq/)
