@@ -29,6 +29,7 @@
 
 ## 法律知識（節錄）
 - [背信罪是什麼？和侵占、詐欺怎麼分，被告了怎麼辦](https://defense.shichilawfirm.com/blog/breach-of-trust-vs-embezzlement-guide/)
+- [刑事案件多久不能告？六個月告訴期間與追訴權時效差在哪？](https://defense.shichilawfirm.com/blog/complaint-period-vs-prosecution-limitation-guide/)
 - [刑事撤告後還會判刑嗎？告訴乃論、期限與共犯效力](https://defense.shichilawfirm.com/blog/complaint-withdrawal-criminal-guide/)
 - [犯罪被害人可以參與刑事審判嗎？資格、聲請期限與程序權利](https://defense.shichilawfirm.com/blog/crime-victim-trial-participation-guide/)
 - [刑事附帶民事訴訟何時提出？期限、對象與移送一次看](https://defense.shichilawfirm.com/blog/criminal-attached-civil-action-timing/)
@@ -45,6 +46,7 @@
 - [被裁定羈押可以抗告嗎？10日期限、停止執行與撤銷羈押](https://defense.shichilawfirm.com/blog/detention-appeal-remedy-guide/)
 - [裁判確定前羈押日數怎麼折抵刑期？逮捕、拘提與多案計算](https://defense.shichilawfirm.com/blog/detention-days-sentence-credit-guide/)
 - [家人被羈押禁見怎麼辦？接見、送物與律師會見一次看懂](https://defense.shichilawfirm.com/blog/detention-no-contact-family-guide/)
+- [持有毒品多少會有刑責或加重？一至四級純質淨重門檻](https://defense.shichilawfirm.com/blog/drug-possession-pure-weight-threshold-guide/)
 - [販賣毒品供出上手就能減刑嗎？自白與「因而查獲」要件](https://defense.shichilawfirm.com/blog/drug-source-confession-sentence-reduction-guide/)
 - [驗尿陽性就一定是施用毒品嗎？採驗、複驗與證據爭點](https://defense.shichilawfirm.com/blog/drug-urine-test-positive-guide/)
 - [家人被逮捕後怎麼請律師？委任、接見與陪偵流程一次看懂](https://defense.shichilawfirm.com/blog/family-hire-lawyer-after-arrest-guide/)
@@ -54,10 +56,8 @@
 - [偵查中可以閱卷嗎？被告、律師與羈押案件的閱卷差別](https://defense.shichilawfirm.com/blog/investigation-file-review-guide/)
 - [未成年收到警局通知怎麼辦？少年事件流程、家長陪同與輔佐人](https://defense.shichilawfirm.com/blog/juvenile-police-notice-guide/)
 - [洗錢防制法修法後，人頭帳戶案件真的比較有利嗎？](https://defense.shichilawfirm.com/blog/money-laundering-amendment-mule-accounts/)
+- [幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)
 - [不起訴處分不服怎麼辦？10日再議與准許提起自訴](https://defense.shichilawfirm.com/blog/non-prosecution-reconsideration-guide/)
-- [跟警察起衝突會怎樣？妨害公務與侮辱公務員的刑責](https://defense.shichilawfirm.com/blog/obstructing-officer-insulting-police-guide/)
-- [緩刑期間再犯會被撤銷嗎？應撤銷、得撤銷與期滿效果](https://defense.shichilawfirm.com/blog/probation-revocation-guide/)
-- [偷拍、外流私密影像會判多久？性影像相關罪名一次看懂](https://defense.shichilawfirm.com/blog/secret-filming-sexual-image-guide/)
 
 ## 其他
 - [常見問題](https://defense.shichilawfirm.com/faq/)
