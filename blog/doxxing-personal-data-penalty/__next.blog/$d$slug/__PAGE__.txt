@@ -1,0 +1,148 @@
+1:"$Sreact.fragment"
+2:I[24323,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Header"]
+a:X
+f:X
+f:C
+0:{"buildId":"VZfNdW2fJLrrxY5f32iCA","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col bg-[#0f1a17]","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 pt-[84px] md:pt-[100px]","children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/#article\",\"mainEntityOfPage\":\"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/\",\"headline\":\"把別人個資貼上網會怎樣？個資法的刑責與賠償\",\"description\":\"把別人個資貼上網會怎樣？張榮成律師依個人資料保護法第19、20、41條，白話說明人肉搜索、公審貼文的刑責與民事賠償，整理可能的例外情形，也提醒台中、嘉義當事人被告或想提告時，該先保存哪些證據、先做哪些事，並說明接下來的處理順序與注意事項。\",\"image\":\"https://defense.shichilawfirm.com/images/gen/og.jpg\",\"inLanguage\":\"zh-TW\",\"author\":{\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\"},\"publisher\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"datePublished\":\"2026-10-04\",\"dateModified\":\"2026-10-04\"}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\",\"name\":\"張榮成律師\",\"jobTitle\":\"主持律師\",\"image\":\"https://defense.shichilawfirm.com/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/lawyer-1.png\",\"url\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/\",\"worksFor\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"knowsAbout\":[\"詐欺、車手、人頭帳戶\",\"洗錢防制法\",\"毒品案件\",\"妨害性自主\",\"傷害、車禍過失傷害\",\"羈押庭、聲請具保、陪同偵訊\"]}"}}],["$","script","2",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"首頁\",\"item\":\"https://defense.shichilawfirm.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"法律知識\",\"item\":\"https://defense.shichilawfirm.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"把別人個資貼上網會怎樣？個資法的刑責與賠償\",\"item\":\"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/\"}]}"}}],["$","script","3",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"只把對方的名字和電話貼出來，也算個資嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"算。個人資料保護法第2條第1款列舉姓名、聯絡方式、職業、財務情況等，以及其他可直接或間接識別個人的資料。多筆資料合在一起，更容易被認為能識別特定人。\"}},{\"@type\":\"Question\",\"name\":\"我是一般人，不是公司，也適用個資法嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"適用。個人資料保護法第2條第8款規定，非公務機關包括公務機關以外的自然人、法人或其他團體。但第51條第1項第1款對單純個人或家庭活動目的的蒐集、處理或利用，另有排除規定。\"}},{\"@type\":\"Question\",\"name\":\"個資法的罪是告訴乃論嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"第41條的罪不是。個人資料保護法第45條規定，本章之罪須告訴乃論，但犯第41條之罪者，不在此限，所以即使被害人沒有提告，檢察官也可能偵辦。\"}},{\"@type\":\"Question\",\"name\":\"被貼個資的人可以請求賠償嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"可以主張。個人資料保護法第29條第1項規定，非公務機關違反本法致個資遭不法蒐集、處理、利用或侵害當事人權利者，負損害賠償責任，但能證明無故意或過失的除外。\"}},{\"@type\":\"Question\",\"name\":\"對方的個資本來就公開在網路上，我轉貼也有問題嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"可能仍有爭議。個人資料保護法第19條第1項第3款、第7款有公開資料的例外，但第7款但書排除當事人有更值得保護的重大利益的情形。是否適用，要看個案與貼文目的。\"}}]}"}}],["$","script","4",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/#webpage\",\"url\":\"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/\",\"name\":\"把別人個資貼上網會怎樣？個資法的刑責與賠償\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".quick-answer-text\"]},\"isPartOf\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"}}"}}]],"$L3"]}],"$L4","$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[22016,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],""]
+1a:I[5500,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Image"]
+21:I[28090,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"FloatingBars"]
+22:I[58541,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"default"]
+23:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"OutletBoundary"]
+24:"$Sreact.suspense"
+26:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"ViewportBoundary"]
+27:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"MetadataBoundary"]
+28:I[27201,["/_next/static/chunks/0ohns_sgsfx6p.js"],"IconMark"]
+29:I[39756,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+2a:I[37457,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+15:T2501,<p>**把別人的個資貼上網，想讓大家評理或給對方壓力，可能違反《個人資料保護法》，嚴重時可處五年以下有期徒刑。**是否構成犯罪，要看你有沒有合法的理由和目的、貼出去的內容是什麼，以及有沒有足以損害對方的情形。</p>
+<h2>哪些資料算個資？一般人也受規範嗎？</h2>
+<p>《個人資料保護法》第2條第1款列了很多：姓名、出生年月日、身分證統一編號、護照號碼、特徵、婚姻、家庭、教育、職業、病歷、聯絡方式、財務情況、社會活動，以及其他可以直接或間接識別這個人的資料。</p>
+<p>白話說，不只是身分證號碼。名字加上公司名稱、名字加上頭像和住家附近的照片，只要讓人看得出是誰，都可能被算進去。</p>
+<p>一般人也受規範。同法第2條第8款規定，「非公務機關」是公務機關以外的自然人、法人或其他團體，所以個人也在範圍內。</p>
+<p>不過第51條第1項有兩個排除情形：</p>
+<ul>
+<li>自然人為單純個人或家庭活動的目的，而蒐集、處理或利用個人資料；</li>
+<li>在公開場所或公開活動中所蒐集、處理或利用，且未與其他個資結合的影音資料。</li>
+</ul>
+<p>把資料貼到公開社群想讓不特定人看到，是否還算「單純個人或家庭活動」，常會被拿來討論，要依個案判斷。</p>
+<h2>哪一個條文規定能不能貼？</h2>
+<p>兩個關鍵條文是：</p>
+<ul>
+<li>第19條：非公務機關蒐集或處理個資，要有特定目的，並符合法律列出的情形之一，例如法律明文規定、與當事人有契約關係、當事人自行公開或其他已合法公開、經當事人同意、對當事人權益無侵害等。</li>
+<li>第20條第1項：利用個資要在蒐集的特定目的必要範圍內，除非有例外，例如經當事人同意、為防止他人權益的重大危害等。</li>
+</ul>
+<p>比方說，因為買賣糾紛取得對方的電話，目的是聯絡交易；之後把這支電話貼到群組叫大家去騷擾，就可能超出原本的特定目的。</p>
+<h2>刑責是什麼？</h2>
+<p>《個人資料保護法》第41條規定，意圖為自己或第三人不法的利益，或損害他人的利益，而違反第19條、第20條第1項或條文所列的其他個資蒐集利用規定，足生損害於他人者，處五年以下有期徒刑，得併科新臺幣一百萬元以下罰金。</p>
+<p>幾個要件缺一不可：</p>
+<ol>
+<li>有「不法利益」或「損害他人」的意圖；</li>
+<li>違反上述條文；</li>
+<li>足以對他人造成損害。</li>
+</ol>
+<p>第45條規定，個資法刑罰章的罪須告訴乃論，但犯第41條之罪，或對公務機關犯第42條之罪，不在此限。這表示即使被害人事後表示不追究，檢察官仍可能繼續偵辦。</p>
+<h2>民事賠償怎麼算？</h2>
+<p>《個人資料保護法》第29條第1項規定，非公務機關違反本法，致個資遭不法蒐集、處理、利用或侵害當事人權利者，負損害賠償責任，但能證明沒有故意或過失的除外。同條第2項規定，請求賠償時適用第28條第2項至第6項。依這些規定：</p>
+<ul>
+<li>被害人雖非財產上的損害，也得請求賠償相當的金額；名譽被侵害的，並得請求回復名譽的適當處分（第28條第2項）。</li>
+<li>被害人不易或不能證明實際損害額時，得請求法院依侵害情節，以每人每一事件新臺幣五百元以上二萬元以下計算（第28條第3項）。</li>
+<li>同一原因事實造成多數當事人受害的，合計最高總額以新臺幣二億元為限，但所涉利益超過二億元的，以該所涉利益為限（第28條第4項）。</li>
+</ul>
+<p>實際能請求什麼、金額多少，由法院依個案決定。</p>
+<h2>常見情形怎麼比較？</h2>
+<table>
+<thead>
+<tr>
+<th>情形</th>
+<th>主要風險</th>
+<th>要看的重點</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>貼出對方姓名、電話、住址，呼籲大家去聯絡</td>
+<td>個資法第19條、第20條第1項、第41條</td>
+<td>取得資料的目的、貼出的目的、是否足生損害</td>
+</tr>
+<tr>
+<td>貼對方的對話截圖，內含他人姓名和電話</td>
+<td>同上；內容也可能牽涉名譽問題</td>
+<td>是否有遮蔽、與主張的關聯</td>
+</tr>
+<tr>
+<td>轉貼別人已貼出的個資</td>
+<td>個資法第19條、第20條第1項</td>
+<td>是否屬公開資料、有無加上指控性文字</td>
+</tr>
+<tr>
+<td>把糾紛證據交給警察或法院</td>
+<td>通常是為了行使權利</td>
+<td>提出的對象與範圍</td>
+</tr>
+<tr>
+<td>單純在家人群組分享</td>
+<td>第51條第1項第1款可能排除</td>
+<td>是否真的屬單純個人或家庭活動</td>
+</tr>
+</tbody></table>
+<p>涉及名譽的部分，可參考<a href="/blog/defamation-public-insult-guide/" rel="noopener noreferrer">公然侮辱與誹謗怎麼辦</a>；若貼文帶有威脅語氣，另見<a href="/blog/intimidation-threat-message-guide/" rel="noopener noreferrer">恐嚇與威脅訊息怎麼辦</a>。</p>
+<h2>被告或被貼個資，現在先做哪幾件事？</h2>
+<p><strong>如果你是被告的一方：</strong></p>
+<ol>
+<li><strong>先不要再貼、再回、再刪光所有文章</strong>：刪除未必能消除已經發生的行為，反而可能被解讀為想隱匿。</li>
+<li><strong>把原貼文、留言、截圖、發文時間先備份</strong>，包括你當初為什麼貼的上下文。</li>
+<li><strong>整理資料的來源</strong>：這些個資是怎麼取得的、對方有沒有自己公開過、有沒有同意。</li>
+<li><strong>想一想有沒有可以主張的例外</strong>：例如第19條第1項所列的當事人自行公開或其他已合法公開、經當事人同意、為增進公共利益所必要等情形，是否適用由檢察官與法院依個案判斷。</li>
+<li><strong>讀清楚通知書</strong>，確認是警察、調查機關還是檢察官通知，並記下到場日期，見<a href="/process/police-notice/" rel="noopener noreferrer">收到警局通知書怎麼辦</a>。</li>
+</ol>
+<p><strong>如果你是被貼個資的人：</strong></p>
+<ol>
+<li><strong>完整截圖保存</strong>，要看得到發文者名稱、網址、時間和被貼出的內容。</li>
+<li><strong>不要自己在原貼文下面反擊</strong>，以免情緒性的內容成為對方的證據。</li>
+<li><strong>可考慮向平台檢舉並請求下架</strong>，但先保存證據再處理。</li>
+<li><strong>評估是否提告</strong>，刑事方面可向警察機關或地檢署提出，民事賠償另外評估。</li>
+</ol>
+<h2>在台中或嘉義遇到這類案件，程序是什麼？</h2>
+<p>通常是被害人向警察機關報案或向地檢署提告，由警察通知被告到場，再由檢察官決定是否起訴。要到哪個機關、哪一天到場，以通知書記載的承辦機關為準。作者經歷見<a href="/lawyers/zhang-rong-cheng/" rel="noopener noreferrer">張榮成律師</a>，服務據點見<a href="/locations/taichung-west/" rel="noopener noreferrer">台中總所</a>與<a href="/locations/chiayi/" rel="noopener noreferrer">嘉義分所</a>。</p>
+<h2>本文依據哪些官方法源？</h2>
+<p>本文於 <strong>2026年10月4日</strong>依全國法規資料庫現行條文整理，未引用未經查證的裁判，也未使用案件個資：</p>
+<ul>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=2" rel="noopener noreferrer">《個人資料保護法》第2條：個人資料與非公務機關的定義</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=19" rel="noopener noreferrer">《個人資料保護法》第19條：非公務機關蒐集或處理個資的要件</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=20" rel="noopener noreferrer">《個人資料保護法》第20條：非公務機關利用個資的限制</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=28" rel="noopener noreferrer">《個人資料保護法》第28條：損害賠償的範圍與計算（第29條第2項適用）</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=29" rel="noopener noreferrer">《個人資料保護法》第29條：非公務機關的損害賠償責任</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=41" rel="noopener noreferrer">《個人資料保護法》第41條：非法蒐集、處理、利用個資罪</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=42" rel="noopener noreferrer">《個人資料保護法》第42條：非法變更、刪除個人資料檔案罪</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=45" rel="noopener noreferrer">《個人資料保護法》第45條：告訴乃論與例外</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&amp;flno=51" rel="noopener noreferrer">《個人資料保護法》第51條：不適用本法的情形</a></li>
+</ul>
+<p>本文是一般法律資訊，不能取代律師依貼文內容、截圖、對話紀錄與完整卷證所作的個別法律意見，也不保證不起訴、緩起訴或其他特定結果。</p>
+3:["$","div",null,{"className":"mx-auto px-5 py-12 md:px-8 md:py-16 max-w-[860px]","children":[["$","nav",null,{"aria-label":"breadcrumb","className":"text-[13px] tracking-wide text-[#a39c8d]","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[false,["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]]}],["$","li","/blog/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]]}],["$","li","/blog/doxxing-personal-data-penalty/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","span",null,{"className":"text-[#d6cfc0]","children":"把別人個資貼上網會怎樣？個資法的刑責與賠償"}]]}]]}]}],["$","header",null,{"className":"mt-6","children":[["$","p",null,{"className":"text-[13px] tracking-widest text-[#d4b46a]","children":["法律知識","｜刑事"]}],["$","h1",null,{"className":"mt-3 text-3xl font-medium leading-snug tracking-wide text-[#efe9dc] md:text-[38px] md:leading-[1.35]","children":"把別人個資貼上網會怎樣？個資法的刑責與賠償"}],["$","p",null,{"className":"mt-4 text-[13px] tracking-wide text-[#a39c8d]","children":["發佈：2026-10-04","","｜作者：","張榮成律師"]}],["$","ul",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","li","個資法",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","個資法"]}],["$","li","人肉搜索",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","人肉搜索"]}],["$","li","社群貼文",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","社群貼文"]}],["$","li","損害賠償",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","損害賠償"]}],["$","li","告訴",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","告訴"]}]]}]]}],["$","div",null,{"className":"mt-8","children":["$","div",null,{"className":"paper px-5 py-8 text-[#222] md:px-12 md:py-14","children":["",["$","section",null,{"className":"quick-answer mb-6 border-l-4 border-l-[#b8933f] bg-[#efe9df] px-5 py-4","aria-label":"快速回答","children":[["$","p",null,{"className":"text-[11px] tracking-[0.3em] text-[#9a7a2f]","children":"QUICK ANSWER"}],["$","p",null,{"className":"quick-answer-text mt-2 text-[17px] font-semibold leading-relaxed text-[#1a1a1a]","children":"在網路上公開他人個資，若違反個資法第19條或第20條第1項，且意圖不法利益或損害他人而足生損害，依第41條可處五年以下有期徒刑，得併科一百萬元以下罰金。"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],false,"$L16"]}]}],"$L17",false,"$L18","$L19"]}]
+4:["$","footer",null,{"className":"band-ink border-t border-[#c9a961]/30 pt-16","children":[["$","div",null,{"className":"mx-auto max-w-[1400px] px-6 md:px-10","children":["$","div",null,{"className":"grid gap-12 md:grid-cols-[280px_1fr_1fr]","children":[["$","div",null,{"children":[["$","$L1a",null,{"src":"/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/logo.webp","alt":"時起法律事務所","width":207,"height":190,"className":"h-16 w-auto","loading":"lazy"}],["$","p",null,{"className":"serif mt-4 text-xl tracking-[0.25em] text-white","children":"時起法律事務所"}],["$","p",null,{"className":"eyebrow mt-1","children":"SHICHI LAW FIRM"}],["$","p",null,{"className":"mt-4 text-[13px] leading-relaxed text-white/60","children":["台中刑事辯護律師",["$","br",null,{}],"臺中地方法院旁"]}]]}],["$","address",null,{"className":"space-y-2 text-[14px] not-italic tracking-wide text-white/80","children":[["$","p",null,{"className":"eyebrow mb-3","children":"CONTACT"}],["$","p",null,{"children":["律師專線：",["$","a",null,{"href":"tel:+886-909-579-081","className":"text-white hover:text-[#e3c98a]","children":"0909-579-081"}]]}],["$","p",null,{"children":["事務所：",["$","a",null,{"href":"tel:+886-4-22294866","className":"hover:text-[#e3c98a]","children":"04-2229-4866"}]]}],["$","p",null,{"children":["LINE：",["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"hover:text-[#e3c98a]","children":"@629xmmsh"}]]}],["$","p",null,{"children":["信箱：",["$","a",null,{"href":"mailto:shichilawfirm@gmail.com","className":"hover:text-[#e3c98a]","children":"shichilawfirm@gmail.com"}]]}],["$","p",null,{"children":["台中總所：",["$","a",null,{"href":"https://maps.app.goo.gl/sMGUpdk78vPoMZf39","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"台中市西區自由路一段101號10樓之7"}]]}],["$","p",null,{"children":["嘉義分所：",["$","a",null,{"href":"https://maps.app.goo.gl/SrbMHDXV5yLWyWGE9","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"嘉義市東區雅竹路7號"}]]}],["$","p",null,{"className":"text-[13px] text-white/50","children":"週一至週五 09:00–18:00；週六 09:00–12:00（預約制）"}]]}],["$","div",null,{"className":"grid gap-8 sm:grid-cols-2","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"PRACTICE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li","/criminal-defense/fraud/",{"children":["$","$L14",null,{"href":"/criminal-defense/fraud/","className":"hover:text-[#e3c98a]","children":"詐欺／車手"}]}],["$","li","/criminal-defense/mule-account/",{"children":["$","$L14",null,{"href":"/criminal-defense/mule-account/","className":"hover:text-[#e3c98a]","children":"人頭帳戶／警示帳戶"}]}],["$","li","/criminal-defense/money-laundering/",{"children":["$","$L14",null,{"href":"/criminal-defense/money-laundering/","className":"hover:text-[#e3c98a]","children":"洗錢防制法"}]}],["$","li","/criminal-defense/drugs/",{"children":["$","$L14",null,{"href":"/criminal-defense/drugs/","className":"hover:text-[#e3c98a]","children":"毒品案件"}]}],["$","li","/criminal-defense/sex-offense/",{"children":["$","$L14",null,{"href":"/criminal-defense/sex-offense/","className":"hover:text-[#e3c98a]","children":"妨害性自主"}]}],["$","li","/criminal-defense/traffic-injury/",{"children":["$","$L14",null,{"href":"/criminal-defense/traffic-injury/","className":"hover:text-[#e3c98a]","children":"車禍過失傷害"}]}],["$","li","/criminal-defense/bail/",{"children":["$","$L14",null,{"href":"/criminal-defense/bail/","className":"hover:text-[#e3c98a]","children":"羈押庭／聲請具保"}]}],["$","li","/process/police-notice/",{"children":["$","$L14",null,{"href":"/process/police-notice/","className":"hover:text-[#e3c98a]","children":"收到警局通知書怎麼辦"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"SITE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li",null,{"children":["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]}],[["$","li","/criminal-defense/",{"children":["$","$L14",null,{"href":"/criminal-defense/","className":"hover:text-[#e3c98a]","children":"刑事辯護"}]}],["$","li","/process/",{"children":["$","$L14",null,{"href":"/process/","className":"hover:text-[#e3c98a]","children":"程序導覽"}]}],["$","li","/cases/",{"children":["$","$L14",null,{"href":"/cases/","className":"hover:text-[#e3c98a]","children":"勝訴案例"}]}],["$","li","/blog/",{"children":["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]}],["$","li","/lawyers/",{"children":["$","$L14",null,{"href":"/lawyers/","className":"hover:text-[#e3c98a]","children":"律師團隊"}]}],"$L1b","$L1c"],"$L1d","$L1e","$L1f"]}]]}]]}]]}]}],"$L20"]}]
+5:["$","$L21",null,{}]
+6:["$","div",null,{"className":"cta-bar fixed inset-x-0 bottom-0 z-40 grid h-16 grid-cols-2 gap-2 border-t border-[#c9a961]/30 bg-[#0f1a17]/95 px-3 py-2 backdrop-blur md:hidden","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line justify-center rounded-lg px-2 py-0 text-[15px]","children":[["$","$L22",null,{"iconNode":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]],"className":"lucide-message-circle h-5 w-5"}]," 加 LINE 諮詢"]}],["$","a",null,{"href":"tel:+886-909-579-081","className":"flex items-center justify-center gap-2 rounded-lg bg-[#c9a961] text-[15px] font-bold tracking-wider text-[#14171c]","children":[["$","$L22",null,{"iconNode":[["path",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384","key":"9njp5v"}]],"className":"lucide-phone h-5 w-5"}]," 立即聯絡律師"]}]]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/1msqpvfaknl3y.js","async":true}]
+8:["$","$L23",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+b:["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#111111"}]]}],["$","div",null,{"hidden":true,"children":["$","$L27",null,{"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"把別人個資貼上網會怎樣？個資法的刑責與賠償｜時起法律事務所 法律知識"}],["$","meta","1",{"name":"description","content":"把別人個資貼上網會怎樣？張榮成律師依個人資料保護法第19、20、41條，白話說明人肉搜索、公審貼文的刑責與民事賠償，整理可能的例外情形，也提醒台中、嘉義當事人被告或想提告時，該先保存哪些證據、先做哪些事，並說明接下來的處理順序與注意事項。"}],["$","meta","2",{"name":"keywords","content":"個資法,人肉搜索,把個資貼上網,個人資料保護法第41條,公審貼文,台中刑事律師"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","link","4",{"rel":"canonical","href":"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/"}],["$","meta","5",{"property":"og:title","content":"把別人個資貼上網會怎樣？個資法的刑責與賠償｜時起法律事務所 法律知識"}],["$","meta","6",{"property":"og:description","content":"把別人個資貼上網會怎樣？張榮成律師依個人資料保護法第19、20、41條，白話說明人肉搜索、公審貼文的刑責與民事賠償，整理可能的例外情形，也提醒台中、嘉義當事人被告或想提告時，該先保存哪些證據、先做哪些事，並說明接下來的處理順序與注意事項。"}],["$","meta","7",{"property":"og:url","content":"https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/"}],["$","meta","8",{"property":"og:site_name","content":"時起法律事務所"}],["$","meta","9",{"property":"og:locale","content":"zh_TW"}],["$","meta","10",{"property":"og:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-10-04"}],["$","meta","13",{"property":"article:modified_time","content":"2026-10-04"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"把別人個資貼上網會怎樣？個資法的刑責與賠償｜時起法律事務所 法律知識"}],["$","meta","16",{"name":"twitter:description","content":"把別人個資貼上網會怎樣？張榮成律師依個人資料保護法第19、20、41條，白話說明人肉搜索、公審貼文的刑責與民事賠償，整理可能的例外情形，也提醒台中、嘉義當事人被告或想提告時，該先保存哪些證據、先做哪些事，並說明接下來的處理順序與注意事項。"}],["$","meta","17",{"name":"twitter:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/favicon.ico"}],["$","$L28","20",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+13:true
+16:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L14",null,{"href":"/lawyers/zhang-rong-cheng/","className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）","","｜最後更新：2026-10-04"]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]
+17:["$","section",null,{"className":"mt-14","children":[["$","p",null,{"className":"eyebrow","children":"FAQ"}],["$","h2",null,{"className":"mt-2 text-2xl font-semibold tracking-wide text-[#efe9dc]","children":"常見問題"}],["$","dl",null,{"className":"mt-6 divide-y divide-[#c9a961]/20 border-y border-[#c9a961]/20","children":[["$","div","只把對方的名字和電話貼出來，也算個資嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"只把對方的名字和電話貼出來，也算個資嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"算。個人資料保護法第2條第1款列舉姓名、聯絡方式、職業、財務情況等，以及其他可直接或間接識別個人的資料。多筆資料合在一起，更容易被認為能識別特定人。"}]]}],["$","div","我是一般人，不是公司，也適用個資法嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"我是一般人，不是公司，也適用個資法嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"適用。個人資料保護法第2條第8款規定，非公務機關包括公務機關以外的自然人、法人或其他團體。但第51條第1項第1款對單純個人或家庭活動目的的蒐集、處理或利用，另有排除規定。"}]]}],["$","div","個資法的罪是告訴乃論嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"個資法的罪是告訴乃論嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"第41條的罪不是。個人資料保護法第45條規定，本章之罪須告訴乃論，但犯第41條之罪者，不在此限，所以即使被害人沒有提告，檢察官也可能偵辦。"}]]}],["$","div","被貼個資的人可以請求賠償嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"被貼個資的人可以請求賠償嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"可以主張。個人資料保護法第29條第1項規定，非公務機關違反本法致個資遭不法蒐集、處理、利用或侵害當事人權利者，負損害賠償責任，但能證明無故意或過失的除外。"}]]}],["$","div","對方的個資本來就公開在網路上，我轉貼也有問題嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"對方的個資本來就公開在網路上，我轉貼也有問題嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"可能仍有爭議。個人資料保護法第19條第1項第3款、第7款有公開資料的例外，但第7款但書排除當事人有更值得保護的重大利益的情形。是否適用，要看個案與貼文目的。"}]]}]]}]]}]
+18:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-xl font-medium tracking-wide text-[#efe9dc]","children":"延伸閱讀"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","abandonment-crime-family",{"children":["$","$L14",null,{"href":"/blog/abandonment-crime-family/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"把年邁父母或小孩丟著不管，會犯遺棄罪嗎？"}]}],["$","li","arrest-24-hour-detention-guide",{"children":["$","$L14",null,{"href":"/blog/arrest-24-hour-detention-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"被警察逮捕後多久要移送？24小時、法定扣除時間與聲押流程"}]}],["$","li","bail-deposit-return-guide",{"children":["$","$L14",null,{"href":"/blog/bail-deposit-return-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"交保金什麼時候退？退保、沒入、利息與領回流程一次看懂"}]}],["$","li","breach-of-trust-vs-embezzlement-guide",{"children":["$","$L14",null,{"href":"/blog/breach-of-trust-vs-embezzlement-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"背信罪是什麼？和侵占、詐欺怎麼分，被告了怎麼辦"}]}],["$","li","breath-test-refusal-dui-guide",{"children":["$","$L14",null,{"href":"/blog/breath-test-refusal-dui-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"拒絕酒測會怎樣？18萬元罰鍰、吊銷駕照與強制採血界線"}]}]]}]]}]
+19:["$","section",null,{"className":"band-ink mt-14 p-7 md:p-10","children":[["$","p",null,{"className":"eyebrow","children":"CONTACT"}],["$","p",null,{"className":"serif mt-3 text-2xl font-semibold tracking-wide text-white md:text-[28px]","children":"現在就需要律師？"}],["$","p",null,{"className":"mt-3 max-w-2xl text-[15px] leading-loose text-white/80","children":"收到通知書、被移送、要開羈押庭，請直接來電或加 LINE，先把目前程序告訴律師。"}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line","children":"加 LINE 諮詢"}],["$","a",null,{"href":"tel:+886-909-579-081","className":"inline-flex items-center bg-[#c9a961] px-6 py-3 text-[15px] font-medium tracking-widest text-[#efe9dc] hover:bg-[#e3c98a]","children":["律師專線 ","0909-579-081"]}],["$","a",null,{"href":"tel:+886-4-22294866","className":"inline-flex items-center px-2 py-3 text-[14px] tracking-widest text-white/60 hover:text-white","children":["事務所 ","04-2229-4866"]}]]}],["$","p",null,{"className":"mt-5 text-[13px] text-white/50","children":["台中總所：","台中市西區自由路一段101號10樓之7","（","臺中地方法院旁（法院為自由路一段91號，步行約 1 分鐘）","）｜嘉義分所：","嘉義市東區雅竹路7號"]}]]}]
+1b:["$","li","/fees/",{"children":["$","$L14",null,{"href":"/fees/","className":"hover:text-[#e3c98a]","children":"收費標準"}]}]
+1c:["$","li","/contact/",{"children":["$","$L14",null,{"href":"/contact/","className":"hover:text-[#e3c98a]","children":"聯絡我們"}]}]
+1d:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/taichung-west/","className":"hover:text-[#e3c98a]","children":"台中總所"}]}]
+1e:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/chiayi/","className":"hover:text-[#e3c98a]","children":"嘉義分所"}]}]
+1f:["$","li",null,{"children":["$","$L14",null,{"href":"/faq/","className":"hover:text-[#e3c98a]","children":"常見問題"}]}]
+20:["$","div",null,{"className":"mt-14 border-t border-white/10 py-5 text-center text-xs tracking-wide text-white/40","children":["© ",2026," 時起法律事務所 SHICHI LAW FIRM｜本網站內容為一般法律資訊，非個案法律意見。"]}]
+25:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"
