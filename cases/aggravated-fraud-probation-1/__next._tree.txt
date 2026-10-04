@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/1jeg0ux7vcw-o.css","style"]
 :HL["/_next/static/chunks/30_3srgzl5-x4.css","style"]
-:HL["/_next/static/chunks/42t42ouik-9tc.css","style"]
+:HL["/_next/static/chunks/257v_yz12vz9o.css","style"]
 :HL["/_next/static/media/6ad1cda2f16975ee-s.p.2j22bd4n1tlhh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"aggravated-fraud-probation-1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ijM6it2Hyj_jT6knw4OF5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"aggravated-fraud-probation-1","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"eGjNMKi5n8RlhI234Wz5Q"}
