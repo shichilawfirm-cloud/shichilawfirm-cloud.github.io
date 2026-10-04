@@ -1,0 +1,164 @@
+1:"$Sreact.fragment"
+2:I[24323,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Header"]
+a:X
+f:X
+f:C
+0:{"buildId":"VzKbcNG9IDMVEEDxIWg8t","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col bg-[#0f1a17]","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 pt-[84px] md:pt-[100px]","children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"https://defense.shichilawfirm.com/process/juvenile-case-process/#article\",\"mainEntityOfPage\":\"https://defense.shichilawfirm.com/process/juvenile-case-process/\",\"headline\":\"少年案件移到少年法院後怎麼走？調查、收容到保護處分\",\"description\":\"孩子被警察通知後，案件移到少年法院會怎麼走？張榮成律師依少年事件處理法，用白話說明調查、責付與收容、不付審理、保護處分及移送檢察官的條件，並整理家長現在先做的事與台中、嘉義的程序提醒，供第一次面對少年案件的家庭參考。文中條文均已對照全國法規資料庫現行規定。\",\"image\":\"https://defense.shichilawfirm.com/images/gen/og.jpg\",\"inLanguage\":\"zh-TW\",\"author\":{\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\"},\"publisher\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"datePublished\":\"2026-10-04\",\"dateModified\":\"2026-10-04\"}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\",\"name\":\"張榮成律師\",\"jobTitle\":\"主持律師\",\"image\":\"https://defense.shichilawfirm.com/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/lawyer-1.png\",\"url\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/\",\"worksFor\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"knowsAbout\":[\"詐欺、車手、人頭帳戶\",\"洗錢防制法\",\"毒品案件\",\"妨害性自主\",\"傷害、車禍過失傷害\",\"羈押庭、聲請具保、陪同偵訊\"]}"}}],["$","script","2",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"首頁\",\"item\":\"https://defense.shichilawfirm.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"程序導覽\",\"item\":\"https://defense.shichilawfirm.com/process/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"少年案件移到少年法院後怎麼走？調查、收容到保護處分\",\"item\":\"https://defense.shichilawfirm.com/process/juvenile-case-process/\"}]}"}}],["$","script","3",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"少年事件處理法所說的「少年」是幾歲？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"依少年事件處理法第2條，少年是指十二歲以上、未滿十八歲的人。不在這個年齡範圍內的人，不是這部法律所稱的少年，要看其他法律怎麼處理。\"}},{\"@type\":\"Question\",\"name\":\"少年法院可以把孩子關起來嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"少年事件處理法第26條規定，必要時法院可先責付給家長等人；只有不能責付或責付顯不適當而需收容時，才命收容於少年觀護所。收容期間依第26條之2，調查或審理中均不得逾二月。\"}},{\"@type\":\"Question\",\"name\":\"少年案件會變成刑事案件嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"未必。少年事件處理法第27條只在特定情形才裁定移送檢察官，例如犯最輕本刑五年以上有期徒刑之罪；其他情形法院可能不付審理或裁定保護處分。\"}},{\"@type\":\"Question\",\"name\":\"不付審理就代表什麼都不會發生嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"未必。少年事件處理法第29條規定，情節輕微時法院得不付審理，並同時處以告誡、交付法定代理人或現在保護少年之人嚴加管教，或轉介輔導，這些處分交由少年調查官執行。\"}},{\"@type\":\"Question\",\"name\":\"保護處分有哪幾種？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"少年事件處理法第42條第1項列了四種：訓誡並得予以假日生活輔導、交付保護管束並得命為勞動服務、交付安置輔導、令入感化教育處所施以感化教育。由法院審理後依個案選擇。\"}}]}"}}],["$","script","4",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://defense.shichilawfirm.com/process/juvenile-case-process/#webpage\",\"url\":\"https://defense.shichilawfirm.com/process/juvenile-case-process/\",\"name\":\"少年案件移到少年法院後怎麼走？調查、收容到保護處分\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".quick-answer-text\"]},\"isPartOf\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"}}"}}]],"$L3"]}],"$L4","$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[22016,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],""]
+1b:I[5500,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Image"]
+22:I[28090,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"FloatingBars"]
+23:I[58541,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"default"]
+24:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"ViewportBoundary"]
+28:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"MetadataBoundary"]
+29:I[27201,["/_next/static/chunks/0ohns_sgsfx6p.js"],"IconMark"]
+2a:I[39756,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+2b:I[37457,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+15:T2c95,<p>**孩子的案件到了少年法院，走的是「少年保護事件」程序，不是一般的刑事審判。**法院先看孩子的狀況和成長環境，再決定要不要處分、怎麼處分，只有少數情形才會回到檢察官和刑事法庭。</p>
+<h2>現在先做哪幾件事？</h2>
+<p>家長收到少年法院的通知或知道案件已移送時，可以先做這幾件事：</p>
+<ol>
+<li><strong>看清楚通知書</strong>：案號、報到時間、承辦的是法官還是少年調查官，都以通知書記載為準，不要靠聽說。</li>
+<li><strong>把通知書和孩子的相關資料收好</strong>：學校、家庭、就醫、輔導紀錄，法院調查時常會用到。</li>
+<li><strong>和孩子好好談一次</strong>：先弄清楚孩子自己怎麼說，不要急著責罵，也不要教孩子改口。</li>
+<li><strong>評估是否找律師擔任輔佐人</strong>：案情有爭議、可能被收容時，越早讓專業人員看卷越好。</li>
+<li><strong>如果孩子已經被收容，立刻問清楚收容的原因</strong>，並了解怎麼向法院聲請責付（下面會說明）。</li>
+</ol>
+<p>警察階段的準備，可以參考<a href="/process/police-notice/" rel="noopener noreferrer">收到警局通知書怎麼辦</a>。</p>
+<h2>哪些事件由少年法院處理？</h2>
+<p>依《少年事件處理法》第3條第1項，下列事件由少年法院處理：</p>
+<ul>
+<li>少年有觸犯刑罰法律的行為；</li>
+<li>少年有下列情形之一，而認為有保障其健全自我成長的必要：無正當理由經常攜帶危險器械；有施用毒品或迷幻物品的行為而尚未觸犯刑罰法律；有預備犯罪或犯罪未遂而為法所不罰的行為。</li>
+</ul>
+<p>第二種情形，同條第2項要求依孩子的性格及成長環境、經常往來對象、參與團體、出入場所、生活作息、家庭功能、就學或就業等一切情狀來判斷。也就是說，法院看的不只是一個行為，而是孩子整體的狀況。</p>
+<p>《少年事件處理法》第1條之1還規定：少年保護事件和少年刑事案件都依這部法律處理；法律沒規定的地方，在性質不相違反的範圍內，準用其他法律。</p>
+<h2>調查期間，孩子會在哪裡？</h2>
+<p>法院在處理案件期間，可以先做暫時性的安排。依《少年事件處理法》第26條第1項，少年法院於必要時可以裁定：</p>
+<ul>
+<li><strong>責付</strong>：把孩子交給法定代理人、家長、最近親屬、現在保護少年之人，或適當的機關、福利、教養機構、醫療機構等，並得在事件終結前交付少年調查官做適當的輔導；</li>
+<li><strong>收容</strong>：命孩子收容於少年觀護所，進行身心評估及行為觀察，並提供鑑別報告。但這是例外，限於不能責付，或以責付為顯不適當，而需收容的情形。</li>
+</ul>
+<p>少年、法定代理人、現在保護少年之人或輔佐人，隨時可以向少年法院聲請責付，以停止收容。</p>
+<p>收容有期限。依第26條之2第1項，少年觀護所收容少年的期間，調查或審理中均不得逾二月；有繼續收容必要時，可以在期間未滿前由少年法院裁定延長，延長收容期間不得逾一月，以一次為限。同條第2項規定，收容原因消滅時，少年法院應依職權或依少年、法定代理人、現在保護少年之人或輔佐人的聲請，撤銷收容裁定。</p>
+<h2>調查之後，法院可能怎麼處理？</h2>
+<p>下表整理法條裡幾種主要的走向，實際結果由少年法院依個案決定：</p>
+<table>
+<thead>
+<tr>
+<th>走向</th>
+<th>法條</th>
+<th>內容</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>不付審理</td>
+<td>第28條</td>
+<td>認為沒有付保護處分的原因，或有其他事由不應付審理</td>
+</tr>
+<tr>
+<td>不付審理並為處分</td>
+<td>第29條</td>
+<td>情節輕微，得告誡、交付法定代理人或現在保護少年之人嚴加管教，或轉介輔導</td>
+</tr>
+<tr>
+<td>保護處分</td>
+<td>第42條</td>
+<td>審理後裁定訓誡、保護管束、安置輔導或感化教育</td>
+</tr>
+<tr>
+<td>移送檢察官</td>
+<td>第27條</td>
+<td>符合法定情形時，裁定移送有管轄權的檢察署檢察官</td>
+</tr>
+</tbody></table>
+<p>《少年事件處理法》第29條第3項、第4項另有一個家長要知道的地方：法院在作不付審理裁定前，經少年、少年的法定代理人和被害人同意，可以轉介進行修復，或讓少年向被害人道歉、立悔過書、對被害人的損害負賠償責任。其中賠償的部分，少年的法定代理人要負連帶賠償責任，並得作為民事強制執行的名義。</p>
+<p>至於移送檢察官，第27條第1項規定，少年觸犯刑罰法律，而犯最輕本刑為五年以上有期徒刑之罪，或事件繫屬後已滿二十歲的，應裁定移送；第2項規定，其他情形若犯罪情節重大，參酌品行、性格、經歷等情狀，以受刑事處分為適當的，也得裁定移送。第3項規定，這些移送規定對犯罪時未滿十四歲的少年不適用。</p>
+<h2>保護處分有哪些、會持續多久？</h2>
+<p>《少年事件處理法》第42條第1項規定，法院審理後應以裁定諭知下列保護處分之一：</p>
+<ol>
+<li>訓誡，並得予以假日生活輔導；</li>
+<li>交付保護管束，並得命為勞動服務；</li>
+<li>交付安置於適當的福利、教養機構、醫療機構、執行過渡性教育措施或其他適當措施的處所輔導；</li>
+<li>令入感化教育處所施以感化教育。</li>
+</ol>
+<p>同條第2項規定，孩子如果施用毒品或迷幻物品成癮、有酗酒習慣，或身體、精神或其他心智顯有障礙，法院可以在保護處分前或同時，另外諭知禁戒或治療。第3項規定，第1項處分的期間毋庸諭知，也就是裁定書上不會直接寫「幾個月」，期間要看執行的規定：</p>
+<table>
+<thead>
+<tr>
+<th>處分</th>
+<th>法律規定的範圍</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>假日生活輔導</td>
+<td>三次至十次，次數由少年保護官視輔導成效而定（第50條第3項）</td>
+</tr>
+<tr>
+<td>保護管束所命的勞動服務</td>
+<td>三小時以上五十小時以下（第55條之1）</td>
+</tr>
+<tr>
+<td>安置輔導</td>
+<td>二月以上二年以下（第55條之2第1項）</td>
+</tr>
+<tr>
+<td>保護管束、感化教育</td>
+<td>執行期間均不得逾三年（第53條）</td>
+</tr>
+</tbody></table>
+<p>另外，依第54條第1項，轉介輔導處分及保護處分的執行，至多執行至滿二十一歲為止。執行期間表現好也有提前結束的機制：保護管束執行逾六月著有成效，少年保護官得聲請免除執行（第55條第1項）；感化教育執行逾六月，認無繼續執行必要時，得聲請免除或停止執行（第56條第1項）。反過來，保護管束期間違反應遵守事項情節重大的，可能被聲請撤銷，改令入感化處所（第55條第4項）。所以處分確定後，孩子在執行期間的表現同樣重要。</p>
+<h2>在台中或嘉義，案件由哪裡處理？</h2>
+<p>案件由哪一個法院、哪一位少年調查官或少年保護官承辦，以通知書或裁定書上記載的機關為準。台中、嘉義的家長收到通知後，不確定時可以直接依通知書上的承辦單位確認，不必聽信轉述。事務所的服務地點見<a href="/locations/taichung-west/" rel="noopener noreferrer">台中總所</a>與<a href="/locations/chiayi/" rel="noopener noreferrer">嘉義分所</a>，律師經歷見<a href="/lawyers/zhang-rong-cheng/" rel="noopener noreferrer">張榮成律師</a>。</p>
+<p>如果案件之後有可能走到檢察官階段，可以預先了解<a href="/blog/summons-prosecutor-investigation/" rel="noopener noreferrer">地檢署傳票怎麼處理</a>與<a href="/process/indictment-received/" rel="noopener noreferrer">收到起訴書怎麼辦</a>。</p>
+<h2>本文依據哪些官方法源？</h2>
+<p>本文於 <strong>2026年10月4日</strong>依全國法規資料庫現行條文整理，未引用未經查證的裁判，也未使用案件個資：</p>
+<ul>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=1-1" rel="noopener noreferrer">《少年事件處理法》第1-1條：本法與其他法律的關係</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=2" rel="noopener noreferrer">《少年事件處理法》第2條：少年的定義</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=3" rel="noopener noreferrer">《少年事件處理法》第3條：少年法院處理的事件</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=26" rel="noopener noreferrer">《少年事件處理法》第26條：責付與收容</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=26-2" rel="noopener noreferrer">《少年事件處理法》第26-2條：收容期間與延長</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=27" rel="noopener noreferrer">《少年事件處理法》第27條：移送檢察官</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=28" rel="noopener noreferrer">《少年事件處理法》第28條：不付審理</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=29" rel="noopener noreferrer">《少年事件處理法》第29條：情節輕微的不付審理與處分</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=42" rel="noopener noreferrer">《少年事件處理法》第42條：保護處分</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=50" rel="noopener noreferrer">《少年事件處理法》第50條：訓誡與假日生活輔導</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=53" rel="noopener noreferrer">《少年事件處理法》第53條：保護管束與感化教育的期間上限</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=54" rel="noopener noreferrer">《少年事件處理法》第54條：執行至滿二十一歲為止</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=55" rel="noopener noreferrer">《少年事件處理法》第55條：保護管束的免除與撤銷</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=55-1" rel="noopener noreferrer">《少年事件處理法》第55-1條：勞動服務時數</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=55-2" rel="noopener noreferrer">《少年事件處理法》第55-2條：安置輔導期間</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010011&amp;flno=56" rel="noopener noreferrer">《少年事件處理法》第56條：感化教育的免除或停止</a></li>
+</ul>
+<p>本文是一般法律資訊，不能取代律師依少年調查報告、通知書與完整卷證所作的個別法律意見，也不保證不付審理或其他特定結果。</p>
+3:["$","div",null,{"className":"mx-auto px-5 py-12 md:px-8 md:py-16 max-w-[860px]","children":[["$","nav",null,{"aria-label":"breadcrumb","className":"text-[13px] tracking-wide text-[#a39c8d]","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[false,["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]]}],["$","li","/process/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","$L14",null,{"href":"/process/","className":"hover:text-[#e3c98a]","children":"程序導覽"}]]}],["$","li","/process/juvenile-case-process/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","span",null,{"className":"text-[#d6cfc0]","children":"少年案件移到少年法院後怎麼走？調查、收容到保護處分"}]]}]]}]}],["$","header",null,{"className":"mt-6","children":[["$","p",null,{"className":"text-[13px] tracking-widest text-[#d4b46a]","children":["程序導覽",""]}],["$","h1",null,{"className":"mt-3 text-3xl font-medium leading-snug tracking-wide text-[#efe9dc] md:text-[38px] md:leading-[1.35]","children":"少年案件移到少年法院後怎麼走？調查、收容到保護處分"}],["$","p",null,{"className":"mt-4 text-[13px] tracking-wide text-[#a39c8d]","children":["發佈：2026-10-04","","｜作者：","張榮成律師"]}],["$","ul",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","li","少年事件",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","少年事件"]}],["$","li","少年法院",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","少年法院"]}],["$","li","責付",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","責付"]}],["$","li","收容",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","收容"]}],["$","li","保護處分",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","保護處分"]}]]}]]}],["$","div",null,{"className":"mt-8","children":["$","div",null,{"className":"paper px-5 py-8 text-[#222] md:px-12 md:py-14","children":["",["$","section",null,{"className":"quick-answer mb-6 border-l-4 border-l-[#b8933f] bg-[#efe9df] px-5 py-4","aria-label":"快速回答","children":[["$","p",null,{"className":"text-[11px] tracking-[0.3em] text-[#9a7a2f]","children":"QUICK ANSWER"}],["$","p",null,{"className":"quick-answer-text mt-2 text-[17px] font-semibold leading-relaxed text-[#1a1a1a]","children":"少年觸法依少年事件處理法第3條由少年法院處理，之後可能不付審理或裁定保護處分（第29條、第42條），特定情形才依第27條移送檢察官。"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],false,"$L16"]}]}],"$L17","$L18","$L19","$L1a"]}]
+4:["$","footer",null,{"className":"band-ink border-t border-[#c9a961]/30 pt-16","children":[["$","div",null,{"className":"mx-auto max-w-[1400px] px-6 md:px-10","children":["$","div",null,{"className":"grid gap-12 md:grid-cols-[280px_1fr_1fr]","children":[["$","div",null,{"children":[["$","$L1b",null,{"src":"/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/logo.webp","alt":"時起法律事務所","width":207,"height":190,"className":"h-16 w-auto","loading":"lazy"}],["$","p",null,{"className":"serif mt-4 text-xl tracking-[0.25em] text-white","children":"時起法律事務所"}],["$","p",null,{"className":"eyebrow mt-1","children":"SHICHI LAW FIRM"}],["$","p",null,{"className":"mt-4 text-[13px] leading-relaxed text-white/60","children":["台中刑事辯護律師",["$","br",null,{}],"臺中地方法院旁"]}]]}],["$","address",null,{"className":"space-y-2 text-[14px] not-italic tracking-wide text-white/80","children":[["$","p",null,{"className":"eyebrow mb-3","children":"CONTACT"}],["$","p",null,{"children":["律師專線：",["$","a",null,{"href":"tel:+886-909-579-081","className":"text-white hover:text-[#e3c98a]","children":"0909-579-081"}]]}],["$","p",null,{"children":["事務所：",["$","a",null,{"href":"tel:+886-4-22294866","className":"hover:text-[#e3c98a]","children":"04-2229-4866"}]]}],["$","p",null,{"children":["LINE：",["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"hover:text-[#e3c98a]","children":"@629xmmsh"}]]}],["$","p",null,{"children":["信箱：",["$","a",null,{"href":"mailto:shichilawfirm@gmail.com","className":"hover:text-[#e3c98a]","children":"shichilawfirm@gmail.com"}]]}],["$","p",null,{"children":["台中總所：",["$","a",null,{"href":"https://maps.app.goo.gl/sMGUpdk78vPoMZf39","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"台中市西區自由路一段101號10樓之7"}]]}],["$","p",null,{"children":["嘉義分所：",["$","a",null,{"href":"https://maps.app.goo.gl/SrbMHDXV5yLWyWGE9","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"嘉義市東區雅竹路7號"}]]}],["$","p",null,{"className":"text-[13px] text-white/50","children":"週一至週五 09:00–18:00；週六 09:00–12:00（預約制）"}]]}],["$","div",null,{"className":"grid gap-8 sm:grid-cols-2","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"PRACTICE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li","/criminal-defense/fraud/",{"children":["$","$L14",null,{"href":"/criminal-defense/fraud/","className":"hover:text-[#e3c98a]","children":"詐欺／車手"}]}],["$","li","/criminal-defense/mule-account/",{"children":["$","$L14",null,{"href":"/criminal-defense/mule-account/","className":"hover:text-[#e3c98a]","children":"人頭帳戶／警示帳戶"}]}],["$","li","/criminal-defense/money-laundering/",{"children":["$","$L14",null,{"href":"/criminal-defense/money-laundering/","className":"hover:text-[#e3c98a]","children":"洗錢防制法"}]}],["$","li","/criminal-defense/drugs/",{"children":["$","$L14",null,{"href":"/criminal-defense/drugs/","className":"hover:text-[#e3c98a]","children":"毒品案件"}]}],["$","li","/criminal-defense/sex-offense/",{"children":["$","$L14",null,{"href":"/criminal-defense/sex-offense/","className":"hover:text-[#e3c98a]","children":"妨害性自主"}]}],["$","li","/criminal-defense/traffic-injury/",{"children":["$","$L14",null,{"href":"/criminal-defense/traffic-injury/","className":"hover:text-[#e3c98a]","children":"車禍過失傷害"}]}],["$","li","/criminal-defense/bail/",{"children":["$","$L14",null,{"href":"/criminal-defense/bail/","className":"hover:text-[#e3c98a]","children":"羈押庭／聲請具保"}]}],["$","li","/process/police-notice/",{"children":["$","$L14",null,{"href":"/process/police-notice/","className":"hover:text-[#e3c98a]","children":"收到警局通知書怎麼辦"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"SITE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li",null,{"children":["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]}],[["$","li","/criminal-defense/",{"children":["$","$L14",null,{"href":"/criminal-defense/","className":"hover:text-[#e3c98a]","children":"刑事辯護"}]}],["$","li","/process/",{"children":["$","$L14",null,{"href":"/process/","className":"hover:text-[#e3c98a]","children":"程序導覽"}]}],["$","li","/cases/",{"children":["$","$L14",null,{"href":"/cases/","className":"hover:text-[#e3c98a]","children":"勝訴案例"}]}],["$","li","/blog/",{"children":["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]}],["$","li","/lawyers/",{"children":["$","$L14",null,{"href":"/lawyers/","className":"hover:text-[#e3c98a]","children":"律師團隊"}]}],"$L1c","$L1d"],"$L1e","$L1f","$L20"]}]]}]]}]]}]}],"$L21"]}]
+5:["$","$L22",null,{}]
+6:["$","div",null,{"className":"cta-bar fixed inset-x-0 bottom-0 z-40 grid h-16 grid-cols-2 gap-2 border-t border-[#c9a961]/30 bg-[#0f1a17]/95 px-3 py-2 backdrop-blur md:hidden","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line justify-center rounded-lg px-2 py-0 text-[15px]","children":[["$","$L23",null,{"iconNode":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]],"className":"lucide-message-circle h-5 w-5"}]," 加 LINE 諮詢"]}],["$","a",null,{"href":"tel:+886-909-579-081","className":"flex items-center justify-center gap-2 rounded-lg bg-[#c9a961] text-[15px] font-bold tracking-wider text-[#14171c]","children":[["$","$L23",null,{"iconNode":[["path",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384","key":"9njp5v"}]],"className":"lucide-phone h-5 w-5"}]," 立即聯絡律師"]}]]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/1msqpvfaknl3y.js","async":true}]
+8:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+b:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#111111"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"少年案件移到少年法院後怎麼走？調查、收容到保護處分｜時起法律事務所"}],["$","meta","1",{"name":"description","content":"孩子被警察通知後，案件移到少年法院會怎麼走？張榮成律師依少年事件處理法，用白話說明調查、責付與收容、不付審理、保護處分及移送檢察官的條件，並整理家長現在先做的事與台中、嘉義的程序提醒，供第一次面對少年案件的家庭參考。文中條文均已對照全國法規資料庫現行規定。"}],["$","meta","2",{"name":"keywords","content":"少年事件處理法,少年法院,少年保護事件,少年收容,保護處分,台中少年事件律師"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","link","4",{"rel":"canonical","href":"https://defense.shichilawfirm.com/process/juvenile-case-process/"}],["$","meta","5",{"property":"og:title","content":"少年案件移到少年法院後怎麼走？調查、收容到保護處分｜時起法律事務所"}],["$","meta","6",{"property":"og:description","content":"孩子被警察通知後，案件移到少年法院會怎麼走？張榮成律師依少年事件處理法，用白話說明調查、責付與收容、不付審理、保護處分及移送檢察官的條件，並整理家長現在先做的事與台中、嘉義的程序提醒，供第一次面對少年案件的家庭參考。文中條文均已對照全國法規資料庫現行規定。"}],["$","meta","7",{"property":"og:url","content":"https://defense.shichilawfirm.com/process/juvenile-case-process/"}],["$","meta","8",{"property":"og:site_name","content":"時起法律事務所"}],["$","meta","9",{"property":"og:locale","content":"zh_TW"}],["$","meta","10",{"property":"og:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-10-04"}],["$","meta","13",{"property":"article:modified_time","content":"2026-10-04"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"少年案件移到少年法院後怎麼走？調查、收容到保護處分｜時起法律事務所"}],["$","meta","16",{"name":"twitter:description","content":"孩子被警察通知後，案件移到少年法院會怎麼走？張榮成律師依少年事件處理法，用白話說明調查、責付與收容、不付審理、保護處分及移送檢察官的條件，並整理家長現在先做的事與台中、嘉義的程序提醒，供第一次面對少年案件的家庭參考。文中條文均已對照全國法規資料庫現行規定。"}],["$","meta","17",{"name":"twitter:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/favicon.ico"}],["$","$L29","20",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+13:true
+16:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L14",null,{"href":"/lawyers/zhang-rong-cheng/","className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）","","｜最後更新：2026-10-04"]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]
+17:["$","section",null,{"className":"mt-14","children":[["$","p",null,{"className":"eyebrow","children":"FAQ"}],["$","h2",null,{"className":"mt-2 text-2xl font-semibold tracking-wide text-[#efe9dc]","children":"常見問題"}],["$","dl",null,{"className":"mt-6 divide-y divide-[#c9a961]/20 border-y border-[#c9a961]/20","children":[["$","div","少年事件處理法所說的「少年」是幾歲？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"少年事件處理法所說的「少年」是幾歲？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"依少年事件處理法第2條，少年是指十二歲以上、未滿十八歲的人。不在這個年齡範圍內的人，不是這部法律所稱的少年，要看其他法律怎麼處理。"}]]}],["$","div","少年法院可以把孩子關起來嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"少年法院可以把孩子關起來嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"少年事件處理法第26條規定，必要時法院可先責付給家長等人；只有不能責付或責付顯不適當而需收容時，才命收容於少年觀護所。收容期間依第26條之2，調查或審理中均不得逾二月。"}]]}],["$","div","少年案件會變成刑事案件嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"少年案件會變成刑事案件嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"未必。少年事件處理法第27條只在特定情形才裁定移送檢察官，例如犯最輕本刑五年以上有期徒刑之罪；其他情形法院可能不付審理或裁定保護處分。"}]]}],["$","div","不付審理就代表什麼都不會發生嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"不付審理就代表什麼都不會發生嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"未必。少年事件處理法第29條規定，情節輕微時法院得不付審理，並同時處以告誡、交付法定代理人或現在保護少年之人嚴加管教，或轉介輔導，這些處分交由少年調查官執行。"}]]}],["$","div","保護處分有哪幾種？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"保護處分有哪幾種？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"少年事件處理法第42條第1項列了四種：訓誡並得予以假日生活輔導、交付保護管束並得命為勞動服務、交付安置輔導、令入感化教育處所施以感化教育。由法院審理後依個案選擇。"}]]}]]}]]}]
+18:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-xl font-medium tracking-wide text-[#efe9dc]","children":"相關服務"}],["$","ul",null,{"className":"mt-4 flex flex-wrap gap-3","children":[["$","li","bail",{"children":["$","$L14",null,{"href":"/criminal-defense/bail/","className":"inline-block border border-[#c9a961]/50 px-4 py-2 text-[14px] text-[#d4b46a] hover:bg-[#c9a961] hover:text-[#0f1a17]","children":"羈押庭／聲請具保"}]}]]}]]}]
+19:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-xl font-medium tracking-wide text-[#efe9dc]","children":"延伸閱讀"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","after-bail-conditions",{"children":["$","$L14",null,{"href":"/process/after-bail-conditions/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"交保之後要注意什麼？報到、限制出境與保證金沒入"}]}],["$","li","criminal-appeal-guide",{"children":["$","$L14",null,{"href":"/process/criminal-appeal-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制"}]}],["$","li","execution-notice-report-to-prison",{"children":["$","$L14",null,{"href":"/process/execution-notice-report-to-prison/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"收到地檢署執行傳票怎麼辦？可以延後報到嗎"}]}],["$","li","family-arrested-find-and-visit",{"children":["$","$L14",null,{"href":"/process/family-arrested-find-and-visit/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"家人被警察帶走了，怎麼知道人在哪裡、可以見面嗎？"}]}],["$","li","wanted-warrant-surrender",{"children":["$","$L14",null,{"href":"/process/wanted-warrant-surrender/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"被通緝了怎麼辦？通緝的原因、主動到案與撤銷通緝"}]}]]}]]}]
+1a:["$","section",null,{"className":"band-ink mt-14 p-7 md:p-10","children":[["$","p",null,{"className":"eyebrow","children":"CONTACT"}],["$","p",null,{"className":"serif mt-3 text-2xl font-semibold tracking-wide text-white md:text-[28px]","children":"現在就需要律師？"}],["$","p",null,{"className":"mt-3 max-w-2xl text-[15px] leading-loose text-white/80","children":"收到通知書、被移送、要開羈押庭，請直接來電或加 LINE，先把目前程序告訴律師。"}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line","children":"加 LINE 諮詢"}],["$","a",null,{"href":"tel:+886-909-579-081","className":"inline-flex items-center bg-[#c9a961] px-6 py-3 text-[15px] font-medium tracking-widest text-[#efe9dc] hover:bg-[#e3c98a]","children":["律師專線 ","0909-579-081"]}],["$","a",null,{"href":"tel:+886-4-22294866","className":"inline-flex items-center px-2 py-3 text-[14px] tracking-widest text-white/60 hover:text-white","children":["事務所 ","04-2229-4866"]}]]}],["$","p",null,{"className":"mt-5 text-[13px] text-white/50","children":["台中總所：","台中市西區自由路一段101號10樓之7","（","臺中地方法院旁（法院為自由路一段91號，步行約 1 分鐘）","）｜嘉義分所：","嘉義市東區雅竹路7號"]}]]}]
+1c:["$","li","/fees/",{"children":["$","$L14",null,{"href":"/fees/","className":"hover:text-[#e3c98a]","children":"收費標準"}]}]
+1d:["$","li","/contact/",{"children":["$","$L14",null,{"href":"/contact/","className":"hover:text-[#e3c98a]","children":"聯絡我們"}]}]
+1e:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/taichung-west/","className":"hover:text-[#e3c98a]","children":"台中總所"}]}]
+1f:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/chiayi/","className":"hover:text-[#e3c98a]","children":"嘉義分所"}]}]
+20:["$","li",null,{"children":["$","$L14",null,{"href":"/faq/","className":"hover:text-[#e3c98a]","children":"常見問題"}]}]
+21:["$","div",null,{"className":"mt-14 border-t border-white/10 py-5 text-center text-xs tracking-wide text-white/40","children":["© ",2026," 時起法律事務所 SHICHI LAW FIRM｜本網站內容為一般法律資訊，非個案法律意見。"]}]
+26:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

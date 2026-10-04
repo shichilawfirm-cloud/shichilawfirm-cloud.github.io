@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[24323,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Header"]
+a:X
+f:X
+f:C
+0:{"buildId":"VzKbcNG9IDMVEEDxIWg8t","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col bg-[#0f1a17]","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 pt-[84px] md:pt-[100px]","children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/#article\",\"mainEntityOfPage\":\"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/\",\"headline\":\"收養配偶的小孩要怎麼辦？繼親收養的條件與流程\",\"description\":\"收養配偶的小孩要怎麼辦？張榮成律師依《民法》第1073條、第1076條之1、第1079條與《家事事件法》，白話說明年齡差、生父母同意、法院認可流程與收養後效力，並提醒台中、嘉義的當事人先準備哪些資料。也整理常見例外與限制，是否認可由法院依個案決定。\",\"image\":\"https://defense.shichilawfirm.com/images/gen/og.jpg\",\"inLanguage\":\"zh-TW\",\"author\":{\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\"},\"publisher\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"datePublished\":\"2026-10-04\",\"dateModified\":\"2026-10-04\"}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\",\"name\":\"張榮成律師\",\"jobTitle\":\"主持律師\",\"image\":\"https://defense.shichilawfirm.com/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/lawyer-1.png\",\"url\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/\",\"worksFor\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"knowsAbout\":[\"詐欺、車手、人頭帳戶\",\"洗錢防制法\",\"毒品案件\",\"妨害性自主\",\"傷害、車禍過失傷害\",\"羈押庭、聲請具保、陪同偵訊\"]}"}}],["$","script","2",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"首頁\",\"item\":\"https://defense.shichilawfirm.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"法律知識\",\"item\":\"https://defense.shichilawfirm.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"收養配偶的小孩要怎麼辦？繼親收養的條件與流程\",\"item\":\"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/\"}]}"}}],["$","script","3",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"收養配偶的小孩，年齡要差多少？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"依《民法》第1073條第2項，夫妻之一方收養他方之子女時，應長於被收養者十六歲以上。一般收養則依同條第1項，應長於被收養者二十歲以上，但夫妻共同收養有例外。\"}},{\"@type\":\"Question\",\"name\":\"只有我一個人收養配偶的孩子，可以嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"可以。《民法》第1074條第1款規定，夫妻之一方收養他方之子女時，得單獨收養，不必夫妻共同為之。\"}},{\"@type\":\"Question\",\"name\":\"孩子的另一方生父或生母不同意，還能收養嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"要看情形。依《民法》第1076條之1第1項，原則上需要父母同意；但有一方對子女未盡保護教養義務或有其他顯然不利子女的情事而拒絕同意，或事實上不能為意思表示等例外，是否成立由法院判斷。\"}},{\"@type\":\"Question\",\"name\":\"只要簽好收養契約就算收養成功了嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"不是。《民法》第1079條第1項規定，收養應以書面為之，並向法院聲請認可。依《民法》第1079條之3，收養自法院認可裁定確定時，溯及於收養契約成立時發生效力。\"}},{\"@type\":\"Question\",\"name\":\"收養之後，孩子與原本的生父或生母還有權利義務嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"《民法》第1077條第2項規定，養子女與本生父母及其親屬間的權利義務，於收養關係存續中停止；但夫妻之一方收養他方之子女時，他方與其子女的權利義務，不因收養而受影響。\"}}]}"}}],["$","script","4",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/#webpage\",\"url\":\"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/\",\"name\":\"收養配偶的小孩要怎麼辦？繼親收養的條件與流程\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".quick-answer-text\"]},\"isPartOf\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"}}"}}]],"$L3"]}],"$L4","$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[22016,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],""]
+1a:I[5500,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Image"]
+21:I[28090,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"FloatingBars"]
+22:I[58541,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"default"]
+23:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"OutletBoundary"]
+24:"$Sreact.suspense"
+26:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"ViewportBoundary"]
+27:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"MetadataBoundary"]
+28:I[27201,["/_next/static/chunks/0ohns_sgsfx6p.js"],"IconMark"]
+29:I[39756,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+2a:I[37457,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+15:T3011,<p>**繼親收養不是簽一張契約就完成，要有書面、有該有的同意，還要經法院認可。**認可時法院以「養子女最佳利益」為判斷標準，裁定確定後收養才發生效力。</p>
+<p>這篇專門講「夫妻其中一方收養另一方的孩子」。一般收養的規則，有些相同，有些不一樣，我會把差異標出來。</p>
+<h2>繼親收養的基本條件，一張表看懂</h2>
+<table>
+<thead>
+<tr>
+<th>項目</th>
+<th>條文</th>
+<th>規定重點</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>年齡</td>
+<td>《民法》第1073條第2項</td>
+<td>夫妻之一方收養他方之子女時，應長於被收養者十六歲以上</td>
+</tr>
+<tr>
+<td>親屬限制</td>
+<td>第1073條之1第2款</td>
+<td>直系姻親原則上不得收養；但夫妻之一方收養他方之子女，不在此限</td>
+</tr>
+<tr>
+<td>夫妻是否要共同收養</td>
+<td>第1074條第1款</td>
+<td>夫妻之一方收養他方之子女，得單獨收養</td>
+</tr>
+<tr>
+<td>書面與認可</td>
+<td>第1079條第1項</td>
+<td>收養應以書面為之，並向法院聲請認可</td>
+</tr>
+<tr>
+<td>收養認可標準</td>
+<td>第1079條之1</td>
+<td>未成年人被收養，法院應依養子女最佳利益為之</td>
+</tr>
+</tbody></table>
+<p>一般收養的年齡差是二十歲以上（第1073條第1項本文），夫妻共同收養時一方長二十歲以上、他方長十六歲以上也可以（同項但書）；繼親收養則依第1073條第2項，只要求收養者長於被收養者十六歲以上。違反年齡規定的收養，依第1079條之4無效。</p>
+<h2>誰要同意？</h2>
+<p>這是繼親收養最容易卡住的地方。</p>
+<p><strong>孩子的父母。</strong>《民法》第1076條之1第1項規定，子女被收養時，應得其父母的同意。有下列情形之一，則不在此限：</p>
+<ol>
+<li>父母之一方或雙方對子女未盡保護教養義務，或有其他顯然不利子女的情事而拒絕同意；</li>
+<li>父母之一方或雙方事實上不能為意思表示。</li>
+</ol>
+<p>同條第2項規定，同意應作成書面並經公證；但已向法院聲請收養認可的，可以用言詞向法院表示並記明筆錄代替。第3項規定，同意不得附條件或期限。</p>
+<p>條文寫的是「父母」，沒有限於有親權的一方。在繼親收養的情形，要分開看兩個人：</p>
+<ul>
+<li><strong>你的配偶（孩子的生父或生母）</strong>：如果他是孩子的法定代理人，已依第1076條之2第1項或第2項以法定代理人身分代為意思表示或同意，依同條第3項，就不必再依第1076條之1另為同意。</li>
+<li><strong>孩子另一方的生父或生母</strong>：即使離婚後沒有行使親權，仍屬第1076條之1第1項的「父母」，原則上要取得他的同意，並依第2項作成書面並經公證（或已聲請認可後向法院以言詞表示記明筆錄）。只有在他對子女未盡保護教養義務或有其他顯然不利子女的情事而拒絕同意，或事實上不能為意思表示時，才不需要他的同意。</li>
+</ul>
+<p>例外情形是否成立，條文沒有給標準答案，要靠具體事實與證據說明，由法院判斷。違反第1076條之1的收養，依第1079條之4無效，所以這一關不能跳過。</p>
+<p>**孩子本人或法定代理人。**依《民法》第1076條之2第1項，被收養者未滿七歲，由法定代理人代為並代受意思表示；依第2項，滿七歲以上的未成年人被收養，應得其法定代理人的同意。</p>
+<p>**被收養者的配偶。**如果被收養者本人已婚，依《民法》第1076條，應得他方的同意；他方不能為意思表示或生死不明已逾三年者除外。</p>
+<h2>現在先做哪幾件事？</h2>
+<ol>
+<li><strong>確認年齡差</strong>：收養者是否長於孩子十六歲以上。</li>
+<li><strong>確認孩子另一方生父或生母的狀況</strong>：是否同意、是否聯絡得上、是否有拒絕同意的理由。</li>
+<li><strong>整理與孩子共同生活的事實</strong>：生活多久、誰負責照顧、孩子與你的感情、學校與生活情形。</li>
+<li><strong>準備身分文件</strong>：戶籍謄本、身分證明、結婚證明等。《家事事件法》第115條第3項列有聲請時應附的文件，包括收養契約書與身分證明文件。</li>
+<li><strong>準備收養人的職業、健康與資力資料，以及經公證的父母同意書</strong>：《家事事件法》第115條第4項第1款、第3款列為宜附具的文件；同意書在民法第1076條之1第1項但書、第2項但書或第1076條之2第3項的情形，可以不附。</li>
+<li><strong>先和孩子好好溝通</strong>：孩子年齡較大時，他的想法很重要，也會影響後續程序。</li>
+</ol>
+<h2>向法院聲請認可，流程是什麼？</h2>
+<p>依《家事事件法》第114條第1項，認可收養子女事件，專屬收養人或被收養人住所地的法院管轄。第115條第1項規定，認可收養事件，除法律別有規定外，以收養人和被收養人為聲請人，並要以書狀或於筆錄載明收養人與被收養人、被收養人的父母、收養人及被收養人的配偶。</p>
+<p>第116條規定，法院認可未成年人被收養前，得准收養人和未成年人共同生活一段期間，供法院決定參考；共同生活期間，由收養人行使負擔對未成年人的權利義務。這個期間的長短，由法院決定。</p>
+<p>法院認可的標準，《民法》第1079條第2項規定，如果收養有無效、得撤銷的原因，或違反其他法律規定，法院應不予認可。第1079條之1則要求，法院為未成年人被收養的認可時，應依養子女最佳利益為之。</p>
+<h2>認可之後，法律效果是什麼？</h2>
+<p>依《家事事件法》第117條第1項，認可收養的裁定，於其對聲請人及第115條第2項所定之人確定時發生效力。《民法》第1079條之3規定，收養自法院認可裁定確定時，溯及於收養契約成立時發生效力；但第三人已取得的權利，不受影響。</p>
+<p>收養的效力，《民法》第1077條第1項規定，養子女與養父母及其親屬間的關係，除法律另有規定外，與婚生子女相同。</p>
+<p>同條第2項分成兩句，繼親收養時要對照著看：</p>
+<ul>
+<li><strong>本文</strong>：養子女與本生父母及其親屬間的權利義務，於收養關係存續中停止。在繼親收養，這指的是沒有和收養者結婚的那一方生父或生母，他與孩子之間的權利義務（例如扶養），在收養關係存續中停止。</li>
+<li><strong>但書</strong>：夫妻之一方收養他方之子女時，他方（也就是你的配偶）與其子女的權利義務，不因收養而受影響。</li>
+</ul>
+<p>所以繼親收養後，孩子在法律上是你與配偶的子女；孩子與另一方生父或生母的權利義務，條文用的字是「停止」。</p>
+<p>姓氏方面，《民法》第1078條規定，養子女從收養者之姓或維持原來之姓，並準用第1059條第2項至第5項的規定。</p>
+<h2>違反規定會怎麼樣？</h2>
+<p>《民法》第1079條之4規定，收養子女違反第1073條、第1073條之1、第1075條、第1076條之1、第1076條之2第1項或第1079條第1項規定的，收養無效。依《民法》第1079條之5，違反第1074條的，收養者的配偶得請求法院撤銷；違反第1076條或第1076條之2第2項的，被收養者的配偶或法定代理人得請求法院撤銷。兩者都在自知悉其事實之日起已逾六個月，或自法院認可之日起已逾一年時，不得再請求撤銷。</p>
+<p>所以同意的對象與程序，不是形式而已，漏了會影響收養的效力。</p>
+<h2>在台中或嘉義處理，應注意什麼？</h2>
+<p>收養認可事件，依《家事事件法》第114條第1項專屬收養人或被收養人住所地法院管轄。實際承辦機關，以通知書或裁判書記載為準。</p>
+<p>家事相關議題可先看<a href="/family/" rel="noopener noreferrer">家事事件總覽</a>，在地服務說明見<a href="/locations/taichung-west/" rel="noopener noreferrer">台中總所</a>與<a href="/locations/chiayi/" rel="noopener noreferrer">嘉義分所</a>，律師背景見<a href="/lawyers/zhang-rong-cheng/" rel="noopener noreferrer">張榮成律師</a>。</p>
+<h2>本文依據哪些官方法源？</h2>
+<p>本文於 <strong>2026年10月4日</strong>依全國法規資料庫現行條文整理，未引用未經查證的裁判，也未使用案件個資：</p>
+<ul>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1073" rel="noopener noreferrer">《民法》第1073條：收養者與被收養者的年齡差</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1073-1" rel="noopener noreferrer">《民法》第1073條之1：不得收養的親屬</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1074" rel="noopener noreferrer">《民法》第1074條：夫妻共同收養與例外</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1075" rel="noopener noreferrer">《民法》第1075條：除夫妻共同收養外不得同時為二人之養子女</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1076" rel="noopener noreferrer">《民法》第1076條：被收養者配偶之同意</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1076-1" rel="noopener noreferrer">《民法》第1076條之1：子女被收養時父母之同意</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1076-2" rel="noopener noreferrer">《民法》第1076條之2：未成年人被收養時法定代理人之同意</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1077" rel="noopener noreferrer">《民法》第1077條：收養之效力</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1078" rel="noopener noreferrer">《民法》第1078條：養子女之姓氏</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1059" rel="noopener noreferrer">《民法》第1059條：子女姓氏變更（第1078條準用）</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1079" rel="noopener noreferrer">《民法》第1079條：收養之書面與認可</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1079-1" rel="noopener noreferrer">《民法》第1079條之1：未成年人被收養之認可標準</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1079-3" rel="noopener noreferrer">《民法》第1079條之3：收養之生效時點</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1079-4" rel="noopener noreferrer">《民法》第1079條之4：收養無效</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1079-5" rel="noopener noreferrer">《民法》第1079條之5：收養之撤銷</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0010048&amp;flno=114" rel="noopener noreferrer">《家事事件法》第114條：認可收養事件之管轄</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0010048&amp;flno=115" rel="noopener noreferrer">《家事事件法》第115條：認可收養之聲請</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0010048&amp;flno=116" rel="noopener noreferrer">《家事事件法》第116條：認可前之共同生活</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0010048&amp;flno=117" rel="noopener noreferrer">《家事事件法》第117條：認可裁定之生效</a></li>
+</ul>
+<p>本文是一般法律資訊，不能取代律師依家庭情況、同意文件與完整卷證所作的個別法律意見，也不保證法院認可收養或其他特定結果。</p>
+3:["$","div",null,{"className":"mx-auto px-5 py-12 md:px-8 md:py-16 max-w-[860px]","children":[["$","nav",null,{"aria-label":"breadcrumb","className":"text-[13px] tracking-wide text-[#a39c8d]","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[false,["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]]}],["$","li","/blog/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]]}],["$","li","/blog/stepchild-adoption-process/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","span",null,{"className":"text-[#d6cfc0]","children":"收養配偶的小孩要怎麼辦？繼親收養的條件與流程"}]]}]]}]}],["$","header",null,{"className":"mt-6","children":[["$","p",null,{"className":"text-[13px] tracking-widest text-[#d4b46a]","children":["法律知識","｜家事"]}],["$","h1",null,{"className":"mt-3 text-3xl font-medium leading-snug tracking-wide text-[#efe9dc] md:text-[38px] md:leading-[1.35]","children":"收養配偶的小孩要怎麼辦？繼親收養的條件與流程"}],["$","p",null,{"className":"mt-4 text-[13px] tracking-wide text-[#a39c8d]","children":["發佈：2026-10-04","","｜作者：","張榮成律師"]}],["$","ul",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","li","收養",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","收養"]}],["$","li","繼親收養",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","繼親收養"]}],["$","li","收養認可",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","收養認可"]}],["$","li","親子關係",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","親子關係"]}],["$","li","家事非訟",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","家事非訟"]}]]}]]}],["$","div",null,{"className":"mt-8","children":["$","div",null,{"className":"paper px-5 py-8 text-[#222] md:px-12 md:py-14","children":["",["$","section",null,{"className":"quick-answer mb-6 border-l-4 border-l-[#b8933f] bg-[#efe9df] px-5 py-4","aria-label":"快速回答","children":[["$","p",null,{"className":"text-[11px] tracking-[0.3em] text-[#9a7a2f]","children":"QUICK ANSWER"}],["$","p",null,{"className":"quick-answer-text mt-2 text-[17px] font-semibold leading-relaxed text-[#1a1a1a]","children":"收養配偶的小孩，依《民法》第1079條，要以書面為之並向法院聲請認可；收養者應長於被收養者十六歲以上，子女的父母原則上要同意，法院認可時以養子女最佳利益為準。"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],false,"$L16"]}]}],"$L17",false,"$L18","$L19"]}]
+4:["$","footer",null,{"className":"band-ink border-t border-[#c9a961]/30 pt-16","children":[["$","div",null,{"className":"mx-auto max-w-[1400px] px-6 md:px-10","children":["$","div",null,{"className":"grid gap-12 md:grid-cols-[280px_1fr_1fr]","children":[["$","div",null,{"children":[["$","$L1a",null,{"src":"/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/logo.webp","alt":"時起法律事務所","width":207,"height":190,"className":"h-16 w-auto","loading":"lazy"}],["$","p",null,{"className":"serif mt-4 text-xl tracking-[0.25em] text-white","children":"時起法律事務所"}],["$","p",null,{"className":"eyebrow mt-1","children":"SHICHI LAW FIRM"}],["$","p",null,{"className":"mt-4 text-[13px] leading-relaxed text-white/60","children":["台中刑事辯護律師",["$","br",null,{}],"臺中地方法院旁"]}]]}],["$","address",null,{"className":"space-y-2 text-[14px] not-italic tracking-wide text-white/80","children":[["$","p",null,{"className":"eyebrow mb-3","children":"CONTACT"}],["$","p",null,{"children":["律師專線：",["$","a",null,{"href":"tel:+886-909-579-081","className":"text-white hover:text-[#e3c98a]","children":"0909-579-081"}]]}],["$","p",null,{"children":["事務所：",["$","a",null,{"href":"tel:+886-4-22294866","className":"hover:text-[#e3c98a]","children":"04-2229-4866"}]]}],["$","p",null,{"children":["LINE：",["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"hover:text-[#e3c98a]","children":"@629xmmsh"}]]}],["$","p",null,{"children":["信箱：",["$","a",null,{"href":"mailto:shichilawfirm@gmail.com","className":"hover:text-[#e3c98a]","children":"shichilawfirm@gmail.com"}]]}],["$","p",null,{"children":["台中總所：",["$","a",null,{"href":"https://maps.app.goo.gl/sMGUpdk78vPoMZf39","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"台中市西區自由路一段101號10樓之7"}]]}],["$","p",null,{"children":["嘉義分所：",["$","a",null,{"href":"https://maps.app.goo.gl/SrbMHDXV5yLWyWGE9","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"嘉義市東區雅竹路7號"}]]}],["$","p",null,{"className":"text-[13px] text-white/50","children":"週一至週五 09:00–18:00；週六 09:00–12:00（預約制）"}]]}],["$","div",null,{"className":"grid gap-8 sm:grid-cols-2","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"PRACTICE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li","/criminal-defense/fraud/",{"children":["$","$L14",null,{"href":"/criminal-defense/fraud/","className":"hover:text-[#e3c98a]","children":"詐欺／車手"}]}],["$","li","/criminal-defense/mule-account/",{"children":["$","$L14",null,{"href":"/criminal-defense/mule-account/","className":"hover:text-[#e3c98a]","children":"人頭帳戶／警示帳戶"}]}],["$","li","/criminal-defense/money-laundering/",{"children":["$","$L14",null,{"href":"/criminal-defense/money-laundering/","className":"hover:text-[#e3c98a]","children":"洗錢防制法"}]}],["$","li","/criminal-defense/drugs/",{"children":["$","$L14",null,{"href":"/criminal-defense/drugs/","className":"hover:text-[#e3c98a]","children":"毒品案件"}]}],["$","li","/criminal-defense/sex-offense/",{"children":["$","$L14",null,{"href":"/criminal-defense/sex-offense/","className":"hover:text-[#e3c98a]","children":"妨害性自主"}]}],["$","li","/criminal-defense/traffic-injury/",{"children":["$","$L14",null,{"href":"/criminal-defense/traffic-injury/","className":"hover:text-[#e3c98a]","children":"車禍過失傷害"}]}],["$","li","/criminal-defense/bail/",{"children":["$","$L14",null,{"href":"/criminal-defense/bail/","className":"hover:text-[#e3c98a]","children":"羈押庭／聲請具保"}]}],["$","li","/process/police-notice/",{"children":["$","$L14",null,{"href":"/process/police-notice/","className":"hover:text-[#e3c98a]","children":"收到警局通知書怎麼辦"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"SITE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li",null,{"children":["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]}],[["$","li","/criminal-defense/",{"children":["$","$L14",null,{"href":"/criminal-defense/","className":"hover:text-[#e3c98a]","children":"刑事辯護"}]}],["$","li","/process/",{"children":["$","$L14",null,{"href":"/process/","className":"hover:text-[#e3c98a]","children":"程序導覽"}]}],["$","li","/cases/",{"children":["$","$L14",null,{"href":"/cases/","className":"hover:text-[#e3c98a]","children":"勝訴案例"}]}],["$","li","/blog/",{"children":["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]}],["$","li","/lawyers/",{"children":["$","$L14",null,{"href":"/lawyers/","className":"hover:text-[#e3c98a]","children":"律師團隊"}]}],"$L1b","$L1c"],"$L1d","$L1e","$L1f"]}]]}]]}]]}]}],"$L20"]}]
+5:["$","$L21",null,{}]
+6:["$","div",null,{"className":"cta-bar fixed inset-x-0 bottom-0 z-40 grid h-16 grid-cols-2 gap-2 border-t border-[#c9a961]/30 bg-[#0f1a17]/95 px-3 py-2 backdrop-blur md:hidden","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line justify-center rounded-lg px-2 py-0 text-[15px]","children":[["$","$L22",null,{"iconNode":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]],"className":"lucide-message-circle h-5 w-5"}]," 加 LINE 諮詢"]}],["$","a",null,{"href":"tel:+886-909-579-081","className":"flex items-center justify-center gap-2 rounded-lg bg-[#c9a961] text-[15px] font-bold tracking-wider text-[#14171c]","children":[["$","$L22",null,{"iconNode":[["path",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384","key":"9njp5v"}]],"className":"lucide-phone h-5 w-5"}]," 立即聯絡律師"]}]]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/1msqpvfaknl3y.js","async":true}]
+8:["$","$L23",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+b:["$","$1","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#111111"}]]}],["$","div",null,{"hidden":true,"children":["$","$L27",null,{"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"收養配偶的小孩要怎麼辦？繼親收養的條件與流程｜時起法律事務所 法律知識"}],["$","meta","1",{"name":"description","content":"收養配偶的小孩要怎麼辦？張榮成律師依《民法》第1073條、第1076條之1、第1079條與《家事事件法》，白話說明年齡差、生父母同意、法院認可流程與收養後效力，並提醒台中、嘉義的當事人先準備哪些資料。也整理常見例外與限制，是否認可由法院依個案決定。"}],["$","meta","2",{"name":"keywords","content":"繼親收養,收養配偶的小孩,收養認可,民法第1079條,子女同意收養,台中家事律師"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","link","4",{"rel":"canonical","href":"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/"}],["$","meta","5",{"property":"og:title","content":"收養配偶的小孩要怎麼辦？繼親收養的條件與流程｜時起法律事務所 法律知識"}],["$","meta","6",{"property":"og:description","content":"收養配偶的小孩要怎麼辦？張榮成律師依《民法》第1073條、第1076條之1、第1079條與《家事事件法》，白話說明年齡差、生父母同意、法院認可流程與收養後效力，並提醒台中、嘉義的當事人先準備哪些資料。也整理常見例外與限制，是否認可由法院依個案決定。"}],["$","meta","7",{"property":"og:url","content":"https://defense.shichilawfirm.com/blog/stepchild-adoption-process/"}],["$","meta","8",{"property":"og:site_name","content":"時起法律事務所"}],["$","meta","9",{"property":"og:locale","content":"zh_TW"}],["$","meta","10",{"property":"og:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-10-04"}],["$","meta","13",{"property":"article:modified_time","content":"2026-10-04"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"收養配偶的小孩要怎麼辦？繼親收養的條件與流程｜時起法律事務所 法律知識"}],["$","meta","16",{"name":"twitter:description","content":"收養配偶的小孩要怎麼辦？張榮成律師依《民法》第1073條、第1076條之1、第1079條與《家事事件法》，白話說明年齡差、生父母同意、法院認可流程與收養後效力，並提醒台中、嘉義的當事人先準備哪些資料。也整理常見例外與限制，是否認可由法院依個案決定。"}],["$","meta","17",{"name":"twitter:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/favicon.ico"}],["$","$L28","20",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+13:true
+16:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L14",null,{"href":"/lawyers/zhang-rong-cheng/","className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）","","｜最後更新：2026-10-04"]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]
+17:["$","section",null,{"className":"mt-14","children":[["$","p",null,{"className":"eyebrow","children":"FAQ"}],["$","h2",null,{"className":"mt-2 text-2xl font-semibold tracking-wide text-[#efe9dc]","children":"常見問題"}],["$","dl",null,{"className":"mt-6 divide-y divide-[#c9a961]/20 border-y border-[#c9a961]/20","children":[["$","div","收養配偶的小孩，年齡要差多少？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"收養配偶的小孩，年齡要差多少？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"依《民法》第1073條第2項，夫妻之一方收養他方之子女時，應長於被收養者十六歲以上。一般收養則依同條第1項，應長於被收養者二十歲以上，但夫妻共同收養有例外。"}]]}],["$","div","只有我一個人收養配偶的孩子，可以嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"只有我一個人收養配偶的孩子，可以嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"可以。《民法》第1074條第1款規定，夫妻之一方收養他方之子女時，得單獨收養，不必夫妻共同為之。"}]]}],["$","div","孩子的另一方生父或生母不同意，還能收養嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"孩子的另一方生父或生母不同意，還能收養嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"要看情形。依《民法》第1076條之1第1項，原則上需要父母同意；但有一方對子女未盡保護教養義務或有其他顯然不利子女的情事而拒絕同意，或事實上不能為意思表示等例外，是否成立由法院判斷。"}]]}],["$","div","只要簽好收養契約就算收養成功了嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"只要簽好收養契約就算收養成功了嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"不是。《民法》第1079條第1項規定，收養應以書面為之，並向法院聲請認可。依《民法》第1079條之3，收養自法院認可裁定確定時，溯及於收養契約成立時發生效力。"}]]}],["$","div","收養之後，孩子與原本的生父或生母還有權利義務嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"收養之後，孩子與原本的生父或生母還有權利義務嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"《民法》第1077條第2項規定，養子女與本生父母及其親屬間的權利義務，於收養關係存續中停止；但夫妻之一方收養他方之子女時，他方與其子女的權利義務，不因收養而受影響。"}]]}]]}]]}]
+18:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-xl font-medium tracking-wide text-[#efe9dc]","children":"延伸閱讀"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","adult-guardianship-declaration",{"children":["$","$L14",null,{"href":"/blog/adult-guardianship-declaration/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"家人失智，怎麼聲請監護宣告？誰能聲請、監護人怎麼選"}]}],["$","li","affair-evidence-legal-limits",{"children":["$","$L14",null,{"href":"/blog/affair-evidence-legal-limits/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"抓外遇蒐證，哪些做法反而會犯法？偷錄、闖入、查手機的界線"}]}],["$","li","alimony-after-divorce",{"children":["$","$L14",null,{"href":"/blog/alimony-after-divorce/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"離婚可以要贍養費嗎？民法第1057條的條件與常見誤解"}]}],["$","li","change-custody-after-divorce",{"children":["$","$L14",null,{"href":"/blog/change-custody-after-divorce/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"離婚後可以改監護權嗎？改定親權的條件與流程"}]}],["$","li","child-support-calculation-enforcement",{"children":["$","$L14",null,{"href":"/blog/child-support-calculation-enforcement/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"扶養費怎麼算？對方不給可以怎麼辦"}]}]]}]]}]
+19:["$","section",null,{"className":"band-ink mt-14 p-7 md:p-10","children":[["$","p",null,{"className":"eyebrow","children":"CONTACT"}],["$","p",null,{"className":"serif mt-3 text-2xl font-semibold tracking-wide text-white md:text-[28px]","children":"現在就需要律師？"}],["$","p",null,{"className":"mt-3 max-w-2xl text-[15px] leading-loose text-white/80","children":"收到通知書、被移送、要開羈押庭，請直接來電或加 LINE，先把目前程序告訴律師。"}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line","children":"加 LINE 諮詢"}],["$","a",null,{"href":"tel:+886-909-579-081","className":"inline-flex items-center bg-[#c9a961] px-6 py-3 text-[15px] font-medium tracking-widest text-[#efe9dc] hover:bg-[#e3c98a]","children":["律師專線 ","0909-579-081"]}],["$","a",null,{"href":"tel:+886-4-22294866","className":"inline-flex items-center px-2 py-3 text-[14px] tracking-widest text-white/60 hover:text-white","children":["事務所 ","04-2229-4866"]}]]}],["$","p",null,{"className":"mt-5 text-[13px] text-white/50","children":["台中總所：","台中市西區自由路一段101號10樓之7","（","臺中地方法院旁（法院為自由路一段91號，步行約 1 分鐘）","）｜嘉義分所：","嘉義市東區雅竹路7號"]}]]}]
+1b:["$","li","/fees/",{"children":["$","$L14",null,{"href":"/fees/","className":"hover:text-[#e3c98a]","children":"收費標準"}]}]
+1c:["$","li","/contact/",{"children":["$","$L14",null,{"href":"/contact/","className":"hover:text-[#e3c98a]","children":"聯絡我們"}]}]
+1d:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/taichung-west/","className":"hover:text-[#e3c98a]","children":"台中總所"}]}]
+1e:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/chiayi/","className":"hover:text-[#e3c98a]","children":"嘉義分所"}]}]
+1f:["$","li",null,{"children":["$","$L14",null,{"href":"/faq/","className":"hover:text-[#e3c98a]","children":"常見問題"}]}]
+20:["$","div",null,{"className":"mt-14 border-t border-white/10 py-5 text-center text-xs tracking-wide text-white/40","children":["© ",2026," 時起法律事務所 SHICHI LAW FIRM｜本網站內容為一般法律資訊，非個案法律意見。"]}]
+25:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

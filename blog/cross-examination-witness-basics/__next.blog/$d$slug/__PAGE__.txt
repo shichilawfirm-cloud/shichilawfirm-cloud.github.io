@@ -1,0 +1,152 @@
+1:"$Sreact.fragment"
+2:I[24323,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Header"]
+a:X
+f:X
+f:C
+0:{"buildId":"VzKbcNG9IDMVEEDxIWg8t","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col bg-[#0f1a17]","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1 pt-[84px] md:pt-[100px]","children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"@id\":\"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/#article\",\"mainEntityOfPage\":\"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/\",\"headline\":\"開庭時怎麼問證人？交互詰問的順序與規則\",\"description\":\"開庭時怎麼問證人？張榮成律師用白話說明交互詰問的四個順序、主詰問與反詰問的差別、誘導詰問的限制、依法不能問的問題、聲明異議的方式，並提醒台中、嘉義的刑事案件當事人在出庭前可以先做哪些準備，所有條文均依全國法規資料庫現行規定整理，方便對照原文。\",\"image\":\"https://defense.shichilawfirm.com/images/gen/og.jpg\",\"inLanguage\":\"zh-TW\",\"author\":{\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\"},\"publisher\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"datePublished\":\"2026-10-04\",\"dateModified\":\"2026-10-04\"}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"@id\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/#person\",\"name\":\"張榮成律師\",\"jobTitle\":\"主持律師\",\"image\":\"https://defense.shichilawfirm.com/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/lawyer-1.png\",\"url\":\"https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/\",\"worksFor\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"},\"knowsAbout\":[\"詐欺、車手、人頭帳戶\",\"洗錢防制法\",\"毒品案件\",\"妨害性自主\",\"傷害、車禍過失傷害\",\"羈押庭、聲請具保、陪同偵訊\"]}"}}],["$","script","2",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"首頁\",\"item\":\"https://defense.shichilawfirm.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"法律知識\",\"item\":\"https://defense.shichilawfirm.com/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"開庭時怎麼問證人？交互詰問的順序與規則\",\"item\":\"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/\"}]}"}}],["$","script","3",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"交互詰問的順序是什麼？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"依《刑事訴訟法》第166條第2項，順序是：聲請傳喚的一方主詰問、他造反詰問、聲請方覆主詰問、他造覆反詰問。詰問完畢後，經審判長許可，還可以再行詰問。\"}},{\"@type\":\"Question\",\"name\":\"什麼是誘導詰問？可以問嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"誘導詰問是把答案放在問題裡的問法。依《刑事訴訟法》第166條之1第2項，主詰問原則上不得誘導，但有列舉例外；依第166條之2第2項，反詰問於必要時可以誘導。\"}},{\"@type\":\"Question\",\"name\":\"沒有律師的被告，可以問證人嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"可以。《刑事訴訟法》第166條第1項規定，被告如果沒有辯護人而不想詰問，審判長仍應給予詢問證人、鑑定人的適當機會。被告也可以依第163條第1項聲請調查證據。\"}},{\"@type\":\"Question\",\"name\":\"對方的問題不恰當，可以反對嗎？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"可以。依《刑事訴訟法》第167條之1，當事人、代理人或辯護人就詰問及回答，可以用違背法令或不當為由聲明異議。依第167條之2，要立即、就各個行為、簡要說明理由。\"}},{\"@type\":\"Question\",\"name\":\"哪些問題依法不能問？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"《刑事訴訟法》第166條之7第2項列出十類，例如與案件無關、恫嚇侮辱利誘詐欺、抽象不明確、不合法的誘導、重覆詰問、要求證人陳述個人意見或推測，以及問證人沒有親身經歷的事。\"}}]}"}}],["$","script","4",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/#webpage\",\"url\":\"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/\",\"name\":\"開庭時怎麼問證人？交互詰問的順序與規則\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".quick-answer-text\"]},\"isPartOf\":{\"@id\":\"https://defense.shichilawfirm.com/#organization\"}}"}}]],"$L3"]}],"$L4","$L5","$L6"]}],["$L7"],"$L8"]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$a","varyParams":null},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$a","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$a","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[22016,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],""]
+1b:I[5500,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"Image"]
+22:I[28090,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"FloatingBars"]
+23:I[58541,["/_next/static/chunks/0ohns_sgsfx6p.js","/_next/static/chunks/1msqpvfaknl3y.js"],"default"]
+24:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"ViewportBoundary"]
+28:I[97367,["/_next/static/chunks/0ohns_sgsfx6p.js"],"MetadataBoundary"]
+29:I[27201,["/_next/static/chunks/0ohns_sgsfx6p.js"],"IconMark"]
+2a:I[39756,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+2b:I[37457,["/_next/static/chunks/0ohns_sgsfx6p.js"],"default"]
+15:T27ef,<p>**刑事開庭問證人，是由聲請傳喚的一方先問，對方接著問，雙方輪流，這就是交互詰問。**重點是順序、能不能誘導，以及哪些問題不能問，這幾件事法條都有寫清楚。</p>
+<h2>交互詰問的順序是什麼？</h2>
+<p>《刑事訴訟法》第166條第1項規定，當事人、代理人、辯護人聲請傳喚的證人、鑑定人，先由審判長問身分資料，之後由當事人、代理人或辯護人直接詰問。</p>
+<p>依第166條第2項，順序有四步：</p>
+<table>
+<thead>
+<tr>
+<th>順序</th>
+<th>名稱</th>
+<th>由誰問</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>一</td>
+<td>主詰問</td>
+<td>聲請傳喚證人的一方</td>
+</tr>
+<tr>
+<td>二</td>
+<td>反詰問</td>
+<td>對方</td>
+</tr>
+<tr>
+<td>三</td>
+<td>覆主詰問</td>
+<td>聲請傳喚的一方再問</td>
+</tr>
+<tr>
+<td>四</td>
+<td>覆反詰問</td>
+<td>對方再問</td>
+</tr>
+</tbody></table>
+<p>四步結束後，經審判長許可，還可以更行詰問；證人詰問完畢，審判長也可以自己再問。兩造同時聲請傳喚的證人，主詰問的先後由兩造合意；談不攏，由審判長決定。</p>
+<p>如果是法院依職權傳喚的證人，依第166條之6，審判長先問，之後當事人可以詰問，次序由審判長決定。</p>
+<h2>主詰問可以問什麼？</h2>
+<p>依《刑事訴訟法》第166條之1第1項、第2項，主詰問要就待證事項及相關事項來問，也可以為了辯明證人、鑑定人陳述的證明力（可信程度），問必要的事。</p>
+<p>主詰問原則上不得誘導。所謂誘導，就是問題本身就暗示了答案，例如「你當時看到他拿刀，對不對？」第166條之1第3項列出例外，包括：</p>
+<ul>
+<li>還沒問實質內容前，問身分、學歷、經歷等必要的準備事項；</li>
+<li>當事人顯然沒有爭執的事項；</li>
+<li>證人記憶不清，為了喚起記憶所必要；</li>
+<li>證人對詰問者顯示敵意或反感；</li>
+<li>證人故意規避；</li>
+<li>證人講的和先前陳述不符時，問他先前的陳述；</li>
+<li>其他認為有誘導詰問必要的特別情事。</li>
+</ul>
+<h2>反詰問可以怎麼問？</h2>
+<p>依第166條之2，反詰問要就主詰問顯現的事項及相關事項來問，也可以為辯明證人、鑑定人陳述的證明力所必要的事項而問。反詰問於必要時，可以誘導。</p>
+<p>反詰問也可以提出支持自己主張的新事項，但依第166條之3，要經審判長許可，而且這一部分視為主詰問，也就回到不得誘導的規則。</p>
+<p>覆主詰問、覆反詰問的範圍更窄：依第166條之4，覆主詰問只能就反詰問顯現的事項及相關事項來問；依第166條之5，覆反詰問只能就辨明覆主詰問所顯現證據的證明力必要之事項來問。</p>
+<h2>哪些問題依法不能問？</h2>
+<p>《刑事訴訟法》第166條之7第2項列出不得為的詰問。其中第5至第8款在有正當理由時，可以例外。條文列的類型有：</p>
+<ul>
+<li>與本案及因詰問所顯現的事項無關；</li>
+<li>以恫嚇、侮辱、利誘、詐欺或其他不正方法；</li>
+<li>抽象不明確；</li>
+<li>不合法的誘導；</li>
+<li>對假設性事項或沒有證據支持的事實發問；</li>
+<li>重覆詢問；</li>
+<li>要求證人陳述個人意見、推測、評論；</li>
+<li>恐怕證言會對證人，或與證人有第180條第1項關係的人（例如配偶、直系血親、三親等內旁系血親）的名譽、信用或財產有重大損害；</li>
+<li>對證人沒有親身經歷的事項發問；</li>
+<li>其他法令禁止的。</li>
+</ul>
+<p>同條第1項也要求，詰問與回答都要就個別問題具體為之。所以「你把整件事從頭講一遍」這類太寬的問法，在詰問規則下未必適合。</p>
+<h2>我沒有律師，可以自己問嗎？</h2>
+<p>可以。依第166條第1項，被告沒有辯護人而不想詰問，審判長仍要給他詢問證人的適當機會。依第167條，當事人、代理人或辯護人詰問時，除非審判長認為不當，不得限制或禁止。</p>
+<p>不確定怎麼問的人，先把想問的事實列出來，再改成一題一個事實的短句，會比一口氣問很多事清楚。</p>
+<h2>問題不恰當時，可以反對嗎？</h2>
+<p>可以。依《刑事訴訟法》第167條之1，當事人、代理人或辯護人就詰問及回答，可以用「違背法令」或「不當」為由聲明異議。</p>
+<p>依第167條之2，異議要就各個行為，立即以簡要理由提出。審判長要立即處分；對方可以在處分前陳述意見；證人在異議提出後、處分前，要停止陳述。審判長認為異議有理由，依第167條之5，應立即中止、撤回、撤銷、變更或作其他必要處分；認為無理由，依第167條之4以處分駁回。依第167條之6，對這些處分不得聲明不服。</p>
+<h2>出庭前先做哪幾件事？</h2>
+<ol>
+<li><strong>弄清楚證人是誰聲請的</strong>：決定你是主詰問還是反詰問。</li>
+<li><strong>把待證事實列成清單</strong>：每個證人要證明的事實各是什麼。</li>
+<li><strong>對照之前的筆錄</strong>：看證人以前講過什麼，開庭說法不同時才知道從哪裡問。</li>
+<li><strong>把問題改成短句</strong>：一題一個事實，避免抽象或一次問兩件事。</li>
+<li><strong>想好異議的理由</strong>：遇到不當發問，要立即、簡要說明。</li>
+</ol>
+<p>證人在法庭外的陳述，例如警詢筆錄，能不能當證據另有《刑事訴訟法》第159條以下的規定，詰問前也要一併確認。開庭前的整體流程可參考<a href="/process/indictment-received/" rel="noopener noreferrer">收到起訴書怎麼辦</a>。</p>
+<h2>在台中或嘉義開庭問證人，要注意什麼？</h2>
+<p>開庭時間、法庭與是否傳喚證人，以法院送達的傳票與通知書記載為準。依第176條之2，因當事人聲請調查證據而有傳喚證人必要時，聲請的人應促使證人到場，所以聲請傳喚證人的一方，也要留意證人能不能到。判決後如果不服，可參考<a href="/process/criminal-appeal-guide/" rel="noopener noreferrer">刑事上訴</a>。服務地點見<a href="/locations/taichung-west/" rel="noopener noreferrer">台中總所</a>與<a href="/locations/chiayi/" rel="noopener noreferrer">嘉義分所</a>，作者經歷見<a href="/lawyers/zhang-rong-cheng/" rel="noopener noreferrer">張榮成律師</a>。</p>
+<h2>本文依據哪些官方法源？</h2>
+<p>本文於 <strong>2026年10月4日</strong>依全國法規資料庫現行條文整理，未引用未經查證的裁判，也未使用案件個資：</p>
+<ul>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=159" rel="noopener noreferrer">《刑事訴訟法》第159條：傳聞法則</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=163" rel="noopener noreferrer">《刑事訴訟法》第163條：聲請調查證據與詢問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166" rel="noopener noreferrer">《刑事訴訟法》第166條：詰問的次序</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-1" rel="noopener noreferrer">《刑事訴訟法》第166條之1：主詰問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-2" rel="noopener noreferrer">《刑事訴訟法》第166條之2：反詰問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-3" rel="noopener noreferrer">《刑事訴訟法》第166條之3：反詰問的新事項</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-4" rel="noopener noreferrer">《刑事訴訟法》第166條之4：覆主詰問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-5" rel="noopener noreferrer">《刑事訴訟法》第166條之5：覆反詰問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-6" rel="noopener noreferrer">《刑事訴訟法》第166條之6：法院依職權傳喚的證人</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=166-7" rel="noopener noreferrer">《刑事訴訟法》第166條之7：不得為的詰問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=167" rel="noopener noreferrer">《刑事訴訟法》第167條：審判長不得限制詰問</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=176-2" rel="noopener noreferrer">《刑事訴訟法》第176條之2：聲請人應促使證人到場</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=180" rel="noopener noreferrer">《刑事訴訟法》第180條：得拒絕證言的親屬等關係</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=167-1" rel="noopener noreferrer">《刑事訴訟法》第167條之1：聲明異議</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=167-2" rel="noopener noreferrer">《刑事訴訟法》第167條之2：異議的方式與處分</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=167-4" rel="noopener noreferrer">《刑事訴訟法》第167條之4：異議無理由</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=167-5" rel="noopener noreferrer">《刑事訴訟法》第167條之5：異議有理由</a></li>
+<li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=167-6" rel="noopener noreferrer">《刑事訴訟法》第167條之6：處分不得聲明不服</a></li>
+</ul>
+<p>本文是一般法律資訊，不能取代律師依起訴書、筆錄與完整卷證所作的個別法律意見，也不保證詰問結果或其他特定結果。</p>
+3:["$","div",null,{"className":"mx-auto px-5 py-12 md:px-8 md:py-16 max-w-[860px]","children":[["$","nav",null,{"aria-label":"breadcrumb","className":"text-[13px] tracking-wide text-[#a39c8d]","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-x-2","children":[["$","li","/",{"className":"flex items-center gap-x-2","children":[false,["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]]}],["$","li","/blog/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]]}],["$","li","/blog/cross-examination-witness-basics/",{"className":"flex items-center gap-x-2","children":[["$","span",null,{"aria-hidden":true,"className":"text-[#c9a961]","children":"/"}],["$","span",null,{"className":"text-[#d6cfc0]","children":"開庭時怎麼問證人？交互詰問的順序與規則"}]]}]]}]}],["$","header",null,{"className":"mt-6","children":[["$","p",null,{"className":"text-[13px] tracking-widest text-[#d4b46a]","children":["法律知識","｜刑事"]}],["$","h1",null,{"className":"mt-3 text-3xl font-medium leading-snug tracking-wide text-[#efe9dc] md:text-[38px] md:leading-[1.35]","children":"開庭時怎麼問證人？交互詰問的順序與規則"}],["$","p",null,{"className":"mt-4 text-[13px] tracking-wide text-[#a39c8d]","children":["發佈：2026-10-04","","｜作者：","張榮成律師"]}],["$","ul",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","li","交互詰問",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","交互詰問"]}],["$","li","證人",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","證人"]}],["$","li","主詰問",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","主詰問"]}],["$","li","反詰問",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","反詰問"]}],["$","li","刑事審判",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","刑事審判"]}]]}]]}],["$","div",null,{"className":"mt-8","children":["$","div",null,{"className":"paper px-5 py-8 text-[#222] md:px-12 md:py-14","children":["",["$","section",null,{"className":"quick-answer mb-6 border-l-4 border-l-[#b8933f] bg-[#efe9df] px-5 py-4","aria-label":"快速回答","children":[["$","p",null,{"className":"text-[11px] tracking-[0.3em] text-[#9a7a2f]","children":"QUICK ANSWER"}],["$","p",null,{"className":"quick-answer-text mt-2 text-[17px] font-semibold leading-relaxed text-[#1a1a1a]","children":"交互詰問依《刑事訴訟法》第166條，先由聲請傳喚的一方主詰問，再由他造反詰問，之後各有覆主詰問與覆反詰問；主詰問原則上不得誘導。"}]]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$15"}}],false,"$L16"]}]}],"$L17","$L18","$L19","$L1a"]}]
+4:["$","footer",null,{"className":"band-ink border-t border-[#c9a961]/30 pt-16","children":[["$","div",null,{"className":"mx-auto max-w-[1400px] px-6 md:px-10","children":["$","div",null,{"className":"grid gap-12 md:grid-cols-[280px_1fr_1fr]","children":[["$","div",null,{"children":[["$","$L1b",null,{"src":"/sites/shichilawfirm-com-33c8c620/root-8a5edab2/images/logo.webp","alt":"時起法律事務所","width":207,"height":190,"className":"h-16 w-auto","loading":"lazy"}],["$","p",null,{"className":"serif mt-4 text-xl tracking-[0.25em] text-white","children":"時起法律事務所"}],["$","p",null,{"className":"eyebrow mt-1","children":"SHICHI LAW FIRM"}],["$","p",null,{"className":"mt-4 text-[13px] leading-relaxed text-white/60","children":["台中刑事辯護律師",["$","br",null,{}],"臺中地方法院旁"]}]]}],["$","address",null,{"className":"space-y-2 text-[14px] not-italic tracking-wide text-white/80","children":[["$","p",null,{"className":"eyebrow mb-3","children":"CONTACT"}],["$","p",null,{"children":["律師專線：",["$","a",null,{"href":"tel:+886-909-579-081","className":"text-white hover:text-[#e3c98a]","children":"0909-579-081"}]]}],["$","p",null,{"children":["事務所：",["$","a",null,{"href":"tel:+886-4-22294866","className":"hover:text-[#e3c98a]","children":"04-2229-4866"}]]}],["$","p",null,{"children":["LINE：",["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"hover:text-[#e3c98a]","children":"@629xmmsh"}]]}],["$","p",null,{"children":["信箱：",["$","a",null,{"href":"mailto:shichilawfirm@gmail.com","className":"hover:text-[#e3c98a]","children":"shichilawfirm@gmail.com"}]]}],["$","p",null,{"children":["台中總所：",["$","a",null,{"href":"https://maps.app.goo.gl/sMGUpdk78vPoMZf39","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"台中市西區自由路一段101號10樓之7"}]]}],["$","p",null,{"children":["嘉義分所：",["$","a",null,{"href":"https://maps.app.goo.gl/SrbMHDXV5yLWyWGE9","target":"_blank","rel":"noreferrer","className":"hover:text-[#e3c98a]","children":"嘉義市東區雅竹路7號"}]]}],["$","p",null,{"className":"text-[13px] text-white/50","children":"週一至週五 09:00–18:00；週六 09:00–12:00（預約制）"}]]}],["$","div",null,{"className":"grid gap-8 sm:grid-cols-2","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"PRACTICE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li","/criminal-defense/fraud/",{"children":["$","$L14",null,{"href":"/criminal-defense/fraud/","className":"hover:text-[#e3c98a]","children":"詐欺／車手"}]}],["$","li","/criminal-defense/mule-account/",{"children":["$","$L14",null,{"href":"/criminal-defense/mule-account/","className":"hover:text-[#e3c98a]","children":"人頭帳戶／警示帳戶"}]}],["$","li","/criminal-defense/money-laundering/",{"children":["$","$L14",null,{"href":"/criminal-defense/money-laundering/","className":"hover:text-[#e3c98a]","children":"洗錢防制法"}]}],["$","li","/criminal-defense/drugs/",{"children":["$","$L14",null,{"href":"/criminal-defense/drugs/","className":"hover:text-[#e3c98a]","children":"毒品案件"}]}],["$","li","/criminal-defense/sex-offense/",{"children":["$","$L14",null,{"href":"/criminal-defense/sex-offense/","className":"hover:text-[#e3c98a]","children":"妨害性自主"}]}],["$","li","/criminal-defense/traffic-injury/",{"children":["$","$L14",null,{"href":"/criminal-defense/traffic-injury/","className":"hover:text-[#e3c98a]","children":"車禍過失傷害"}]}],["$","li","/criminal-defense/bail/",{"children":["$","$L14",null,{"href":"/criminal-defense/bail/","className":"hover:text-[#e3c98a]","children":"羈押庭／聲請具保"}]}],["$","li","/process/police-notice/",{"children":["$","$L14",null,{"href":"/process/police-notice/","className":"hover:text-[#e3c98a]","children":"收到警局通知書怎麼辦"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow mb-3","children":"SITE"}],["$","ul",null,{"className":"space-y-2 text-[14px] text-white/75","children":[["$","li",null,{"children":["$","$L14",null,{"href":"/","className":"hover:text-[#e3c98a]","children":"首頁"}]}],[["$","li","/criminal-defense/",{"children":["$","$L14",null,{"href":"/criminal-defense/","className":"hover:text-[#e3c98a]","children":"刑事辯護"}]}],["$","li","/process/",{"children":["$","$L14",null,{"href":"/process/","className":"hover:text-[#e3c98a]","children":"程序導覽"}]}],["$","li","/cases/",{"children":["$","$L14",null,{"href":"/cases/","className":"hover:text-[#e3c98a]","children":"勝訴案例"}]}],["$","li","/blog/",{"children":["$","$L14",null,{"href":"/blog/","className":"hover:text-[#e3c98a]","children":"法律知識"}]}],["$","li","/lawyers/",{"children":["$","$L14",null,{"href":"/lawyers/","className":"hover:text-[#e3c98a]","children":"律師團隊"}]}],"$L1c","$L1d"],"$L1e","$L1f","$L20"]}]]}]]}]]}]}],"$L21"]}]
+5:["$","$L22",null,{}]
+6:["$","div",null,{"className":"cta-bar fixed inset-x-0 bottom-0 z-40 grid h-16 grid-cols-2 gap-2 border-t border-[#c9a961]/30 bg-[#0f1a17]/95 px-3 py-2 backdrop-blur md:hidden","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line justify-center rounded-lg px-2 py-0 text-[15px]","children":[["$","$L23",null,{"iconNode":[["path",{"d":"M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719","key":"1sd12s"}]],"className":"lucide-message-circle h-5 w-5"}]," 加 LINE 諮詢"]}],["$","a",null,{"href":"tel:+886-909-579-081","className":"flex items-center justify-center gap-2 rounded-lg bg-[#c9a961] text-[15px] font-bold tracking-wider text-[#14171c]","children":[["$","$L23",null,{"iconNode":[["path",{"d":"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384","key":"9njp5v"}]],"className":"lucide-phone h-5 w-5"}]," 立即聯絡律師"]}]]}]
+7:["$","script","script-0",{"src":"/_next/static/chunks/1msqpvfaknl3y.js","async":true}]
+8:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+b:["$","$1","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#111111"}]]}],["$","div",null,{"hidden":true,"children":["$","$L28",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"開庭時怎麼問證人？交互詰問的順序與規則｜時起法律事務所 法律知識"}],["$","meta","1",{"name":"description","content":"開庭時怎麼問證人？張榮成律師用白話說明交互詰問的四個順序、主詰問與反詰問的差別、誘導詰問的限制、依法不能問的問題、聲明異議的方式，並提醒台中、嘉義的刑事案件當事人在出庭前可以先做哪些準備，所有條文均依全國法規資料庫現行規定整理，方便對照原文。"}],["$","meta","2",{"name":"keywords","content":"交互詰問,主詰問,反詰問,誘導詰問,證人詰問,台中刑事律師"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","link","4",{"rel":"canonical","href":"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/"}],["$","meta","5",{"property":"og:title","content":"開庭時怎麼問證人？交互詰問的順序與規則｜時起法律事務所 法律知識"}],["$","meta","6",{"property":"og:description","content":"開庭時怎麼問證人？張榮成律師用白話說明交互詰問的四個順序、主詰問與反詰問的差別、誘導詰問的限制、依法不能問的問題、聲明異議的方式，並提醒台中、嘉義的刑事案件當事人在出庭前可以先做哪些準備，所有條文均依全國法規資料庫現行規定整理，方便對照原文。"}],["$","meta","7",{"property":"og:url","content":"https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/"}],["$","meta","8",{"property":"og:site_name","content":"時起法律事務所"}],["$","meta","9",{"property":"og:locale","content":"zh_TW"}],["$","meta","10",{"property":"og:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-10-04"}],["$","meta","13",{"property":"article:modified_time","content":"2026-10-04"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"開庭時怎麼問證人？交互詰問的順序與規則｜時起法律事務所 法律知識"}],["$","meta","16",{"name":"twitter:description","content":"開庭時怎麼問證人？張榮成律師用白話說明交互詰問的四個順序、主詰問與反詰問的差別、誘導詰問的限制、依法不能問的問題、聲明異議的方式，並提醒台中、嘉義的刑事案件當事人在出庭前可以先做哪些準備，所有條文均依全國法規資料庫現行規定整理，方便對照原文。"}],["$","meta","17",{"name":"twitter:image","content":"https://defense.shichilawfirm.com/images/gen/og.jpg"}],["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","19",{"rel":"icon","href":"/favicon.ico"}],["$","$L29","20",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+10:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+13:true
+16:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L14",null,{"href":"/lawyers/zhang-rong-cheng/","className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）","","｜最後更新：2026-10-04"]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]
+17:["$","section",null,{"className":"mt-14","children":[["$","p",null,{"className":"eyebrow","children":"FAQ"}],["$","h2",null,{"className":"mt-2 text-2xl font-semibold tracking-wide text-[#efe9dc]","children":"常見問題"}],["$","dl",null,{"className":"mt-6 divide-y divide-[#c9a961]/20 border-y border-[#c9a961]/20","children":[["$","div","交互詰問的順序是什麼？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"交互詰問的順序是什麼？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"依《刑事訴訟法》第166條第2項，順序是：聲請傳喚的一方主詰問、他造反詰問、聲請方覆主詰問、他造覆反詰問。詰問完畢後，經審判長許可，還可以再行詰問。"}]]}],["$","div","什麼是誘導詰問？可以問嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"什麼是誘導詰問？可以問嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"誘導詰問是把答案放在問題裡的問法。依《刑事訴訟法》第166條之1第2項，主詰問原則上不得誘導，但有列舉例外；依第166條之2第2項，反詰問於必要時可以誘導。"}]]}],["$","div","沒有律師的被告，可以問證人嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"沒有律師的被告，可以問證人嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"可以。《刑事訴訟法》第166條第1項規定，被告如果沒有辯護人而不想詰問，審判長仍應給予詢問證人、鑑定人的適當機會。被告也可以依第163條第1項聲請調查證據。"}]]}],["$","div","對方的問題不恰當，可以反對嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"對方的問題不恰當，可以反對嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"可以。依《刑事訴訟法》第167條之1，當事人、代理人或辯護人就詰問及回答，可以用違背法令或不當為由聲明異議。依第167條之2，要立即、就各個行為、簡要說明理由。"}]]}],["$","div","哪些問題依法不能問？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"哪些問題依法不能問？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"《刑事訴訟法》第166條之7第2項列出十類，例如與案件無關、恫嚇侮辱利誘詐欺、抽象不明確、不合法的誘導、重覆詰問、要求證人陳述個人意見或推測，以及問證人沒有親身經歷的事。"}]]}]]}]]}]
+18:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-xl font-medium tracking-wide text-[#efe9dc]","children":"相關服務"}],["$","ul",null,{"className":"mt-4 flex flex-wrap gap-3","children":[["$","li","bail",{"children":["$","$L14",null,{"href":"/criminal-defense/bail/","className":"inline-block border border-[#c9a961]/50 px-4 py-2 text-[14px] text-[#d4b46a] hover:bg-[#c9a961] hover:text-[#0f1a17]","children":"羈押庭／聲請具保"}]}]]}]]}]
+19:["$","section",null,{"className":"mt-12","children":[["$","h2",null,{"className":"text-xl font-medium tracking-wide text-[#efe9dc]","children":"延伸閱讀"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","abandonment-crime-family",{"children":["$","$L14",null,{"href":"/blog/abandonment-crime-family/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"把年邁父母或小孩丟著不管，會犯遺棄罪嗎？"}]}],["$","li","arrest-24-hour-detention-guide",{"children":["$","$L14",null,{"href":"/blog/arrest-24-hour-detention-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"被警察逮捕後多久要移送？24小時、法定扣除時間與聲押流程"}]}],["$","li","bail-deposit-return-guide",{"children":["$","$L14",null,{"href":"/blog/bail-deposit-return-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"交保金什麼時候退？退保、沒入、利息與領回流程一次看懂"}]}],["$","li","breach-of-trust-vs-embezzlement-guide",{"children":["$","$L14",null,{"href":"/blog/breach-of-trust-vs-embezzlement-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"背信罪是什麼？和侵占、詐欺怎麼分，被告了怎麼辦"}]}],["$","li","breath-test-refusal-dui-guide",{"children":["$","$L14",null,{"href":"/blog/breath-test-refusal-dui-guide/","className":"text-[15px] text-[#d6cfc0] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"拒絕酒測會怎樣？18萬元罰鍰、吊銷駕照與強制採血界線"}]}]]}]]}]
+1a:["$","section",null,{"className":"band-ink mt-14 p-7 md:p-10","children":[["$","p",null,{"className":"eyebrow","children":"CONTACT"}],["$","p",null,{"className":"serif mt-3 text-2xl font-semibold tracking-wide text-white md:text-[28px]","children":"現在就需要律師？"}],["$","p",null,{"className":"mt-3 max-w-2xl text-[15px] leading-loose text-white/80","children":"收到通知書、被移送、要開羈押庭，請直接來電或加 LINE，先把目前程序告訴律師。"}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","a",null,{"href":"https://line.me/R/ti/p/@629xmmsh","className":"btn-line","children":"加 LINE 諮詢"}],["$","a",null,{"href":"tel:+886-909-579-081","className":"inline-flex items-center bg-[#c9a961] px-6 py-3 text-[15px] font-medium tracking-widest text-[#efe9dc] hover:bg-[#e3c98a]","children":["律師專線 ","0909-579-081"]}],["$","a",null,{"href":"tel:+886-4-22294866","className":"inline-flex items-center px-2 py-3 text-[14px] tracking-widest text-white/60 hover:text-white","children":["事務所 ","04-2229-4866"]}]]}],["$","p",null,{"className":"mt-5 text-[13px] text-white/50","children":["台中總所：","台中市西區自由路一段101號10樓之7","（","臺中地方法院旁（法院為自由路一段91號，步行約 1 分鐘）","）｜嘉義分所：","嘉義市東區雅竹路7號"]}]]}]
+1c:["$","li","/fees/",{"children":["$","$L14",null,{"href":"/fees/","className":"hover:text-[#e3c98a]","children":"收費標準"}]}]
+1d:["$","li","/contact/",{"children":["$","$L14",null,{"href":"/contact/","className":"hover:text-[#e3c98a]","children":"聯絡我們"}]}]
+1e:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/taichung-west/","className":"hover:text-[#e3c98a]","children":"台中總所"}]}]
+1f:["$","li",null,{"children":["$","$L14",null,{"href":"/locations/chiayi/","className":"hover:text-[#e3c98a]","children":"嘉義分所"}]}]
+20:["$","li",null,{"children":["$","$L14",null,{"href":"/faq/","className":"hover:text-[#e3c98a]","children":"常見問題"}]}]
+21:["$","div",null,{"className":"mt-14 border-t border-white/10 py-5 text-center text-xs tracking-wide text-white/40","children":["© ",2026," 時起法律事務所 SHICHI LAW FIRM｜本網站內容為一般法律資訊，非個案法律意見。"]}]
+26:null
+a:300
+a:C
+12:0
+c:"$undefined"
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"
