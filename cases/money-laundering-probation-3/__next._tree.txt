@@ -1,4 +1,5 @@
-:HL["/_next/static/css/95bafd2b8adb09db.css","style"]
-:HL["/_next/static/css/88c7c3dcc2440230.css","style"]
-:HL["/_next/static/css/10793f26b3e87952.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"money-laundering-probation-3","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"KKrTKJtHy4pcFVHdqnnLi"}
+:HL["/_next/static/chunks/2nk0riflytuzx.css","style"]
+:HL["/_next/static/chunks/3-pnna6v3j4hv.css","style"]
+:HL["/_next/static/chunks/14bczm_gdv7rs.css","style"]
+:HL["/_next/static/media/6ad1cda2f16975ee-s.p.2j22bd4n1tlhh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"money-laundering-probation-3","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"dxiUB0sJrNl6tPDc-FldA"}
