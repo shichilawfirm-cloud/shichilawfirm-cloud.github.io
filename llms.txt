@@ -26,6 +26,7 @@
 - [陳修聞律師｜律師](https://defense.shichilawfirm.com/lawyers/chen-xiu-wen/)：陳修聞律師承辦刑事與財經相關案件，並協助企業與個人的契約審閱與法律顧問事務。 專長：刑事辯護、財經刑法、契約與法律顧問。
 
 ## 張榮成律師公開刑事承辦紀錄（司法院公開裁判；僅證明具名參與，不代表結果保證）
+- [販賣第三級毒品案件一、二審無罪：臺灣嘉義地方法院112年度原訴緝字第1號、臺灣高等法院臺南分院113年度原上訴字第4號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TNHM/113%2C%E5%8E%9F%E4%B8%8A%E8%A8%B4%2C4%2C20240628%2C1.pdf)
 - [毒品案件辯護：臺灣嘉義地方法院110年度原訴字第4號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/CYDM/110%2C%E5%8E%9F%E8%A8%B4%2C4%2C20220614%2C2.pdf)
 - [詐欺案件上訴辯護：臺灣高等法院臺中分院111年度上易字第1095號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TCHM/111%2C%E4%B8%8A%E6%98%93%2C1095%2C20230511%2C1.pdf)
 - [加重詐欺案件第一審與上訴辯護：臺灣嘉義地方法院113年度金訴字第770號、臺灣高等法院臺南分院114年度金上訴字第102號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TNHM/114%2C%E9%87%91%E4%B8%8A%E8%A8%B4%2C102%2C20250806%2C1.pdf)
@@ -222,6 +223,7 @@
 
 ## 代表案例（已實質重寫、去識別化；個案結果不構成保證）
 - [人頭帳戶不起訴案例｜被害人受騙，不等於帳戶持有人知情](https://defense.shichilawfirm.com/cases/mule-account-insufficient-evidence/)：本案取得不起訴處分。被害人確實受騙，不等於帳戶持有人具有幫助詐欺故意；檢方仍須依個案證據證明其認識帳戶提供行為可能幫助詐欺，並有意或容任其發生。但幫助詐欺不起訴，不當然排除行為時《洗錢防制法》第22條的帳戶交付規範。
+- [販賣第三級毒品案件：自白與證人供述不足，一、二審無罪](https://defense.shichilawfirm.com/cases/drug-sale-acquittal-2/)：本案被告在偵查中曾承認販賣第三級毒品，但自白不能作為有罪判決的唯一證據。法院認為證人對交易細節的說法反覆，尿液檢驗也未提供足夠佐證，因此一審判決無罪，二審再駁回檢察官上訴。
 - [妨害性自主案件：一審無罪、二審改判到三審的證據爭點](https://defense.shichilawfirm.com/cases/drunk-shared-room-sexual-assault-acquittal/)：這件公開可查的妨害性自主案件不是最終無罪：第一審判決無罪，第二審撤銷後改判有罪，最高法院駁回上訴而確定；它最能說明刑事案件的證據評價可能隨審級改變。
 
 ## 其他
