@@ -1,6 +1,6 @@
 # 時起法律事務所（台中刑事辯護律師）
 
-> 時起法律事務所（張榮成律師）位於台中市西區自由路一段、臺中地方法院旁，專辦詐欺、人頭帳戶、洗錢、毒品、性犯罪、車禍過失傷害等刑事辯護，提供陪同偵訊與聲請具保。另設嘉義分所。
+> 時起法律事務所由張榮成律師主持，位於台中市西區、臺中地方法院旁，專辦刑事辯護。承辦詐欺、洗錢、毒品、妨害性自主、傷害、妨害自由、車禍過失傷害、羈押與上訴等案件，另設嘉義分所。
 
 ## 事務所事實
 - 台中總所：台中市西區自由路一段101號10樓之7（臺中地方法院旁（法院為自由路一段91號，步行約 1 分鐘））
@@ -8,6 +8,7 @@
 - 律師專線：0909-579-081｜事務所：04-2229-4866｜LINE：@629xmmsh
 - 個案諮詢另行報價；委任每一審級訴訟費用八萬起
 - 主持律師：張榮成律師；律師團隊：張榮成、劉豐億、陳修聞
+- 張榮成律師定位：專辦刑事辯護，具法院法官助理經驗，親自拆解證據；公開案例涵蓋詐欺、洗錢、毒品、妨害性自主、傷害、妨害自由及上訴，不以單一案型或個案結果作保證。
 
 ## 刑事辯護服務（每頁含一句話答案、關鍵事實表、法源連結、FAQ）
 - [詐欺、車手、加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：被控詐欺或車手，關鍵是檢察官能否證明你「知道」錢是詐騙所得；證據薄弱可爭取不起訴，證據明確則以自白與六個月內和解爭取減刑或緩刑。
@@ -18,6 +19,11 @@
 - [傷害、恐嚇、強盜、妨害自由案件](https://defense.shichilawfirm.com/criminal-defense/violence/)：普通傷害是告訴乃論，告訴期間六個月內和解撤告即不起訴；恐嚇、強盜、妨害自由則是非告訴乃論，和解只影響量刑，一開始的罪名定性決定案件走向。
 - [車禍過失傷害、過失致死案件](https://defense.shichilawfirm.com/criminal-defense/traffic-injury/)：車禍過失傷害是告訴乃論；六個月是被害人提出告訴的期間，告訴已提出後可在第一審辯論終結前撤回。過失致死則非告訴乃論，和解不會終結追訴。
 - [羈押庭、聲請具保、陪同偵訊（急件）](https://defense.shichilawfirm.com/criminal-defense/bail/)：檢察官聲請羈押，不代表法院一定准押。刑事訴訟法第101條要求法院審查犯罪嫌疑、羈押原因與必要性；第101條之2並容許在無羈押必要時採具保、責付或限制住居。
+
+## 律師（個人頁含經歷、專長、代表案例與服務據點）
+- [張榮成律師｜主持律師](https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/)：張榮成律師是時起法律事務所主持律師，專辦刑事辯護。具板橋家事庭及新北地方法院法官助理經驗，辦案以「先看證據、再定策略」為原則，親自拆解時間軸、金流、對話、供述與不利證據，處理詐欺、洗錢、毒品、妨害性自主、傷害、妨害自由、羈押及上訴等案件。 專長：詐欺、洗錢與財產犯罪、毒品案件、妨害性自主、傷害、恐嚇與妨害自由、車禍過失傷害、羈押、具保、偵查與刑事上訴。
+- [劉豐億律師｜律師](https://defense.shichilawfirm.com/lawyers/liu-feng-yi/)：劉豐億律師承辦刑事、民事與家事案件，協助當事人整理事實與證據、撰擬書狀並出庭。 專長：刑事辯護、民事訴訟、家事事件。
+- [陳修聞律師｜律師](https://defense.shichilawfirm.com/lawyers/chen-xiu-wen/)：陳修聞律師承辦刑事與財經相關案件，並協助企業與個人的契約審閱與法律顧問事務。 專長：刑事辯護、財經刑法、契約與法律顧問。
 
 ## 程序導覽
 - [交保之後要注意什麼？報到、限制出境與保證金沒入](https://defense.shichilawfirm.com/process/after-bail-conditions/)：交保不是案件結束，而是用保證金和條件換取不被關押。之後要準時到庭、遵守法院或檢察官定的條件；違反了可能被重新羈押，逃匿的話保證金會被沒入。案件結束且沒有違規，保證金才會退還。
@@ -126,7 +132,7 @@
 - [幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)
 - [不起訴確定後還會再被起訴嗎？新事實、新證據與第260條限制](https://defense.shichilawfirm.com/blog/non-prosecution-final-reprosecution-guide/)
 - [不起訴處分不服怎麼辦？10日再議與准許提起自訴](https://defense.shichilawfirm.com/blog/non-prosecution-reconsideration-guide/)
-- [跟警察起衝突會怎樣？妨害公務與侮辱公務員的刑責](https://defense.shichilawfirm.com/blog/obstructing-officer-insulting-police-guide/)
+- [妨害公務會判多久？推擠、拒檢與罵警察的刑責](https://defense.shichilawfirm.com/blog/obstructing-officer-insulting-police-guide/)
 - [在簽賭網站下注或當代理，會有什麼刑責？](https://defense.shichilawfirm.com/blog/online-betting-agent-penalty/)
 - [網拍賣家沒出貨被告詐欺，怎麼辦？](https://defense.shichilawfirm.com/blog/online-seller-accused-fraud/)
 - [網購七天可以退貨嗎？哪些東西不能退、怎麼退才算數](https://defense.shichilawfirm.com/blog/online-shopping-seven-day-return/)
@@ -205,6 +211,9 @@
 - [警察帶搜索票上門怎麼辦？搜索票要看哪四項、可以拒絕嗎](https://defense.shichilawfirm.com/blog/search-warrant-what-to-watch/)
 - [德州撲克算賭博嗎？玩家與場所經營者的法律風險](https://defense.shichilawfirm.com/blog/texas-holdem-is-it-gambling/)
 - [自行到案還會被上銬嗎？戒具使用的條件與到案前準備](https://defense.shichilawfirm.com/blog/voluntary-appearance-handcuffs/)
+
+## 代表案例（已實質重寫、去識別化；個案結果不構成保證）
+- [人頭帳戶不起訴案例｜被害人受騙，不等於帳戶持有人知情](https://defense.shichilawfirm.com/cases/mule-account-insufficient-evidence/)：本案不起訴的關鍵是：被害人確實受騙，不等於帳戶持有人知道詐欺；卷內資料無法證明當事人與詐騙者有犯意聯絡。
 
 ## 其他
 - [常見問題](https://defense.shichilawfirm.com/faq/)
