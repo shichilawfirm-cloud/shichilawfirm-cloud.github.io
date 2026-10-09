@@ -30,6 +30,8 @@
 - [詐欺案件上訴辯護：臺灣高等法院臺中分院111年度上易字第1095號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TCHM/111%2C%E4%B8%8A%E6%98%93%2C1095%2C20230511%2C1.pdf)
 - [加重詐欺案件第一審與上訴辯護：臺灣嘉義地方法院113年度金訴字第770號、臺灣高等法院臺南分院114年度金上訴字第102號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TNHM/114%2C%E9%87%91%E4%B8%8A%E8%A8%B4%2C102%2C20250806%2C1.pdf)
 - [強盜案件第三審辯護：最高法院114年度台上字第3942號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TPSM/114%2C%E5%8F%B0%E4%B8%8A%2C3942%2C20260205%2C1.pdf)
+- [妨害性自主案件具保停止羈押：臺灣苗栗地方法院114年度軍侵訴字第1號刑事裁定](https://data.judicial.gov.tw/opendl/JDocFile/MLDM/114%2C%E8%BB%8D%E4%BE%B5%E8%A8%B4%2C1%2C20250711%2C1.pdf)
+- [妨害性自主案件第三審辯護（程序結果公開可查）：最高法院112年度台上字第2528號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TPSM/112%2C%E5%8F%B0%E4%B8%8A%2C2528%2C20230816%2C1.pdf)
 
 ## 程序導覽
 - [交保之後要注意什麼？報到、限制出境與保證金沒入](https://defense.shichilawfirm.com/process/after-bail-conditions/)：交保不是案件結束，而是用保證金和條件換取不被關押。之後要準時到庭、遵守法院或檢察官定的條件；違反了可能被重新羈押，逃匿的話保證金會被沒入。案件結束且沒有違規，保證金才會退還。
@@ -220,6 +222,7 @@
 
 ## 代表案例（已實質重寫、去識別化；個案結果不構成保證）
 - [人頭帳戶不起訴案例｜被害人受騙，不等於帳戶持有人知情](https://defense.shichilawfirm.com/cases/mule-account-insufficient-evidence/)：本案取得不起訴處分。被害人確實受騙，不等於帳戶持有人具有幫助詐欺故意；檢方仍須依個案證據證明其認識帳戶提供行為可能幫助詐欺，並有意或容任其發生。但幫助詐欺不起訴，不當然排除行為時《洗錢防制法》第22條的帳戶交付規範。
+- [妨害性自主案件：一審無罪、二審改判到三審的證據爭點](https://defense.shichilawfirm.com/cases/drunk-shared-room-sexual-assault-acquittal/)：這件公開可查的妨害性自主案件不是最終無罪：第一審判決無罪，第二審撤銷後改判有罪，最高法院駁回上訴而確定；它最能說明刑事案件的證據評價可能隨審級改變。
 
 ## 其他
 - [常見問題](https://defense.shichilawfirm.com/faq/)
