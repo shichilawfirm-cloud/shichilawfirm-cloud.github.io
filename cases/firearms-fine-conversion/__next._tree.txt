@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/1hqv5xrc-ph5b.css","style"]
+:HL["/_next/static/chunks/2unh2htn06l1d.css","style"]
 :HL["/_next/static/media/6ad1cda2f16975ee-s.p.2j22bd4n1tlhh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"firearms-fine-conversion","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"6_BLZQNbtSYPLHFEfa9o1"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"firearms-fine-conversion","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"fIKtuSaR1TvaAfL8wOUPv"}
