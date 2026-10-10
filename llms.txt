@@ -20,14 +20,14 @@
 - [妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)：妨害性自主案件多為兩人密室、無第三人證，判斷高度依賴雙方陳述的可信度與周邊證據；被告在偵查初期的每一句話都可能被拿來評價前後是否一致，證據保全與陳述一致是核心。
 - [傷害、恐嚇、強盜、妨害自由案件](https://defense.shichilawfirm.com/criminal-defense/violence/)：普通傷害是告訴乃論，告訴期間六個月內和解撤告即不起訴；恐嚇、強盜、妨害自由則是非告訴乃論，和解只影響量刑，一開始的罪名定性決定案件走向。
 - [車禍過失傷害、過失致死與事故逃逸辯護](https://defense.shichilawfirm.com/criminal-defense/traffic-injury/)：車禍刑事案件要先區分過失傷害、過失致死與交通事故逃逸。過失傷害是告訴乃論；後兩者不是。張榮成律師有司法院公開可查的肇事逃逸二審撤銷改判紀錄，該案適用刑法第59條並改判四月、得易科罰金；特定結果不代表個案保證。
-- [羈押庭、聲請具保、陪同偵訊（急件）](https://defense.shichilawfirm.com/criminal-defense/bail/)：檢察官聲請羈押，不代表法院一定准押。刑事訴訟法第101條要求法院審查犯罪嫌疑、羈押原因與必要性；第101條之2並容許在無羈押必要時採具保、責付或限制住居。
+- [羈押庭、禁見接見、聲請具保與陪同偵訊（急件）](https://defense.shichilawfirm.com/criminal-defense/bail/)：檢察官聲請羈押，不代表法院一定准押；家屬被禁止接見，也不當然等於律師不能會見。律師會依程序核對聲押或禁見裁定，安排接見，並評估具保、抗告及後續辯護。
 
 ## 律師（個人頁含經歷、專長、代表案例與服務據點）
 - [張榮成律師｜主持律師](https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/)：張榮成律師是時起法律事務所主持律師，專辦刑事辯護。具板橋家事庭及新北地方法院法官助理經驗，辦案以「先看證據、再定策略」為原則，親自拆解時間軸、金流、對話、供述與不利證據；司法院公開承辦紀錄涵蓋組織犯罪、詐欺洗錢、銀行法、槍砲、毒品、妨害性自主、暴力、交通刑事、羈押、撤銷緩刑及上訴。 專長：組織犯罪、詐欺、洗錢與財產犯罪、銀行法與財經刑事、槍砲與重大刑案、毒品案件、妨害性自主、傷害、恐嚇與妨害自由、車禍與交通刑事、羈押、具保、撤銷緩刑與刑事上訴、搜索扣押、手機與數位證據、警詢、證人程序與證據保全。
 - [劉豐億律師｜律師](https://defense.shichilawfirm.com/lawyers/liu-feng-yi/)：劉豐億律師承辦刑事、民事與家事案件，協助當事人整理事實與證據、撰擬書狀並出庭。 專長：刑事辯護、民事訴訟、家事事件。
 - [陳修聞律師｜律師](https://defense.shichilawfirm.com/lawyers/chen-xiu-wen/)：陳修聞律師承辦刑事與財經相關案件，並協助企業與個人的契約審閱與法律顧問事務。 專長：刑事辯護、財經刑法、契約與法律顧問。
 
-## 張榮成律師精選刑事程序與辯護指南（17篇；作者頁可交叉查核）
+## 張榮成律師精選刑事程序與辯護指南（18篇；作者頁可交叉查核）
 - [收到地檢署傳票怎麼辦？偵查庭流程、被告與證人差別](https://defense.shichilawfirm.com/blog/summons-prosecutor-investigation/)（作者：張榮成律師；主題：偵查庭、地檢署傳票、刑事程序、陪同偵訊）：收到地檢署傳票不等於已被起訴。先看傳票記載的身分、案由、時間與地點；被告與證人的權利及不到場效果不同，無法到場應在期日前聯絡承辦股確認請假或改期。
 - [警察通知我當證人做筆錄，可以不去嗎？證人的義務與拒絕證言](https://defense.shichilawfirm.com/blog/police-notice-witness-or-suspect/)（作者：張榮成律師；主題：證人、警詢、拒絕證言、偵查、筆錄）：被警察以證人身分通知做筆錄，法律效果和犯罪嫌疑人不同：警詢階段沒有拘提證人的規定，但檢察官或法院傳喚證人不到場可能被罰鍰與拘提。本文說明證人的義務、拒絕證言權，以及證人轉為被告的風險。
 - [警察帶搜索票上門怎麼辦？搜索票要看哪四項、可以拒絕嗎](https://defense.shichilawfirm.com/blog/search-warrant-what-to-watch/)（作者：張榮成律師；主題：搜索、扣押、偵查、搜索票、同意搜索）：警察持搜索票上門時，不能用強力抗拒，但可以要求出示搜索票，核對案由、對象、處所與有效期間，全程在場並拿到扣押收據。沒有搜索票時，要分辨是附帶搜索、逕行搜索還是同意搜索。
@@ -35,6 +35,7 @@
 - [刑事證據快消失怎麼辦？保全證據聲請資格、流程與5日規定](https://defense.shichilawfirm.com/blog/criminal-evidence-preservation-guide/)（作者：張榮成律師；主題：保全證據、刑事偵查、證據保存、刑事程序、檢察官）：監視器、通訊紀錄或其他證據有被刪除、隱匿或難以使用的風險時，告訴人、犯罪嫌疑人、被告或辯護人，可在偵查中依法聲請保全證據。
 - [刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)（作者：張榮成律師；主題：上訴、第二審、第三審、上訴期間、量刑上訴）：收到刑事判決後，上訴期限是送達後二十日，上訴狀要送到原來判決的法院，而且要寫具體理由。只有被告上訴時，第二審原則上不能判得更重；有些較輕的罪打到第二審就結束，不能再上訴第三審。
 - [家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)（作者：張榮成律師；主題：羈押庭、聲請羈押、具保、刑事程序）：家人被檢察官聲請羈押時，先確認法院與案號，整理固定住居、工作、照護與可替代羈押的資料。聲押不等於一定羈押，法院仍須審查犯罪嫌疑、羈押原因與必要性。
+- [家人被羈押禁見怎麼辦？接見、送物與律師會見一次看懂](https://defense.shichilawfirm.com/blog/detention-no-contact-family-guide/)（作者：張榮成律師；主題：羈押、禁見、看守所、律師接見、刑事程序）：家人被羈押禁見時，親友通常不能直接接見或通信，但不代表律師也一律不能會見。先確認看守所、案號與禁見裁定範圍，再由符合法定身分的家屬選任律師，並向看守所確認金錢、衣物、藥品等送入規則。
 - [交保金什麼時候退？退保、沒入、利息與領回流程一次看懂](https://defense.shichilawfirm.com/blog/bail-deposit-return-guide/)（作者：張榮成律師；主題：交保金、退保、刑事保證金、具保、保證金沒入）：交保金不一定在判決後立即退還。本文說明具保責任何時免除、退保與發還差別、應受發還人、逃匿沒入、實收利息、入帳時間及救濟方式。
 - [詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)（作者：張榮成律師；主題：詐欺、減刑、和解、賠償、自白、自首）：詐欺案件的和解、賠償、自白與提供上手資料，法律效果並不相同。是否能減刑，要先確認罪名是否屬詐欺犯罪危害防制條例所稱詐欺犯罪，再核對自首或自白時點、六個月期限、付款與查獲結果。
 - [幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)（作者：張榮成律師；主題：洗錢、代收轉帳、犯罪所得、人頭帳戶、刑事辯護）：替人收款再轉帳不會當然成立洗錢罪。判斷時應逐層確認款項是否為特定犯罪所得、實際金流行為，以及證據能否證明行為人具有洗錢故意。
@@ -60,7 +61,7 @@
 - [票據詐欺案件第二審辯護（裁判結果公開可查）：臺灣高等法院112年度上易字第616號刑事判決](https://judgment.judicial.gov.tw/FJUD/printData.aspx?id=TPHM%2C112%2C%E4%B8%8A%E6%98%93%2C616%2C20231024%2C1)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2023-10-24；票據詐欺案件第二審辯護（裁判結果公開可查）。案型主題：詐欺取財、票據詐欺、刑事第二審、犯罪所得沒收。 對應站內服務：[詐欺、車手、加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)。 相關法律指南：[欠錢不還就是詐欺嗎？刑事詐欺與民事債務糾紛怎麼分](https://defense.shichilawfirm.com/blog/fraud-vs-civil-debt-guide/)、[刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
 - [加重詐欺案件第一審與上訴辯護：臺灣嘉義地方法院113年度金訴字第770號、臺灣高等法院臺南分院114年度金上訴字第102號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TNHM/114%2C%E9%87%91%E4%B8%8A%E8%A8%B4%2C102%2C20250806%2C1.pdf)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2025-08-06；加重詐欺案件第一審與上訴辯護。案型主題：加重詐欺、洗錢防制法、刑事上訴。 對應站內服務：[詐欺、車手、加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)、[洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)。 相關法律指南：[詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)、[幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)、[刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
 - [強盜案件第三審辯護：最高法院114年度台上字第3942號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TPSM/114%2C%E5%8F%B0%E4%B8%8A%2C3942%2C20260205%2C1.pdf)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2026-02-05；強盜案件第三審辯護。案型主題：強盜罪、刑事第三審。 對應站內服務：[傷害、恐嚇、強盜、妨害自由案件](https://defense.shichilawfirm.com/criminal-defense/violence/)。 相關法律指南：[刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
-- [妨害性自主案件具保停止羈押：臺灣苗栗地方法院114年度軍侵訴字第1號刑事裁定](https://data.judicial.gov.tw/opendl/JDocFile/MLDM/114%2C%E8%BB%8D%E4%BE%B5%E8%A8%B4%2C1%2C20250711%2C1.pdf)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2025-07-11；妨害性自主案件具保停止羈押。案型主題：妨害性自主、具保停止羈押、羈押替代處分。 對應站內服務：[妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)、[羈押庭、聲請具保、陪同偵訊（急件）](https://defense.shichilawfirm.com/criminal-defense/bail/)。 相關法律指南：[被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)、[家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)。
+- [妨害性自主案件具保停止羈押：臺灣苗栗地方法院114年度軍侵訴字第1號刑事裁定](https://data.judicial.gov.tw/opendl/JDocFile/MLDM/114%2C%E8%BB%8D%E4%BE%B5%E8%A8%B4%2C1%2C20250711%2C1.pdf)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2025-07-11；妨害性自主案件具保停止羈押。案型主題：妨害性自主、具保停止羈押、羈押替代處分。 對應站內服務：[妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)、[羈押庭、禁見接見、聲請具保與陪同偵訊（急件）](https://defense.shichilawfirm.com/criminal-defense/bail/)。 相關法律指南：[被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)、[家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)。
 - [妨害性自主案件第三審辯護（程序結果公開可查）：最高法院112年度台上字第2528號刑事判決](https://data.judicial.gov.tw/opendl/JDocFile/TPSM/112%2C%E5%8F%B0%E4%B8%8A%2C2528%2C20230816%2C1.pdf)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2023-08-16；妨害性自主案件第三審辯護（程序結果公開可查）。案型主題：妨害性自主、刑事第三審。 對應站內服務：[妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)。 相關法律指南：[被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)、[刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
 
 ## 獨立媒體引用的法律觀點（媒體引用不代表推薦或排名）
@@ -129,7 +130,6 @@
 - [緩起訴被撤銷怎麼辦？3項法定事由、已繳款項與10日再議](https://defense.shichilawfirm.com/blog/deferred-prosecution-revocation-guide/)
 - [被裁定羈押可以抗告嗎？10日期限、停止執行與撤銷羈押](https://defense.shichilawfirm.com/blog/detention-appeal-remedy-guide/)
 - [裁判確定前羈押日數怎麼折抵刑期？逮捕、拘提與多案計算](https://defense.shichilawfirm.com/blog/detention-days-sentence-credit-guide/)
-- [家人被羈押禁見怎麼辦？接見、送物與律師會見一次看懂](https://defense.shichilawfirm.com/blog/detention-no-contact-family-guide/)
 - [羈押多久？偵查中、審判中期間，延長次數與通知救濟](https://defense.shichilawfirm.com/blog/detention-period-extension-guide/)
 - [被公司無預警資遣合法嗎？預告期間與資遣費怎麼算](https://defense.shichilawfirm.com/blog/dismissal-without-cause/)
 - [離婚調解怎麼進行？調解成立的效力與不成立怎麼辦](https://defense.shichilawfirm.com/blog/divorce-mediation-process/)
