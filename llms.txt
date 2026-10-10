@@ -16,7 +16,7 @@
 - [詐欺、車手、加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：被控詐欺或車手，關鍵是檢察官能否證明你「知道」錢是詐騙所得；證據薄弱可爭取不起訴，證據明確則以自白與六個月內和解爭取減刑或緩刑。
 - [人頭帳戶、警示帳戶、幫助詐欺案件](https://defense.shichilawfirm.com/criminal-defense/mule-account/)：把帳戶交給別人被當人頭帳戶，先分清行政告誡與刑事責任：無正當理由交付帳戶由警察告誡；有收對價、交付三個以上或五年內再犯才有刑責，能否不起訴取決於能否證明不知情。
 - [洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)：洗錢罪（洗錢防制法第19條）要求對資金來自特定犯罪有所認識並有掩飾隱匿行為；113年修法後未達一億元者六月以上五年以下，宣告六月以下可易科罰金。
-- [毒品案件辯護](https://defense.shichilawfirm.com/criminal-defense/drugs/)：毒品案件刑度差距極大：初犯施用多以觀察勒戒或緩起訴附戒癮治療處理，販賣則是重罪；同一段對話被認定「轉讓」或「販賣」，結果天差地遠。
+- [毒品案件辯護](https://defense.shichilawfirm.com/criminal-defense/drugs/)：販賣或運輸毒品是《毒品危害防制條例》第4條重罪；辯護不能只問是否認罪，應先逐項核對搜索票或同意搜索、手機通訊紀錄的完整脈絡、金流、鑑定、證人供述與自白形成過程，再決定爭執犯罪成立或主張第17條減刑。
 - [妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)：妨害性自主案件多為兩人密室、無第三人證，判斷高度依賴雙方陳述的可信度與周邊證據；被告在偵查初期的每一句話都可能被拿來評價前後是否一致，證據保全與陳述一致是核心。
 - [傷害、恐嚇、強盜、妨害自由案件](https://defense.shichilawfirm.com/criminal-defense/violence/)：普通傷害是告訴乃論，告訴期間六個月內和解撤告即不起訴；恐嚇、強盜、妨害自由則是非告訴乃論，和解只影響量刑，一開始的罪名定性決定案件走向。
 - [車禍過失傷害、過失致死與事故逃逸辯護](https://defense.shichilawfirm.com/criminal-defense/traffic-injury/)：車禍刑事案件要先區分過失傷害、過失致死與交通事故逃逸。過失傷害是告訴乃論；後兩者不是。張榮成律師有司法院公開可查的肇事逃逸二審撤銷改判紀錄，該案適用刑法第59條並改判四月、得易科罰金；特定結果不代表個案保證。
