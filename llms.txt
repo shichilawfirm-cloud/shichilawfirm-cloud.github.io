@@ -27,6 +27,25 @@
 - [劉豐億律師｜律師](https://defense.shichilawfirm.com/lawyers/liu-feng-yi/)：劉豐億律師承辦刑事、民事與家事案件，協助當事人整理事實與證據、撰擬書狀並出庭。 專長：刑事辯護、民事訴訟、家事事件。
 - [陳修聞律師｜律師](https://defense.shichilawfirm.com/lawyers/chen-xiu-wen/)：陳修聞律師承辦刑事與財經相關案件，並協助企業與個人的契約審閱與法律顧問事務。 專長：刑事辯護、財經刑法、契約與法律顧問。
 
+## 張榮成律師精選刑事程序與辯護指南（17篇；作者頁可交叉查核）
+- [收到地檢署傳票怎麼辦？偵查庭流程、被告與證人差別](https://defense.shichilawfirm.com/blog/summons-prosecutor-investigation/)（作者：張榮成律師；主題：偵查庭、地檢署傳票、刑事程序、陪同偵訊）：收到地檢署傳票不等於已被起訴。先看傳票記載的身分、案由、時間與地點；被告與證人的權利及不到場效果不同，無法到場應在期日前聯絡承辦股確認請假或改期。
+- [警察通知我當證人做筆錄，可以不去嗎？證人的義務與拒絕證言](https://defense.shichilawfirm.com/blog/police-notice-witness-or-suspect/)（作者：張榮成律師；主題：證人、警詢、拒絕證言、偵查、筆錄）：被警察以證人身分通知做筆錄，法律效果和犯罪嫌疑人不同：警詢階段沒有拘提證人的規定，但檢察官或法院傳喚證人不到場可能被罰鍰與拘提。本文說明證人的義務、拒絕證言權，以及證人轉為被告的風險。
+- [警察帶搜索票上門怎麼辦？搜索票要看哪四項、可以拒絕嗎](https://defense.shichilawfirm.com/blog/search-warrant-what-to-watch/)（作者：張榮成律師；主題：搜索、扣押、偵查、搜索票、同意搜索）：警察持搜索票上門時，不能用強力抗拒，但可以要求出示搜索票，核對案由、對象、處所與有效期間，全程在場並拿到扣押收據。沒有搜索票時，要分辨是附帶搜索、逕行搜索還是同意搜索。
+- [警察可以看我的手機嗎？搜索、扣押與解鎖權利一次看](https://defense.shichilawfirm.com/blog/police-search-phone-guide/)（作者：張榮成律師；主題：手機搜索、手機扣押、數位證據、同意搜索、刑事偵查）：警察查扣手機，不代表當然可以無限制翻看全部資料。先分清楚搜索、扣押、同意與解鎖要求，核對法律依據、範圍及現場文件。
+- [刑事證據快消失怎麼辦？保全證據聲請資格、流程與5日規定](https://defense.shichilawfirm.com/blog/criminal-evidence-preservation-guide/)（作者：張榮成律師；主題：保全證據、刑事偵查、證據保存、刑事程序、檢察官）：監視器、通訊紀錄或其他證據有被刪除、隱匿或難以使用的風險時，告訴人、犯罪嫌疑人、被告或辯護人，可在偵查中依法聲請保全證據。
+- [刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)（作者：張榮成律師；主題：上訴、第二審、第三審、上訴期間、量刑上訴）：收到刑事判決後，上訴期限是送達後二十日，上訴狀要送到原來判決的法院，而且要寫具體理由。只有被告上訴時，第二審原則上不能判得更重；有些較輕的罪打到第二審就結束，不能再上訴第三審。
+- [家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)（作者：張榮成律師；主題：羈押庭、聲請羈押、具保、刑事程序）：家人被檢察官聲請羈押時，先確認法院與案號，整理固定住居、工作、照護與可替代羈押的資料。聲押不等於一定羈押，法院仍須審查犯罪嫌疑、羈押原因與必要性。
+- [交保金什麼時候退？退保、沒入、利息與領回流程一次看懂](https://defense.shichilawfirm.com/blog/bail-deposit-return-guide/)（作者：張榮成律師；主題：交保金、退保、刑事保證金、具保、保證金沒入）：交保金不一定在判決後立即退還。本文說明具保責任何時免除、退保與發還差別、應受發還人、逃匿沒入、實收利息、入帳時間及救濟方式。
+- [詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)（作者：張榮成律師；主題：詐欺、減刑、和解、賠償、自白、自首）：詐欺案件的和解、賠償、自白與提供上手資料，法律效果並不相同。是否能減刑，要先確認罪名是否屬詐欺犯罪危害防制條例所稱詐欺犯罪，再核對自首或自白時點、六個月期限、付款與查獲結果。
+- [幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)（作者：張榮成律師；主題：洗錢、代收轉帳、犯罪所得、人頭帳戶、刑事辯護）：替人收款再轉帳不會當然成立洗錢罪。判斷時應逐層確認款項是否為特定犯罪所得、實際金流行為，以及證據能否證明行為人具有洗錢故意。
+- [毒品案件會判多久？持有、施用、轉讓與販賣刑度差別](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)（作者：張榮成律師；主題：毒品、持有毒品、施用毒品、轉讓毒品、販賣毒品、戒癮治療）：毒品案件沒有單一刑度。必須先確認毒品級別、行為是持有、施用、轉讓、意圖販賣而持有或販賣，再核對純質淨重、前案紀錄及是否符合戒癮治療或法定減刑。
+- [被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)（作者：張榮成律師；主題：妨害性自主、性侵害、警詢、偵查庭、證據保全）：被控妨害性自主後，應先確認涉嫌罪名與到案身分，完整保留對話、通聯、定位及消費紀錄，再依客觀時間軸準備警詢或偵查庭。不要私下施壓對方，也不要把單一反應或驗傷結果當成案件結論。
+- [被打還手算正當防衛嗎？互毆、防衛過當與傷害罪的界線](https://defense.shichilawfirm.com/blog/assault-self-defense/)（作者：張榮成律師；主題：正當防衛、傷害罪、防衛過當、互毆、告訴乃論）：正當防衛的前提是面對「現在不法之侵害」。侵害還沒開始或已經結束才動手，不算防衛；手段超過必要程度則是防衛過當，仍成立犯罪但得減輕或免除其刑。本文整理判斷重點與衝突後該保全的證據。
+- [傳訊息嗆人會構成恐嚇罪嗎？恐嚇、強制與恐嚇取財的差別](https://defense.shichilawfirm.com/blog/intimidation-threat-message-guide/)（作者：張榮成律師；主題：恐嚇罪、強制罪、恐嚇取財、訊息、討債）：恐嚇罪不是看語氣兇不兇，而是看有沒有拿對方的生命、身體、自由、名譽或財產來威脅，並且讓對方真的感到害怕。只是威脅是恐嚇；逼對方做事是強制；藉此要錢則是恐嚇取財，刑度差很多。
+- [車禍後離開現場算肇事逃逸嗎？刑責、無過失減刑與處理順序](https://defense.shichilawfirm.com/blog/hit-and-run-leaving-scene-guide/)（作者：張榮成律師；主題：肇事逃逸、車禍、過失傷害、公共危險、和解）：發生車禍有人受傷，沒有停下來處理就離開，可能構成肇事逃逸，最輕六個月有期徒刑。這個罪不看車禍是誰的錯，也不是告訴乃論；即使自己沒有過失，離開現場仍然成立，只是可以減輕或免除其刑。
+- [買到改造槍或空氣槍會怎樣？槍砲條例的刑責](https://defense.shichilawfirm.com/blog/modified-air-gun-firearms-act/)（作者：張榮成律師；主題：槍砲條例、改造槍、空氣槍、持有槍枝、自首）：網路上買到改造手槍，或在家裡放著一把空氣槍，都可能碰到槍砲彈藥刀械管制條例。這部法律對持有的刑度不輕，但也有自首和供述來源的減免規定。本文用白話整理刑度、子彈與零件的規定，以及現在該先做什麼。
+- [緩刑會被撤銷嗎？一次未報到、新案未確定與撤緩裁定](https://defense.shichilawfirm.com/blog/probation-revocation-guide/)（作者：張榮成律師；主題：緩刑、再犯、撤銷緩刑、刑事程序、判決確定）：緩刑期間被偵查、起訴、一次未報到或未按期賠償，不代表一定撤銷。本文比較兩則公開裁定，整理無罪推定、情節重大、執行必要與抗告程序。
+
 ## 張榮成律師公開刑事承辦紀錄（15筆司法院公開裁判；僅證明具名參與，不代表結果保證）
 - [組織犯罪、加重詐欺與洗錢案件第三審撤銷發回：最高法院114年度台上字第917號刑事判決](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPSM%2C114%2C%E5%8F%B0%E4%B8%8A%2C917%2C20260429%2C1)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2026-04-29；組織犯罪、加重詐欺與洗錢案件第三審撤銷發回。案型主題：組織犯罪防制條例、加重詐欺、洗錢防制法、刑事第三審。 對應站內服務：[詐欺、車手、加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)、[洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)。 相關法律指南：[詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)、[幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)、[刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
 - [槍砲案件第二審量刑辯護：臺灣高等法院臺中分院115年度上訴字第943號刑事判決](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TCHM%2C115%2C%E4%B8%8A%E8%A8%B4%2C943%2C20260827%2C1)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；裁判日期：2026-08-27；槍砲案件第二審量刑辯護。案型主題：槍砲彈藥刀械管制條例、刑事上訴、量刑。 相關法律指南：[買到改造槍或空氣槍會怎樣？槍砲條例的刑責](https://defense.shichilawfirm.com/blog/modified-air-gun-firearms-act/)、[刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
@@ -51,13 +70,11 @@
 
 ## 程序導覽
 - [交保之後要注意什麼？報到、限制出境與保證金沒入](https://defense.shichilawfirm.com/process/after-bail-conditions/)：交保不是案件結束，而是用保證金和條件換取不被關押。之後要準時到庭、遵守法院或檢察官定的條件；違反了可能被重新羈押，逃匿的話保證金會被沒入。案件結束且沒有違規，保證金才會退還。
-- [刑事判決不服怎麼上訴？二十日期限、上訴理由與第三審限制](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)：收到刑事判決後，上訴期限是送達後二十日，上訴狀要送到原來判決的法院，而且要寫具體理由。只有被告上訴時，第二審原則上不能判得更重；有些較輕的罪打到第二審就結束，不能再上訴第三審。
 - [收到地檢署執行傳票怎麼辦？可以延後報到嗎](https://defense.shichilawfirm.com/process/execution-notice-report-to-prison/)：判決確定後，檢察官會傳喚你到案執行。傳票上的日期要先看清楚，不要不理它：傳喚不到，依法應行拘提，也可能被通緝。工作或家裡走不開，法律沒有一般性的延後報到權；刑事訴訟法只有四種停止執行的法定情形，也可能聲請易科罰金或社會勞動，但都由檢察官依個案決定。
 - [家人被警察帶走了，怎麼知道人在哪裡、可以見面嗎？](https://defense.shichilawfirm.com/process/family-arrested-find-and-visit/)：電話那頭說家人被警察帶走了，你不知道他在哪、今晚能不能見到。法律規定拘提逮捕時要書面通知被逮捕人指定的親友，並有二十四小時的時間限制；律師可以接見，家屬能不能見要看階段。本文依刑事訴訟法，照事情發生的順序整理。
 - [少年案件移到少年法院後怎麼走？調查、收容到保護處分](https://defense.shichilawfirm.com/process/juvenile-case-process/)：孩子的案件到了少年法院，不是直接開刑事庭。照時間順序看：先調查，必要時暫時責付給家長或收容；調查後可能不付審理，也可能審理後裁定保護處分，情節重大才可能移送檢察官；處分確定後還有執行期間。本文依法條說明每一站會發生什麼事。
 - [被通緝了怎麼辦？通緝的原因、主動到案與撤銷通緝](https://defense.shichilawfirm.com/process/wanted-warrant-surrender/)：被通緝通常是因為傳票沒收到或沒到庭，被認定逃亡或藏匿。通緝期間任何警察都可以逮捕你；主動到案之後，通緝的原因消滅就應撤銷。到案前先準備好能證明自己不會跑的資料。
 - [收到起訴書怎麼辦？開庭流程、認罪與否和上訴期限](https://defense.shichilawfirm.com/process/indictment-received/)：收到起訴書代表檢察官認為證據足夠，案件進入法院審理，但還沒有被判有罪。接下來通常先開準備程序，法官會問你認不認罪，這個回答會決定案件走哪一種程序。判決送達後，上訴期間是二十日。
-- [家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)：家人被檢察官聲請羈押時，先確認法院與案號，整理固定住居、工作、照護與可替代羈押的資料。聲押不等於一定羈押，法院仍須審查犯罪嫌疑、羈押原因與必要性。
 - [收到警局通知書怎麼辦？刑事律師教你到場前 5 步驟](https://defense.shichilawfirm.com/process/police-notice/)：警局通知書可能是通知犯罪嫌疑人，也可能是通知證人。先確認通知身分與案由，不要無故不到場；到場前整理資料，並依身分評估是否先諮詢或由律師陪同。
 
 ## 法律知識
@@ -66,7 +83,6 @@
 - [抓外遇蒐證，哪些做法反而會犯法？偷錄、闖入、查手機的界線](https://defense.shichilawfirm.com/blog/affair-evidence-legal-limits/)
 - [離婚可以要贍養費嗎？民法第1057條的條件與常見誤解](https://defense.shichilawfirm.com/blog/alimony-after-divorce/)
 - [被警察逮捕後多久要移送？24小時、法定扣除時間與聲押流程](https://defense.shichilawfirm.com/blog/arrest-24-hour-detention-guide/)
-- [交保金什麼時候退？退保、沒入、利息與領回流程一次看懂](https://defense.shichilawfirm.com/blog/bail-deposit-return-guide/)
 - [背信罪是什麼？和侵占、詐欺怎麼分，被告了怎麼辦](https://defense.shichilawfirm.com/blog/breach-of-trust-vs-embezzlement-guide/)
 - [拒絕酒測會怎樣？18萬元罰鍰、吊銷駕照與強制採血界線](https://defense.shichilawfirm.com/blog/breath-test-refusal-dui-guide/)
 - [車禍調解怎麼進行？調解成立有什麼效力](https://defense.shichilawfirm.com/blog/car-accident-mediation-settlement/)
@@ -93,7 +109,6 @@
 - [被羈押後不起訴或無罪，可以聲請刑事補償嗎？期限、金額與程序](https://defense.shichilawfirm.com/blog/criminal-compensation-detention-guide/)
 - [警詢自白後可以翻供嗎？任意性、補強證據與筆錄爭議](https://defense.shichilawfirm.com/blog/criminal-confession-evidence-guide/)
 - [刑事被告保持緘默會更不利嗎？警詢、偵查與法院的回答策略](https://defense.shichilawfirm.com/blog/criminal-defendant-right-to-silence-guide/)
-- [刑事證據快消失怎麼辦？保全證據聲請資格、流程與5日規定](https://defense.shichilawfirm.com/blog/criminal-evidence-preservation-guide/)
 - [刑事案件傳聞證據是什麼？警詢筆錄、LINE對話與法定例外](https://defense.shichilawfirm.com/blog/criminal-hearsay-evidence-guide/)
 - [刑事案件可以聲請法官迴避嗎？法定事由、時點與抗告](https://defense.shichilawfirm.com/blog/criminal-judge-recusal-guide/)
 - [刑事判決無罪、免訴、不受理差在哪？再起訴與上訴一次看懂](https://defense.shichilawfirm.com/blog/criminal-judgment-acquittal-immunity-dismissal-guide/)
@@ -137,11 +152,9 @@
 - [欠錢不還就是詐欺嗎？刑事詐欺與民事債務糾紛怎麼分](https://defense.shichilawfirm.com/blog/fraud-vs-civil-debt-guide/)
 - [一群人在街上打架，在場的人也有罪嗎？](https://defense.shichilawfirm.com/blog/group-fight-public-order-crime/)
 - [幫朋友躲警察、刪對話紀錄，會有什麼罪？](https://defense.shichilawfirm.com/blog/hiding-offender-destroying-evidence/)
-- [車禍後離開現場算肇事逃逸嗎？刑責、無過失減刑與處理順序](https://defense.shichilawfirm.com/blog/hit-and-run-leaving-scene-guide/)
 - [刑事告訴怎麼提出？報警、告訴狀、委任律師與六個月期限](https://defense.shichilawfirm.com/blog/how-to-file-criminal-complaint-guide/)
 - [父母留下債務，子女要還嗎？限定責任、遺產清冊與拋棄繼承](https://defense.shichilawfirm.com/blog/inherited-debt-limited-liability/)
 - [筆錄有錄音錄影嗎？被恐嚇或疲勞訊問的自白能用嗎](https://defense.shichilawfirm.com/blog/interrogation-recording-improper-questioning/)
-- [傳訊息嗆人會構成恐嚇罪嗎？恐嚇、強制與恐嚇取財的差別](https://defense.shichilawfirm.com/blog/intimidation-threat-message-guide/)
 - [偵查中可以閱卷嗎？被告、律師與羈押案件的閱卷差別](https://defense.shichilawfirm.com/blog/investigation-file-review-guide/)
 - [幫朋友收投資款、拉人進群，會變成詐欺共犯嗎](https://defense.shichilawfirm.com/blog/investment-scam-helper-liability/)
 - [對方不肯離婚，可以請法院判離嗎？裁判離婚的事由](https://defense.shichilawfirm.com/blog/judicial-divorce-grounds/)
@@ -151,9 +164,7 @@
 - [借錢沒寫借據，還要得回來嗎？](https://defense.shichilawfirm.com/blog/lend-money-no-iou-recover/)
 - [把門號或SIM卡借給別人用，會有什麼刑責](https://defense.shichilawfirm.com/blog/lending-phone-number-sim-card/)
 - [幾歲開始要負刑事責任？未成年犯罪的刑度與少年法院](https://defense.shichilawfirm.com/blog/minor-criminal-responsibility-age/)
-- [買到改造槍或空氣槍會怎樣？槍砲條例的刑責](https://defense.shichilawfirm.com/blog/modified-air-gun-firearms-act/)
 - [洗錢防制法修法後，人頭帳戶案件真的比較有利嗎？](https://defense.shichilawfirm.com/blog/money-laundering-amendment-mule-accounts/)
-- [幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)
 - [不起訴確定後還會再被起訴嗎？新事實、新證據與第260條限制](https://defense.shichilawfirm.com/blog/non-prosecution-final-reprosecution-guide/)
 - [不起訴處分不服怎麼辦？10日再議與准許提起自訴](https://defense.shichilawfirm.com/blog/non-prosecution-reconsideration-guide/)
 - [妨害公務會判多久？推擠、拒檢與罵警察的刑責](https://defense.shichilawfirm.com/blog/obstructing-officer-insulting-police-guide/)
@@ -166,9 +177,7 @@
 - [收到支付命令怎麼辦？二十日內要做什麼](https://defense.shichilawfirm.com/blog/payment-order-received/)
 - [朋友拜託我作證幫他說話，說謊會變偽證罪嗎？](https://defense.shichilawfirm.com/blog/perjury-witness-lying/)
 - [警察可以半夜做筆錄嗎？夜間詢問例外、錄音與證據效力](https://defense.shichilawfirm.com/blog/police-night-interrogation-rights-guide/)
-- [警察可以看我的手機嗎？搜索、扣押與解鎖權利一次看](https://defense.shichilawfirm.com/blog/police-search-phone-guide/)
 - [正犯、共同正犯、教唆犯、幫助犯差在哪？刑度與詐欺人頭帳戶風險](https://defense.shichilawfirm.com/blog/principal-accomplice-difference-guide/)
-- [緩刑會被撤銷嗎？一次未報到、新案未確定與撤緩裁定](https://defense.shichilawfirm.com/blog/probation-revocation-guide/)
 - [砸車、刮車、弄壞別人東西會怎樣？毀損罪怎麼算](https://defense.shichilawfirm.com/blog/property-damage-crime-guide/)
 - [檢察官求刑法院一定照判嗎？一般求刑、簡易程序與認罪協商差異](https://defense.shichilawfirm.com/blog/prosecutor-sentencing-request-guide/)
 - [檢察官起訴後可以撤回嗎？撤回公訴條件、效力與再起訴限制](https://defense.shichilawfirm.com/blog/prosecutor-withdrawal-indictment-guide/)
@@ -213,26 +222,19 @@
 - [遺囑要怎麼寫才有效？自書、公證、代筆等五種遺囑方式](https://defense.shichilawfirm.com/blog/will-types-and-validity/)
 - [證人說錯話就是偽證嗎？具結、故意虛偽、拒絕證言與更正](https://defense.shichilawfirm.com/blog/witness-perjury-risk-guide/)
 - [被告公然侮辱或誹謗怎麼辦？網路留言罵人的刑責與和解](https://defense.shichilawfirm.com/blog/defamation-public-insult-guide/)
-- [毒品案件會判多久？持有、施用、轉讓與販賣刑度差別](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)
 - [酒駕被抓會怎樣？第一次酒駕的刑責、易科罰金與緩起訴](https://defense.shichilawfirm.com/blog/drunk-driving-first-offense-guide/)
 - [傷害罪會判多久？和解、撤告與易科罰金一次看懂](https://defense.shichilawfirm.com/blog/injury-sentence-settlement-withdrawal-fine/)
-- [被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)
 - [詐欺車手判多久？初犯、自首、和解與緩刑條件](https://defense.shichilawfirm.com/blog/fraud-mule-sentence/)
-- [詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)
 - [詐欺案件已經認罪，還需要請律師嗎？](https://defense.shichilawfirm.com/blog/fraud-plea-need-lawyer/)
 - [求職被騙去領錢、收包裹怎麼辦？被當詐欺車手後的處理重點](https://defense.shichilawfirm.com/blog/job-scam-mule-recruit/)
-- [收到地檢署傳票怎麼辦？偵查庭流程、被告與證人差別](https://defense.shichilawfirm.com/blog/summons-prosecutor-investigation/)
-- [警察通知我當證人做筆錄，可以不去嗎？證人的義務與拒絕證言](https://defense.shichilawfirm.com/blog/police-notice-witness-or-suspect/)
 - [緩刑是什麼？和不起訴、緩起訴有何不同？](https://defense.shichilawfirm.com/blog/probation-what-it-means/)
 - [警示帳戶怎麼解除？帳戶凍結、申請流程與人頭帳戶風險](https://defense.shichilawfirm.com/blog/warning-account-removal-guide/)
-- [被打還手算正當防衛嗎？互毆、防衛過當與傷害罪的界線](https://defense.shichilawfirm.com/blog/assault-self-defense/)
 - [車禍過失傷害被告流程：警詢、和解與緩起訴](https://defense.shichilawfirm.com/blog/car-accident-first-steps/)
 - [收到帳戶告誡書怎麼辦？洗錢防制法第22條告誡的限制與救濟](https://defense.shichilawfirm.com/blog/account-warning-remedy/)
 - [帳戶被當人頭帳戶會被起訴嗎？不起訴的判斷重點與證據準備](https://defense.shichilawfirm.com/blog/mule-account-self-protection/)
 - [詐欺犯罪危害防制條例修正後重點：加重門檻、減刑條件與假釋](https://defense.shichilawfirm.com/blog/fraud-prevention-act-amendment/)
 - [殺人未遂會判多久？和傷害罪、重傷罪怎麼區分](https://defense.shichilawfirm.com/blog/murder-attempt-sentence-advice/)
 - [被詐騙的錢拿得回來嗎？警示帳戶剩餘款發還與求償途徑](https://defense.shichilawfirm.com/blog/recover-scammed-money/)
-- [警察帶搜索票上門怎麼辦？搜索票要看哪四項、可以拒絕嗎](https://defense.shichilawfirm.com/blog/search-warrant-what-to-watch/)
 - [德州撲克算賭博嗎？玩家與場所經營者的法律風險](https://defense.shichilawfirm.com/blog/texas-holdem-is-it-gambling/)
 - [自行到案還會被上銬嗎？戒具使用的條件與到案前準備](https://defense.shichilawfirm.com/blog/voluntary-appearance-handcuffs/)
 
