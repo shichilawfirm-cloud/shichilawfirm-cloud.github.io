@@ -27,7 +27,7 @@
 - [劉豐億律師｜律師](https://defense.shichilawfirm.com/lawyers/liu-feng-yi/)：劉豐億律師承辦刑事、民事與家事案件，協助當事人整理事實與證據、撰擬書狀並出庭。 專長：刑事辯護、民事訴訟、家事事件。
 - [陳修聞律師｜律師](https://defense.shichilawfirm.com/lawyers/chen-xiu-wen/)：陳修聞律師承辦刑事與財經相關案件，並協助企業與個人的契約審閱與法律顧問事務。 專長：刑事辯護、財經刑法、契約與法律顧問。
 
-## 張榮成律師精選刑事程序與辯護指南（18篇；作者頁可交叉查核）
+## 張榮成律師精選刑事程序與辯護指南（20篇；作者頁可交叉查核）
 - [收到地檢署傳票怎麼辦？偵查庭流程、被告與證人差別](https://defense.shichilawfirm.com/blog/summons-prosecutor-investigation/)（作者：張榮成律師；主題：偵查庭、地檢署傳票、刑事程序、陪同偵訊）：收到地檢署傳票不等於已被起訴。先看傳票記載的身分、案由、時間與地點；被告與證人的權利及不到場效果不同，無法到場應在期日前聯絡承辦股確認請假或改期。
 - [警察通知我當證人做筆錄，可以不去嗎？證人的義務與拒絕證言](https://defense.shichilawfirm.com/blog/police-notice-witness-or-suspect/)（作者：張榮成律師；主題：證人、警詢、拒絕證言、偵查、筆錄）：被警察以證人身分通知做筆錄，法律效果和犯罪嫌疑人不同：警詢階段沒有拘提證人的規定，但檢察官或法院傳喚證人不到場可能被罰鍰與拘提。本文說明證人的義務、拒絕證言權，以及證人轉為被告的風險。
 - [警察帶搜索票上門怎麼辦？搜索票要看哪四項、可以拒絕嗎](https://defense.shichilawfirm.com/blog/search-warrant-what-to-watch/)（作者：張榮成律師；主題：搜索、扣押、偵查、搜索票、同意搜索）：警察持搜索票上門時，不能用強力抗拒，但可以要求出示搜索票，核對案由、對象、處所與有效期間，全程在場並拿到扣押收據。沒有搜索票時，要分辨是附帶搜索、逕行搜索還是同意搜索。
@@ -40,10 +40,12 @@
 - [詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)（作者：張榮成律師；主題：詐欺、減刑、和解、賠償、自白、自首）：詐欺案件的和解、賠償、自白與提供上手資料，法律效果並不相同。是否能減刑，要先確認罪名是否屬詐欺犯罪危害防制條例所稱詐欺犯罪，再核對自首或自白時點、六個月期限、付款與查獲結果。
 - [幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)（作者：張榮成律師；主題：洗錢、代收轉帳、犯罪所得、人頭帳戶、刑事辯護）：替人收款再轉帳不會當然成立洗錢罪。判斷時應逐層確認款項是否為特定犯罪所得、實際金流行為，以及證據能否證明行為人具有洗錢故意。
 - [毒品案件會判多久？持有、施用、轉讓與販賣刑度差別](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)（作者：張榮成律師；主題：毒品、持有毒品、施用毒品、轉讓毒品、販賣毒品、戒癮治療）：毒品案件沒有單一刑度。必須先確認毒品級別、行為是持有、施用、轉讓、意圖販賣而持有或販賣，再核對純質淨重、前案紀錄及是否符合戒癮治療或法定減刑。
+- [身上毒品比較多，會被認定意圖販賣嗎？持有與販賣的界線](https://defense.shichilawfirm.com/blog/drug-possession-intent-to-sell/)（作者：張榮成律師；主題：意圖販賣、持有毒品、販賣毒品、自白減刑、毒品）：法條沒有規定「超過幾公克就是要賣」。你是自己用但量比較多、手機裡有談價格的對話、還是分給朋友沒收錢？三種情況適用的條文與刑度差很多。本文先幫你分流，再並排說明持有、意圖販賣持有與販賣的界線與減刑條件。
 - [被告妨害性自主怎麼辦？偵查應對、證據保全與律師策略](https://defense.shichilawfirm.com/blog/sex-offense-defendant-investigation-guide/)（作者：張榮成律師；主題：妨害性自主、性侵害、警詢、偵查庭、證據保全）：被控妨害性自主後，應先確認涉嫌罪名與到案身分，完整保留對話、通聯、定位及消費紀錄，再依客觀時間軸準備警詢或偵查庭。不要私下施壓對方，也不要把單一反應或驗傷結果當成案件結論。
 - [被打還手算正當防衛嗎？互毆、防衛過當與傷害罪的界線](https://defense.shichilawfirm.com/blog/assault-self-defense/)（作者：張榮成律師；主題：正當防衛、傷害罪、防衛過當、互毆、告訴乃論）：正當防衛的前提是面對「現在不法之侵害」。侵害還沒開始或已經結束才動手，不算防衛；手段超過必要程度則是防衛過當，仍成立犯罪但得減輕或免除其刑。本文整理判斷重點與衝突後該保全的證據。
 - [傳訊息嗆人會構成恐嚇罪嗎？恐嚇、強制與恐嚇取財的差別](https://defense.shichilawfirm.com/blog/intimidation-threat-message-guide/)（作者：張榮成律師；主題：恐嚇罪、強制罪、恐嚇取財、訊息、討債）：恐嚇罪不是看語氣兇不兇，而是看有沒有拿對方的生命、身體、自由、名譽或財產來威脅，並且讓對方真的感到害怕。只是威脅是恐嚇；逼對方做事是強制；藉此要錢則是恐嚇取財，刑度差很多。
 - [車禍後離開現場算肇事逃逸嗎？刑責、無過失減刑與處理順序](https://defense.shichilawfirm.com/blog/hit-and-run-leaving-scene-guide/)（作者：張榮成律師；主題：肇事逃逸、車禍、過失傷害、公共危險、和解）：發生車禍有人受傷，沒有停下來處理就離開，可能構成肇事逃逸，最輕六個月有期徒刑。這個罪不看車禍是誰的錯，也不是告訴乃論；即使自己沒有過失，離開現場仍然成立，只是可以減輕或免除其刑。
+- [車禍過失傷害被告流程：警詢、和解與緩起訴](https://defense.shichilawfirm.com/blog/car-accident-first-steps/)（作者：張榮成律師；主題：車禍、過失傷害、和解、撤告、緩起訴）：收到車禍過失傷害通知後，應先保存行車紀錄器與現場證據、核對警詢筆錄，再處理初判表、鑑定、保險與調解。過失傷害是告訴乃論，但六個月是告訴期間，不是和解或撤告期限。
 - [買到改造槍或空氣槍會怎樣？槍砲條例的刑責](https://defense.shichilawfirm.com/blog/modified-air-gun-firearms-act/)（作者：張榮成律師；主題：槍砲條例、改造槍、空氣槍、持有槍枝、自首）：網路上買到改造手槍，或在家裡放著一把空氣槍，都可能碰到槍砲彈藥刀械管制條例。這部法律對持有的刑度不輕，但也有自首和供述來源的減免規定。本文用白話整理刑度、子彈與零件的規定，以及現在該先做什麼。
 - [緩刑會被撤銷嗎？一次未報到、新案未確定與撤緩裁定](https://defense.shichilawfirm.com/blog/probation-revocation-guide/)（作者：張榮成律師；主題：緩刑、再犯、撤銷緩刑、刑事程序、判決確定）：緩刑期間被偵查、起訴、一次未報到或未按期賠償，不代表一定撤銷。本文比較兩則公開裁定，整理無罪推定、情節重大、執行必要與抗告程序。
 
@@ -136,7 +138,6 @@
 - [把別人個資貼上網會怎樣？個資法的刑責與賠償](https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/)
 - [吸毒後開車會怎樣？毒駕的刑責與行政處罰](https://defense.shichilawfirm.com/blog/drug-driving-penalty/)
 - [觀察勒戒要關多久？流程、強制戒治與之後的結果](https://defense.shichilawfirm.com/blog/drug-observation-rehabilitation-process/)
-- [身上毒品比較多，會被認定意圖販賣嗎？持有與販賣的界線](https://defense.shichilawfirm.com/blog/drug-possession-intent-to-sell/)
 - [持有毒品多少會有刑責或加重？一至四級純質淨重門檻](https://defense.shichilawfirm.com/blog/drug-possession-pure-weight-threshold-guide/)
 - [販賣毒品供出上手就能減刑嗎？自白與「因而查獲」要件](https://defense.shichilawfirm.com/blog/drug-source-confession-sentence-reduction-guide/)
 - [毒品轉讓和販賣怎麼分？沒收錢、代購合資與未遂風險](https://defense.shichilawfirm.com/blog/drug-transfer-vs-sale-guide/)
@@ -229,7 +230,6 @@
 - [求職被騙去領錢、收包裹怎麼辦？被當詐欺車手後的處理重點](https://defense.shichilawfirm.com/blog/job-scam-mule-recruit/)
 - [緩刑是什麼？和不起訴、緩起訴有何不同？](https://defense.shichilawfirm.com/blog/probation-what-it-means/)
 - [警示帳戶怎麼解除？帳戶凍結、申請流程與人頭帳戶風險](https://defense.shichilawfirm.com/blog/warning-account-removal-guide/)
-- [車禍過失傷害被告流程：警詢、和解與緩起訴](https://defense.shichilawfirm.com/blog/car-accident-first-steps/)
 - [收到帳戶告誡書怎麼辦？洗錢防制法第22條告誡的限制與救濟](https://defense.shichilawfirm.com/blog/account-warning-remedy/)
 - [帳戶被當人頭帳戶會被起訴嗎？不起訴的判斷重點與證據準備](https://defense.shichilawfirm.com/blog/mule-account-self-protection/)
 - [詐欺犯罪危害防制條例修正後重點：加重門檻、減刑條件與假釋](https://defense.shichilawfirm.com/blog/fraud-prevention-act-amendment/)
