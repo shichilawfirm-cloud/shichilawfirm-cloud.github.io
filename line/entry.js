@@ -3,6 +3,7 @@
   'use strict';
   const SITE='https://defense.shichilawfirm.com', API='https://shichi-line-attribution.shichilawfirm.workers.dev';
   const DIRECT='https://line.me/R/ti/p/%40629xmmsh', LIFF='2012020380-bva8T4N3';
+  const ENTRY='https://liff.line.me/'+LIFF;
   if(location.origin!==SITE || location.pathname.startsWith('/line/'))return;
   let test=null, testKey='', busy=false, prepared=null, preparedAt=0;
   try {
@@ -23,8 +24,7 @@
     for(const k of ['gclid','gbraid','wbraid','fbclid','src'])if(q.get(k))a[k]=q.get(k).slice(0,160);
     const utm=[q.get('utm_source'),q.get('utm_campaign')].filter(Boolean).join('/');if(utm)a.utm=utm.slice(0,60);
     const has=['gclid','gbraid','wbraid','fbclid','src','utm'].some(k=>a[k]);
-    const unique=a.gclid||a.gbraid||a.wbraid||a.fbclid;
-    if(valid && (!has || (unique && ['gclid','gbraid','wbraid','fbclid','src','utm'].every(k=>a[k]===prev[k]))))a=prev;
+    if(valid && (!has || ['gclid','gbraid','wbraid','fbclid','src','utm'].every(k=>a[k]===prev[k])))a=prev;
     if(!has && !valid){try{const ref=new URL(document.referrer).hostname;if(ref && ref!==location.hostname)a.ref=ref.slice(0,60);}catch(_){}}
     try{localStorage.setItem('sl_attr_v2',JSON.stringify(a));}catch(_){}
     const out={vid:a.vid,land_date:new Date(a.ts+28800000).toISOString().slice(0,10).replace(/-/g,'')};
@@ -32,7 +32,11 @@
     for(const k of ['gclid','gbraid','wbraid','fbclid','src','utm','ref','land'])if(typeof a[k]==='string')out[k]=a[k].slice(0,200);
     return out;
   }
-  let captured;try{captured=attr();}catch(_){return;}
+  let captured,sourceVersion=0,preparing=null;try{captured=attr();}catch(_){return;}
+  const fresh=()=>prepared && Date.now()-preparedAt<480000?prepared:null;
+  function refreshSource() {
+    try{const latest=attr();if(JSON.stringify(latest)!==JSON.stringify(captured)){captured=latest;sourceVersion++;prepared=null;test=null;rewriteLinks(document);}}catch(_){}
+  }
   function trace(stage,detail='',url=prepared) {
     try {
       const bridge=url?new URL(url).searchParams.get('bridge'):null;
@@ -42,60 +46,88 @@
   }
   function lineAnchor(event) {
     const a=event.target?.closest?.('a[href]');if(!a)return;
-    try {const u=new URL(a.href);if(u.origin==='https://line.me' && decodeURIComponent(u.pathname)==='/R/ti/p/@629xmmsh')return a;}catch(_){}
+    if(isLine(a.href))return a;
   }
-  // 只有可歸因的付費流量（30 天內帶 gclid、gbraid、wbraid、fbclid、src 或 utm 進站）才走 LINE 授權；
-  // 自然搜尋、直接輸入網址的訪客維持原本的 line.me 連結，不多一個授權畫面。測試金鑰不受此限。
-  const paid=['gclid','gbraid','wbraid','fbclid','src','utm'].some(k=>typeof captured[k]==='string' && captured[k]);
-  if(!paid && !testKey){
-    window.addEventListener('click',event=>{if(lineAnchor(event))trace('direct_no_source');},{capture:true});
-    return;
+  function isLine(href) {
+    try {
+      const u=new URL(href,location.href);if(u.username||u.password)return false;
+      return (u.origin==='https://line.me' && decodeURIComponent(u.pathname)==='/R/ti/p/@629xmmsh')
+        || (u.origin==='https://page.line.me' && u.pathname==='/629xmmsh')
+        || (u.origin==='https://lin.ee' && ['/ZZsQ3FE','/4m9Ceeq'].includes(u.pathname))
+        || (u.origin==='https://liff.line.me' && u.pathname==='/'+LIFF);
+    }catch(_){return false;}
   }
+  // Every official LINE entrance uses LIFF, including copied links/new tabs.
+  // Reapply after React hydration and client-side navigation add old anchors.
+  function rewriteLinks(root) {
+    const links=[];
+    if(root.matches?.('a[href]'))links.push(root);
+    if(root.querySelectorAll)links.push(...root.querySelectorAll('a[href]'));
+    const destination=fresh()||ENTRY;
+    for(const a of links)if(isLine(a.href) && a.href!==destination)a.href=destination;
+  }
+  rewriteLinks(document);
+  new MutationObserver(records=>{for(const r of records){
+    if(r.type==='attributes')rewriteLinks(r.target);
+    else for(const n of r.addedNodes)rewriteLinks(n);
+  }}).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['href']});
   let prepareStage='config';
   async function prepare() {
+    const version=sourceVersion,snapshot=JSON.stringify(captured);
     prepareStage='config';
     const cfgResponse=await fetch('/line/config.json',{cache:'no-store',signal:AbortSignal.timeout(1500)});
     if(!cfgResponse.ok)throw Error();
     const cfg=await cfgResponse.json();
     if(cfg.mode!=='production' || cfg.enabled!==true || cfg.apiOrigin!==API || cfg.liffId!==LIFF)throw Error();
     prepareStage='start';
-    const r=await fetch(API+'/api/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(captured),cache:'no-store',referrerPolicy:'no-referrer',signal:AbortSignal.timeout(1500)});
+    const r=await fetch(API+'/api/start',{method:'POST',headers:{'Content-Type':'application/json'},body:snapshot,cache:'no-store',referrerPolicy:'no-referrer',signal:AbortSignal.timeout(1500)});
     if(!r.ok)throw Error();
     const result=await r.json();
     const u=new URL(result.url);
     if(u.origin!=='https://liff.line.me' || u.pathname!=='/'+LIFF || u.username || u.password || !/^[\w-]{16}\.[\w-]{80,4000}$/.test(u.searchParams.get('bridge')||''))throw Error();
-    test=result.test===true;
-    return u.href;
+    return {url:u.href,test:result.test===true,version};
   }
-  prepare().then(url=>{prepared=url;preparedAt=Date.now();}).catch(()=>{});
+  function accept(result) {
+    if(result.version!==sourceVersion)return null;
+    test=result.test;prepared=result.url;preparedAt=Date.now();rewriteLinks(document);return prepared;
+  }
+  function prepareShared() {
+    if(preparing?.version===sourceVersion)return preparing.promise;
+    const job={version:sourceVersion,promise:null};
+    job.promise=prepare().then(accept).finally(()=>{if(preparing===job)preparing=null;});
+    preparing=job;return job.promise;
+  }
+  prepareShared().catch(()=>{});
+  const nativeIntent=event=>{const a=lineAnchor(event);if(a){refreshSource();rewriteLinks(a);}};
+  window.addEventListener('contextmenu',nativeIntent,{capture:true});
+  window.addEventListener('pointerdown',nativeIntent,{capture:true});
   // 從 LINE／LIFF 按「上一頁」回來時頁面常由 BFCache 復原，busy 會留在 true；一律解鎖，按鈕才不會失效。
-  window.addEventListener('pageshow',()=>{busy=false;});
+  window.addEventListener('pageshow',()=>{busy=false;rewriteLinks(document);});
   window.addEventListener('click',event=>{
     const a=lineAnchor(event);if(!a)return;
-    // 一般 LINE 按鈕沿用正式站同分頁串接；Ctrl／Cmd／Shift／中鍵維持瀏覽器原本行為。
-    if((event.button||0)!==0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey){trace('new_tab_direct');return;}
-    let u;try{u=new URL(a.href);}catch(_){return;}
-    if(u.origin!=='https://line.me' || decodeURIComponent(u.pathname)!=='/R/ti/p/@629xmmsh')return;
+    // Refresh source if the visitor reached a new campaign via client navigation.
+    refreshSource();
+    a.href=fresh()||ENTRY;
+    // Native new-tab actions also land on LIFF; the return page creates a bridge.
+    const held=test===true && fresh();
+    const target=a.getAttribute?.('target') || document.querySelector?.('base[target]')?.getAttribute('target') || '';
+    if((event.button||0)!==0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey || (target && target.toLowerCase()!=='_self')){
+      if(held)event.stopImmediatePropagation();return;
+    }
     // Existing GoogleTag continues recording ordinary button clicks; only tests
     // stop propagation so owner verification never becomes an Ads conversion.
-    const held=test===true && prepared && Date.now()-preparedAt<480000;
-    if(!paid && !held){trace('direct_no_source','',null);return;}
     event.preventDefault();if(held)event.stopImmediatePropagation();
     if(busy)return;busy=true;
     setTimeout(()=>{busy=false;},8000);   // 離頁失敗（例如被瀏覽器擋下）也要在幾秒後解鎖
     const navigate=url=>{
-      // Unverified test flags never suppress or replace the original event.
-      // An arbitrary/expired test fragment must not force an organic visitor
-      // through authorization. Only the server can grant this exception.
-      if(!paid && test!==true){trace('direct_no_source','',url===DIRECT?null:url);url=DIRECT;}
-      else if(url===DIRECT)trace('fallback',prepareStage);
+      if(url===DIRECT)trace('fallback',prepareStage);
       else trace('line_click','',url);
       location.assign(url);
     };
-    if(prepared && Date.now()-preparedAt<480000){navigate(prepared);return;}
+    if(fresh()){navigate(fresh());return;}
     let done=false;
     const leave=url=>{if(done)return;done=true;clearTimeout(timer);navigate(url);};
-    const timer=setTimeout(()=>leave(DIRECT),1800);
-    prepare().then(leave).catch(()=>leave(DIRECT));
+    const timer=setTimeout(()=>leave(fresh()||DIRECT),1800);
+    prepareShared().then(url=>leave(url||fresh()||DIRECT)).catch(()=>leave(fresh()||DIRECT));
   },{capture:true});
 }());

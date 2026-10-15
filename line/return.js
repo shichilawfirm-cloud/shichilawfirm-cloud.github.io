@@ -17,7 +17,25 @@
       fetch(API+'/api/diagnostic',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body),keepalive:true,referrerPolicy:'no-referrer'}).catch(()=>{});
     } catch(_) {}
   }
-  trace('return_open');
+  if(bridge)trace('return_open');
+  // A native new-tab/copy of the public LIFF link has no per-click bridge.
+  // Restore only the browser's saved source; absent evidence stays unknown.
+  async function createBridge() {
+    let saved=null;try{saved=JSON.parse(localStorage.getItem('sl_attr_v2'));}catch(_){}
+    const now=Date.now();
+    const valid=saved && /^[A-Z2-9]{4}$/.test(saved.vid) && Number.isFinite(saved.ts) && now>=saved.ts && now-saved.ts<2592000000;
+    const alphabet='ABCDEFGHJKMNPQRSTUVWXYZ23456789';
+    const a={vid:valid?saved.vid:Array.from(crypto.getRandomValues(new Uint8Array(4)),n=>alphabet[n%alphabet.length]).join(''),
+      land_date:new Date((valid?saved.ts:now)+28800000).toISOString().slice(0,10).replace(/-/g,'')};
+    if(valid)for(const k of ['gclid','gbraid','wbraid','fbclid','src','utm','ref','land'])if(typeof saved[k]==='string')a[k]=saved[k].slice(0,200);
+    try{const key=sessionStorage.getItem('sl_line_test_key');if(/^[a-f0-9]{64}$/.test(key||''))a.test_key=key;}catch(_){}
+    const r=await fetch(API+'/api/start',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(a),referrerPolicy:'no-referrer',signal:AbortSignal.timeout(1500)});
+    if(!r.ok)throw Error();
+    const u=new URL((await r.json()).url);
+    if(u.origin!=='https://liff.line.me' || u.pathname!=='/2012020380-bva8T4N3' || u.username || u.password)throw Error();
+    const token=u.searchParams.get('bridge');if(!/^[\w-]{16}\.[\w-]{80,4000}$/.test(token||''))throw Error();
+    return token;
+  }
   const leave = () => {
     if (finished) return;
     finished = true;
@@ -53,7 +71,8 @@
     if (finished) return;
     // LIFF must first restore its secondary redirect query parameters.
     stage = 'bridge';
-    const token = new URL(location.href).searchParams.get('bridge');
+    let token = new URL(location.href).searchParams.get('bridge') || bridge;
+    if(!token && !bridge){stage='start';token=await createBridge();if(finished)return;bridge=token;trace('return_open');}
     if (!/^[\w-]{16}\.[\w-]{80,4000}$/.test(token || '')) throw Error();
     if (!liff.isLoggedIn()) {
       stage = 'login';
