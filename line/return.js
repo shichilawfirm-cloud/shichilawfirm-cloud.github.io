@@ -3,10 +3,27 @@
   'use strict';
   const DIRECT = 'https://line.me/R/ti/p/%40629xmmsh';
   const SITE = 'https://defense.shichilawfirm.com';
+  const API = 'https://shichi-line-attribution.shichilawfirm.workers.dev';
   let finished = false, stage = 'config';
+  let bridge='';
+  try {
+    const q=new URL(location.href).searchParams;
+    bridge=q.get('bridge') || new URL(q.get('liff.state')||'',SITE).searchParams.get('bridge') || '';
+    if(!/^[\w-]{16}\.[\w-]{80,4000}$/.test(bridge))bridge='';
+  } catch(_) {}
+  function trace(event,detail='') {
+    try {
+      const body=bridge?{bridge,stage:event,detail}:{attempt:crypto.randomUUID(),stage:'fallback',detail:'bridge'};
+      fetch(API+'/api/diagnostic',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body),keepalive:true,referrerPolicy:'no-referrer'}).catch(()=>{});
+    } catch(_) {}
+  }
+  trace('return_open');
   const leave = () => {
     if (finished) return;
     finished = true;
+    const status=stage.slice(10);
+    const detail=stage.startsWith('bind-http-')?(['400','401','403','404','408','409','429','500','502','503','504'].includes(status)?status:'invalid'):stage;
+    if(stage!=='bound')trace('fallback',detail);
     console.info('[line-attribution] ' + stage);
     clearTimeout(deadline);
     history.replaceState(null, '', location.pathname);
@@ -40,6 +57,7 @@
     if (!/^[\w-]{16}\.[\w-]{80,4000}$/.test(token || '')) throw Error();
     if (!liff.isLoggedIn()) {
       stage = 'login';
+      trace('login_redirect');
       liff.login({redirectUri: SITE + '/line/return.html?bridge=' + encodeURIComponent(token)});
       return;
     }
