@@ -74,22 +74,16 @@
     let token = new URL(location.href).searchParams.get('bridge') || bridge;
     if(!token && !bridge){stage='start';token=await createBridge();if(finished)return;bridge=token;trace('return_open');}
     if (!/^[\w-]{16}\.[\w-]{80,4000}$/.test(token || '')) throw Error();
-    // External-browser sessions can outlive the one-hour ID token. Renew only
-    // the LIFF app session; the LINE account cookie still permits smooth login.
-    let refresh = false;
+    // 10-17 張律師核准：手機瀏覽器跳 LINE 登入頁會讓客人放棄（10/16 三次真人全卡在登入頁）。
+    // 未登入或登入已過期一律不叫登入，直接開加好友；只有已登入者才綁定身分。
+    let expired = false;
     if (liff.isLoggedIn() && !liff.isInClient()) {
       const claims = liff.getDecodedIDToken();
-      refresh = !!claims && Number.isFinite(claims.exp) && claims.exp * 1000 <= Date.now();
-      if (refresh) {
-        stage = 'id-token';
-        if (new URL(location.href).searchParams.get('line_refresh') === '1') throw Error();
-        liff.logout();
-      }
+      expired = !!claims && Number.isFinite(claims.exp) && claims.exp * 1000 <= Date.now();
     }
-    if (!liff.isLoggedIn()) {
+    if (!liff.isLoggedIn() || expired) {
       stage = 'login';
-      trace('login_redirect');
-      liff.login({redirectUri: SITE + '/line/return.html?bridge=' + encodeURIComponent(token) + (refresh ? '&line_refresh=1' : '')});
+      leave();
       return;
     }
     stage = 'id-token';
