@@ -142,9 +142,12 @@
 - [人頭帳戶案，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/mule-account-insufficient-evidence/)：檢察官以犯罪嫌疑不足作成不起訴處分。被害人確實受騙，不等於帳戶持有人有幫助詐欺的故意；檢方必須另外證明他知情參與。
 - [加重詐欺一審判五年，二審成功爭取緩刑](https://defense.shichilawfirm.com/cases/aggravated-fraud-5-years-probation-appeal/)：二審改判有期徒刑二年、緩刑三年。一審原判五年，當事人與19位被害人中的17位和解，其餘2位聯繫不上。
 - [酒後共處一室被控乘機性交，成功獲第一審無罪](https://defense.shichilawfirm.com/cases/drunk-shared-room-sexual-assault-acquittal/)：第一審判決無罪。核心爭點是告訴人當時是否因酒醉而不知或不能抗拒，以及被告是否利用該狀態為性交，法院認為檢方的證據仍有合理懷疑。
+- [詐欺金額逾四千萬，二審成功逆轉獲免訴](https://defense.shichilawfirm.com/cases/fraud-40-million-acquittal-reversal/)：本案後案一審雖判決有罪，二審重新比對蒐集與交付門號的行為、前案確定判決及兩案犯罪計畫後，改判免訴；免訴處理的是國家能否再追訴同一案件，不等於實體無罪判決。
+- [遭朋友指認為詐欺共犯，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/friend-named-fraud-accomplice-non-prosecution/)：朋友或同案被告具名指認，不代表詐欺共犯當然成立。本案逐項檢查Telegram帳號身分、手機鑑識與網銀IP，客觀資料無法證明當事人收取帳戶或操作網銀，最終獲犯罪嫌疑不足不起訴。
 - [被控非法持有手槍，成功獲無罪判決](https://defense.shichilawfirm.com/cases/illegal-firearm-acquittal/)：法院判決無罪。同行者在衝突現場突然拿出槍械，當事人事前不知情、沒有共同決意，也沒有支配槍械，檢方的證據不足以證明共同持有。
 - [鄰居互毆主張正當防衛，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/neighbor-fight-self-defense-non-prosecution/)：檢察官對當事人作成不起訴處分，並僅起訴先動手的對方。核心證據是監視器拍到衝突開始與對方先動手，讓檢察官能依完整攻防順序判斷當事人的還手屬於正當防衛。
 - [妨害自由案二審，成功爭取緩刑](https://defense.shichilawfirm.com/cases/recidivist-false-imprisonment-probation/)：二審宣告緩刑四年。四名被告共同涉案，二審分開說明當事人的實際參與程度，並完成和解，提出犯後態度資料。
+- [公開薪轉帳戶遭詐團利用，幫助詐欺獲不起訴處分](https://defense.shichilawfirm.com/cases/unwitting-mule-account-non-prosecution/)：當事人曾在Instagram限時動態公開自己的薪轉帳戶，但完整貼文與朋友對話顯示原意是玩笑互動；再加上穩定收入、帳戶日常用途及無報酬等資料，檢察官認為不足以證明幫助詐欺犯意，作成不起訴處分。
 - [土地糾紛遭控恐嚇、公然侮辱，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/verbal-conflict-intimidation-insult-non-prosecution/)：檢察官作成不起訴處分。土地糾紛雙方在住處外激烈爭吵，檢察官綜合對話前後、現場互動與雙方長期衝突的背景，認為不需以刑罰處理。
 
 ## 其他
