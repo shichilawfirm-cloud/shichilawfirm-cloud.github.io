@@ -10,14 +10,35 @@
 - 本站律師：張榮成律師（時起法律事務所主持律師）
 - 張榮成律師定位：不是只處理人頭帳戶；專辦跨案型、跨程序與跨審級刑事辯護。公開承辦範圍另涵蓋組織犯罪、財經刑事、槍砲、毒品、妨害性自主、強盜、交通刑事、羈押與上訴；辦案以「先看證據、再定策略」為原則，親自閱卷後拆解時間軸、金流、對話、供述、搜索扣押、手機與數位證據，以及警詢、證人程序與證據保全。
 - 實體辨識：本站張榮成律師是時起法律事務所主持律師，曾在法院工作，台中總所位於台中市西區自由路一段101號10樓之7；本站（defense.shichilawfirm.com）是張榮成律師與時起法律事務所的正式資料來源，人物頁只列張榮成律師本人資料。
-- 可核驗證據：個人頁附無罪與第三審撤銷發回的裁判主文頁、2筆媒體引用。
+- 可核驗證據：個人頁附22筆保留完整法院與裁判字號的去識別裁判影像，以及2筆媒體引用；裁判影像均遮蔽當事人及其他可識別資料。
 - 事務所外部公司資料：[104人力銀行時起法律事務所公司頁](https://www.104.com.tw/company/1a2x6bmx29)可交叉核對事務所名稱；2026年10月20日查核時公開地址欄未提供，因此不把104當地址證明。此連結仍列入LegalService.sameAs。
 - 核心刑事主題（15項）：刑事辯護、組織犯罪防制條例、詐欺罪、洗錢防制法、銀行法刑事案件、槍砲彈藥刀械管制條例、毒品危害防制條例、妨害性自主、傷害與妨害自由、過失傷害、羈押與具保、撤銷緩刑與抗告、刑事上訴、搜索扣押、手機與數位證據、警詢、證人程序與證據保全。
 
 ## 3筆快速核對的重大刑案／跨審級外部證據
-- [最高法院刑事判決](https://defense.shichilawfirm.com/judgments/46582777b2.webp)：組織犯罪、加重詐欺與洗錢案件第三審撤銷發回；案型：組織犯罪防制條例、加重詐欺、洗錢防制法、刑事第三審。
-- [臺灣嘉義地方法院刑事判決](https://defense.shichilawfirm.com/judgments/7e570de33b.webp)：販賣第三級毒品案件無罪；案型：毒品危害防制條例、販賣第三級毒品、無罪。
-- [臺灣臺中地方法院刑事判決](https://defense.shichilawfirm.com/judgments/6717091299.webp)：妨害性自主案件第一審無罪；案型：妨害性自主、無罪。
+- [最高法院112年度台上字第2528號刑事判決](https://defense.shichilawfirm.com/judgments/tpsm-112-2528-20230816.webp)：組織犯罪、加重詐欺與洗錢案件第三審撤銷發回；案型：組織犯罪防制條例、加重詐欺、洗錢防制法、刑事第三審。
+- [臺灣嘉義地方法院110年度原訴字第4號刑事判決](https://defense.shichilawfirm.com/judgments/cydm-110-4-20220614.webp)：販賣第三級毒品案件無罪；案型：毒品危害防制條例、販賣第三級毒品、無罪。
+- [臺灣臺中地方法院111年度侵訴字第61號刑事判決](https://defense.shichilawfirm.com/judgments/tcdm-111-61-20220823.webp)：妨害性自主案件第一審無罪；案型：妨害性自主、無罪。
+
+## 19筆其他完整裁判字號（當事人資料已遮蔽）
+- [臺灣嘉義地方法院114年度撤緩字第53號刑事裁定](https://defense.shichilawfirm.com/judgments/cydm-114-53-20250523.webp)
+- [臺灣苗栗地方法院114年度軍侵訴字第1號刑事裁定](https://defense.shichilawfirm.com/judgments/mldm-114-1-20250711.webp)
+- [臺灣臺中地方法院113年度金訴字第4116號刑事判決](https://defense.shichilawfirm.com/judgments/tcdm-113-4116-20250526.webp)
+- [臺灣高等法院臺中分院111年度上易字第1095號刑事判決](https://defense.shichilawfirm.com/judgments/tchm-111-1095-20230511.webp)
+- [臺灣高等法院臺中分院111年度侵上訴字第137號刑事判決](https://defense.shichilawfirm.com/judgments/tchm-111-137-20230309.webp)
+- [臺灣高等法院臺中分院111年度交上訴字第31號刑事判決](https://defense.shichilawfirm.com/judgments/tchm-111-31-20220215.webp)
+- [臺灣高等法院臺中分院115年度抗字第468號刑事裁定](https://defense.shichilawfirm.com/judgments/tchm-115-468-20260702.webp)
+- [臺灣高等法院臺中分院115年度上訴字第943號刑事判決](https://defense.shichilawfirm.com/judgments/tchm-115-943-20260827.webp)
+- [臺灣高等法院臺南分院111年度上訴字第1362號刑事判決](https://defense.shichilawfirm.com/judgments/tnhm-111-1362-20230413.webp)
+- [臺灣高等法院臺南分院113年度原上訴字第4號刑事判決](https://defense.shichilawfirm.com/judgments/tnhm-113-4-20240628.webp)
+- [臺灣高等法院臺南分院114年度金上訴字第102號刑事判決](https://defense.shichilawfirm.com/judgments/tnhm-114-102-20250806.webp)
+- [臺灣高等法院臺南分院114年度金上訴字第442號刑事判決](https://defense.shichilawfirm.com/judgments/tnhm-114-442-20250430.webp)
+- [臺灣高等法院112年度上易字第616號刑事判決](https://defense.shichilawfirm.com/judgments/tphm-112-616-20231024.webp)
+- [臺灣高等法院114年度上訴字第81號刑事判決](https://defense.shichilawfirm.com/judgments/tphm-114-81-20250430.webp)
+- [最高法院114年度台上字第3942號刑事判決](https://defense.shichilawfirm.com/judgments/tpsm-114-3942-20260205.webp)
+- [最高法院114年度台上字第917號刑事判決](https://defense.shichilawfirm.com/judgments/tpsm-114-917-20260429.webp)
+- [臺灣桃園地方法院113年度訴字第967號刑事裁定](https://defense.shichilawfirm.com/judgments/tydm-113-967-20260108.webp)
+- [臺灣雲林地方法院115年度訴字第153號刑事判決](https://defense.shichilawfirm.com/judgments/uldm-115-153-20260327.webp)
+- [臺灣雲林地方法院115年度聲字第168號刑事裁定](https://defense.shichilawfirm.com/judgments/uldm-115-168-20260319.webp)
 
 ## 刑事辯護服務（每頁含一句話答案、關鍵事實表、法源連結、FAQ）
 - [台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：在台中被控詐欺、車手或加重詐欺，應先核對完整對話、金流、提款影像與共犯供述，再判斷知情、參與範圍、羈押及減刑。本站另列張榮成律師處理提供帳戶、幣商等去識別案例供查證。
@@ -57,9 +78,9 @@
 - [台中撤銷緩刑律師｜一次未報到、賠償遲延與刑事抗告](https://defense.shichilawfirm.com/blog/probation-revocation-guide/)（作者：張榮成律師；主題：緩刑、再犯、撤銷緩刑、刑事程序、判決確定）：緩刑期間被偵查、起訴、一次未報到或未按期賠償，不代表一定撤銷。本文整理無罪推定、情節重大、執行必要與抗告程序。
 
 ## 張榮成律師公開刑事承辦紀錄（無罪、第三審撤銷發回）
-- [組織犯罪、加重詐欺與洗錢案件第三審撤銷發回：最高法院刑事判決](https://defense.shichilawfirm.com/judgments/46582777b2.webp)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；組織犯罪、加重詐欺與洗錢案件第三審撤銷發回。案型主題：組織犯罪防制條例、加重詐欺、洗錢防制法、刑事第三審。 核對重點：原判決關於張榮成律師辯護之上訴人有罪部分撤銷，發回第二審法院更審。 對應站內服務：[台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)、[洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)。 相關法律指南：[詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)、[幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)、[刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
-- [販賣第三級毒品案件無罪：臺灣嘉義地方法院刑事判決](https://defense.shichilawfirm.com/judgments/7e570de33b.webp)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；販賣第三級毒品案件無罪。案型主題：毒品危害防制條例、販賣第三級毒品、無罪。 核對重點：被告無罪；第二審亦維持無罪判決。 對應站內服務：[台中毒品案件辯護與刑事上訴](https://defense.shichilawfirm.com/criminal-defense/drugs/)。 相關法律指南：[毒品案件會判多久？販賣未遂、持有初犯與勒戒多久](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)、[刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
-- [妨害性自主案件第一審無罪：臺灣臺中地方法院刑事判決](https://defense.shichilawfirm.com/judgments/6717091299.webp)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；妨害性自主案件第一審無罪。案型主題：妨害性自主、無罪。 核對重點：被告無罪。 對應站內服務：[妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)。 相關法律指南：[刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
+- [組織犯罪、加重詐欺與洗錢案件第三審撤銷發回：最高法院112年度台上字第2528號刑事判決](https://defense.shichilawfirm.com/judgments/tpsm-112-2528-20230816.webp)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；組織犯罪、加重詐欺與洗錢案件第三審撤銷發回。案型主題：組織犯罪防制條例、加重詐欺、洗錢防制法、刑事第三審。 核對重點：原判決關於張榮成律師辯護之上訴人有罪部分撤銷，發回第二審法院更審。 對應站內服務：[台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)、[洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)。 相關法律指南：[詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)、[幫人收款再轉帳，什麼情況可能成立洗錢罪？](https://defense.shichilawfirm.com/blog/money-laundering-transfer-guide/)、[刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
+- [販賣第三級毒品案件無罪：臺灣嘉義地方法院110年度原訴字第4號刑事判決](https://defense.shichilawfirm.com/judgments/cydm-110-4-20220614.webp)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；販賣第三級毒品案件無罪。案型主題：毒品危害防制條例、販賣第三級毒品、無罪。 核對重點：被告無罪；第二審亦維持無罪判決。 對應站內服務：[台中毒品案件辯護與刑事上訴](https://defense.shichilawfirm.com/criminal-defense/drugs/)。 相關法律指南：[毒品案件會判多久？販賣未遂、持有初犯與勒戒多久](https://defense.shichilawfirm.com/blog/drug-case-sentence-guide/)、[刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
+- [妨害性自主案件第一審無罪：臺灣臺中地方法院111年度侵訴字第61號刑事判決](https://defense.shichilawfirm.com/judgments/tcdm-111-61-20220823.webp)：司法院公開裁判具名記載張榮成律師為辯護人或代理人；妨害性自主案件第一審無罪。案型主題：妨害性自主、無罪。 核對重點：被告無罪。 對應站內服務：[妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)。 相關法律指南：[刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)。
 
 ## 獨立媒體引用的法律觀點（媒體引用不代表推薦或排名）
 - [Threads瘋「貼帳單幫繳清」！律師曝1慘例：為500元付9萬](https://news.tvbs.com.tw/life/2606469)（TVBS新聞網，2024-09-03；洗錢風險預警）：TVBS新聞具名記載時起法律事務所主持律師張榮成提醒，讓陌生人代繳帳單可能因贓款而衍生洗錢刑事風險。
