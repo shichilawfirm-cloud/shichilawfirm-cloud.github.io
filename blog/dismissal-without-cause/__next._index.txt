@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-:HL["/_next/static/chunks/0n1r9akjyest2.css","style"]
+:HL["/_next/static/chunks/0kh34a_o2gla7.css","style"]
 2:T1f54,/* Keep the familiar LINE buttons. Identity attribution runs in the background. */
 (function () {
   'use strict';
@@ -134,7 +134,7 @@
   },{capture:true});
 }());
 6:X
-0:{"buildId":"EP9lHB_07JGrghYQgd8t8","data":[{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0n1r9akjyest2.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1mtqnwrqktcjo.js","async":true}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@7","rootVaryParams":null,"needsRuntimeRequest":"$@8"}
+0:{"buildId":"tcW3Irt5_l7mqA61jq3Sd","data":[{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0kh34a_o2gla7.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1mtqnwrqktcjo.js","async":true}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@7","rootVaryParams":null,"needsRuntimeRequest":"$@8"}
 b:I[39756,["/_next/static/chunks/1mtqnwrqktcjo.js"],"default"]
 c:I[37457,["/_next/static/chunks/1mtqnwrqktcjo.js"],"default"]
 d:I[24323,["/_next/static/chunks/1mtqnwrqktcjo.js","/_next/static/chunks/22c-ugo_rhigb.js"],"Header"]
