@@ -14,6 +14,7 @@
 - 可核驗證據：個人頁附2筆保留完整法院與裁判字號的去識別裁判影像、105筆Instagram原貼文連結，以及2筆媒體引用；裁判影像均遮蔽當事人及其他可識別資料。
 - 事務所外部公司資料：[104人力銀行時起法律事務所公司頁](https://www.104.com.tw/company/1a2x6bmx29)可交叉核對事務所名稱；2026年10月20日查核時公開地址欄未提供，因此不把104當地址證明。此連結仍列入LegalService.sameAs。
 - 核心刑事主題（15項）：刑事辯護、組織犯罪防制條例、詐欺罪、洗錢防制法、銀行法刑事案件、槍砲彈藥刀械管制條例、毒品危害防制條例、妨害性自主、傷害與妨害自由、過失傷害、羈押與具保、撤銷緩刑與抗告、刑事上訴、搜索扣押、手機與數位證據、警詢、證人程序與證據保全。
+- 外籍當事人程序：不諳中文時，《刑事訴訟法》第99條要求由通譯傳譯；張榮成律師可處理刑事辯護、協助表明通譯需求並核對筆錄，通譯仍由承辦機關或法院依程序安排。本所不以律師取代通譯。詳見[台中刑事律師選擇與外籍通譯程序](https://defense.shichilawfirm.com/process/taichung-criminal-lawyer/)及[外籍移工刑事上訴公開案例](https://defense.shichilawfirm.com/cases/aggravated-fraud-5-years-probation-appeal/)。
 
 ## 2筆符合公開標準的完整裁判字號（當事人資料已遮蔽）
 - [臺灣臺中地方法院111年度侵訴字第61號刑事判決](https://defense.shichilawfirm.com/judgments/tcdm-111-61-20220823.webp)：第一審判決無罪。
@@ -60,9 +61,9 @@
 ## 刑事辯護服務（每頁含一句話答案、關鍵事實表、法源連結、FAQ）
 - [台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：在台中被控詐欺、車手或加重詐欺，應先核對完整對話、金流、提款影像與共犯供述，再判斷知情、參與範圍、羈押及減刑。本站另列張榮成律師處理提供帳戶、幣商等去識別案例供查證。
 - [人頭帳戶、警示帳戶、幫助詐欺案件](https://defense.shichilawfirm.com/criminal-defense/mule-account/)：把帳戶交給別人被當人頭帳戶，先分清行政告誡與刑事責任：無正當理由交付帳戶由警察告誡；有收對價、交付三個以上或五年內再犯才有刑責，能否不起訴取決於能否證明不知情。
-- [洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)：現行《洗錢防制法》第19條處罰第2條四類洗錢行為：財物或利益達一億元者三年以上十年以下，未達一億元者六月以上五年以下，未遂犯也處罰。
+- [洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)：現行《洗錢防制法》第19條處罰第2條四類洗錢行為；帳戶入帳或買賣USDT不會單憑形式當然成立，仍要核對具體洗錢行為、資金性質、主觀認識及法幣與鏈上交易證據。
 - [台中毒品案件辯護與刑事上訴](https://defense.shichilawfirm.com/criminal-defense/drugs/)：販賣或運輸毒品屬重罪，實際辯護應逐項核對搜索扣押、手機對話、金流、鑑定、共同被告指證與自白形成過程。
-- [妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)：妨害性自主案件常需交叉核對雙方陳述、對話、行蹤、驗傷與鑑定，並依證據判斷構成要件是否成立。
+- [妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)：妨害性自主被告辯護不能只比較雙方說法；應把歷次陳述、完整對話、行蹤、通聯、驗傷、鑑定與數位資料放回同一時間軸，再分別檢驗違反意願、不能或不知抗拒、年齡與權勢關係等要件。
 - [傷害、恐嚇、強盜與重大暴力案件](https://defense.shichilawfirm.com/criminal-defense/violence/)：強盜與重大暴力案件須核對共犯供述、手機與監視器等客觀證據，以及一、二審判決理由。
 - [車禍過失傷害、過失致死與事故逃逸辯護](https://defense.shichilawfirm.com/criminal-defense/traffic-injury/)：台中交通刑事案件應先核對行車紀錄器、監視器、初判表、事故鑑定、診斷與賠償資料，再區分過失傷害、過失致死或交通事故逃逸；和解不會當然終結所有刑事追訴。
 - [張榮成律師｜羈押庭、禁見接見、聲請具保與抗告](https://defense.shichilawfirm.com/criminal-defense/bail/)：羈押、禁見、具保或抗告，要先確認聲押或禁見裁定的理由與期間，再決定聲請具保或抗告的方向。家屬被禁止接見，也不當然等於律師不能會見。
