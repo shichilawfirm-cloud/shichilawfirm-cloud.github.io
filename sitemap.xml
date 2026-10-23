@@ -63,6 +63,11 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://defense.shichilawfirm.com/privacy/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://defense.shichilawfirm.com/locations/taichung-west/</loc>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
