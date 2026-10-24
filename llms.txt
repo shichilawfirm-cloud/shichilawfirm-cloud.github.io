@@ -193,6 +193,7 @@
 - [張榮成律師](https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/)
 - [台中總所交通](https://defense.shichilawfirm.com/locations/taichung-west/)
 - [刑事辯護與承辦案例（去識別化）](https://defense.shichilawfirm.com/cases/)
+- 完整內文版（服務頁、程序導覽與精選指南全文）：https://defense.shichilawfirm.com/llms-full.txt
 - Sitemap：https://defense.shichilawfirm.com/sitemap.xml
 
 ## 使用說明

@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0p0cssx71pe09.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","inheritance-representation",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","inheritance-representation","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/03jndzb1frbch.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0p0cssx71pe09.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"6GSDV_LGHLeHieGQh9vJ2"}
+0:{"P":null,"c":["","blog","inheritance-representation",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","inheritance-representation","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/03jndzb1frbch.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0p0cssx71pe09.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lZjZCXAT5CozZDigC8wfn"}
 e:I[39756,["/_next/static/chunks/0p0cssx71pe09.js"],"default"]
 f:I[37457,["/_next/static/chunks/0p0cssx71pe09.js"],"default"]
 10:I[24323,["/_next/static/chunks/0p0cssx71pe09.js","/_next/static/chunks/1szeu5twg2vij.js"],"Header"]
@@ -172,43 +172,51 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 28:["$","header",null,{"className":"mt-6","children":[["$","p",null,{"className":"text-[13px] tracking-widest text-[#d4b46a]","children":["法律知識","｜家事"]}],["$","h1",null,{"className":"mt-3 text-3xl font-medium leading-snug tracking-wide text-[#efe9dc] md:text-[38px] md:leading-[1.35]","children":"遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？"}],["$","p",null,{"className":"mt-4 text-[13px] tracking-wide text-[#a39c8d]","children":["作者：","時起法律事務所"]}],["$","ul",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","li","法律知識",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","法律知識"]}]]}]]}]
 29:["$","aside",null,{"data-cta":"ask-lawyer","className":"flex flex-col gap-4 rounded-lg border border-[#00b34d]/40 bg-[#edf9f1] px-5 py-5 md:flex-row md:items-center md:justify-between mt-6","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-[18px] font-bold leading-snug text-[#12301f]","children":"現在就遇到這件事？加 LINE 直接問律師"}],["$","p",null,{"className":"mt-1 text-[14px] leading-relaxed text-[#3d5246]","children":"把通知書拍照傳過來，說一下目前進度，律師先告訴你下一步。"}]]}],["$","div",null,{"className":"flex shrink-0 flex-col items-stretch gap-2 md:items-end","children":[["$","a",null,{"href":"https://page.line.me/629xmmsh","className":"btn-line justify-center whitespace-nowrap rounded-lg px-7 py-3.5 text-[17px]","children":[["$","$L25",null,{"ref":"$undefined","iconNode":"$19:props:children:0:props:children:0:props:iconNode","className":"lucide-message-circle h-5 w-5"}]," 加 LINE 諮詢"]}],["$","a",null,{"href":"tel:+886-909-579-081","className":"text-center text-[13px] text-[#3d5246] underline decoration-[#00b34d]/50 underline-offset-4 hover:text-[#12301f]","children":["或撥事務所電話 ","0909-579-081"]}]]}]]}]
 2a:["$","aside",null,{"aria-label":"作者與事務所資訊","className":"mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 border-y border-[#c9a961]/25 py-3 text-[13px] tracking-wide text-[#d6cfc0]","children":["$undefined",false,["$","span",null,{"children":"臺中地方法院旁，步行約 1 分鐘"}],["$","$L11",null,{"href":"/cases/","className":"text-[#d4b46a] underline decoration-[#c9a961]/50 underline-offset-4 hover:text-[#e3c98a]","children":"看承辦案例 →"}]]}]
-31:T156c,<p>關鍵議題： 代位繼承、直系血親卑親屬、應繼分、同時存在原則
+31:T1cb6,<p>關鍵議題： 代位繼承、直系血親卑親屬、應繼分、同時存在原則
 前面誰是繼承人的文章有提過，第一順位繼承人是直系血親卑親屬，比如兒子或女兒，而應繼分的比例就是被繼承人的配偶與直系血親卑親屬平均分配。但今天就有人來詢問律師，自己的哥哥在父親過世前早已離世，所以遺產應該由母親與自己一人一半，豈料姪子卻說自己也要繼承遺產，想請問他的主張是否有理由？現在就由律師來告訴你代位繼承到底是怎麼一回事。</p>
 <p><strong>一、代位繼承制度</strong></p>
 <p>首先說明到底什麼是代位繼承，簡單來說就是第一順序的繼承人（例如被繼承人的兒子、女兒），於繼承開始前死亡或喪失繼承權者，再由其直系血親卑親屬代位繼承其應繼分。舉個例子，被繼承人甲有三位子女乙、丙、丁以及甲之配偶，於甲死亡前丙已過世多年，但丙有子女戊跟己，依照代位繼承的規定，由戊跟己代位丙的部分。</p>
-<p><img src="/images/migrated/9ed1e262_F1174788677473.webp" alt="" /></p>
+<p><img src="/images/migrated/9ed1e262_F1174788677473.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖1" /></p>
 <p>那可能有人會問，原本甲的遺產由甲之配偶及乙、丙、丁四人平分，只因為丙先於甲死亡不能繼承，就由丙的小孩戊跟己來繼承，此時繼承人變成五個人，難道不會對甲之配偶及乙、丁不公平嗎？其實並不會，因為戊、己只能代位繼承原屬於丙的部分，而不是直接跟其他人平分，所以不會侵害其他繼承人的權利。</p>
 <p><strong>二、什麼是同時存在原則？</strong></p>
 <p>意思是繼承開始時，繼承人當下必須還生存才能繼承遺產，上面的案例中，丙在甲死亡前早已過世，所以不符合同時存在原則，但因為代位繼承的關係，所以戊、己可以繼承原屬於丙的遺產，以下用三個例子來說明差異：</p>
 <p>案例1：</p>
 <p>甲有配偶與子女乙、丙、丁，於甲死亡前丙已經過世多年，然而丙有子女戊跟己（本案例就是上面的例子）。</p>
-<p><img src="/images/migrated/9ed1e262_F1174788677473.webp" alt="" /></p>
+<p><img src="/images/migrated/9ed1e262_F1174788677473.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖2" /></p>
 <p>因為丙不符合同時存在原則，所以不能繼承甲的遺產，但因代位繼承的關係，所以可以由戊、己繼承原屬於丙的遺產，所以最終的比例如下：</p>
-<p><img src="/images/migrated/fbbb77cb_F2174788677491.webp" alt="" /></p>
+<p><img src="/images/migrated/fbbb77cb_F2174788677491.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖3" /></p>
 <p>案例2：</p>
 <p>甲有配偶與子女乙、丙、丁，於甲死亡後沒多久，丙也因為意外過世，然而丙有子女戊跟己。在這個案例中，繼承發生時丙還活著，因此丙還是甲的繼承人，至於丙對甲的繼承權，則由戊跟己繼承。</p>
-<p><img src="/images/migrated/550c12fd_F3174788677497.webp" alt="" /></p>
+<p><img src="/images/migrated/550c12fd_F3174788677497.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖4" /></p>
 <p>因為丙符合同時存在原則，所以能繼承甲的遺產，所以繼承的比例如下：</p>
-<p><img src="/images/migrated/90b2a826_F4174788677518.webp" alt="" /></p>
+<p><img src="/images/migrated/90b2a826_F4174788677518.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖5" /></p>
 <p>案例3：</p>
 <p>甲有配偶與子女乙、丙、丁，於甲死亡前丙已經過世多年，然而丙並沒有任何子女。</p>
-<p><img src="/images/migrated/f47c4c02_F5174788677524.webp" alt="" /></p>
+<p><img src="/images/migrated/f47c4c02_F5174788677524.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖6" /></p>
 <p>本案例中丙不符合同時存在原則，所以丙不能繼承甲的遺產，而且丙也沒有任何子女不會有代位繼承的問題，所以繼承比例如下：</p>
-<p><img src="/images/migrated/528c2bea_F6174788677536.webp" alt="" /></p>
+<p><img src="/images/migrated/528c2bea_F6174788677536.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖7" /></p>
 <p><strong>三、哪些人能被代位？只有第一順位的繼承人</strong></p>
 <p>特別注意，依照民法1140條的規定，只有第一順位的繼承人才有代位繼承的適用，如果是第二順位（父母）、第三順位（兄弟姊妹）、第四順位（祖父母），並沒有代位繼承的適用，舉個例子：</p>
 <p>乙沒有任何子女也無配偶，而乙的父母也早已過世，僅有弟弟丙、妹妹丁二人，而在乙死亡前，丙早已過世多年，但丙有子女戊一人。</p>
-<p><img src="/images/migrated/5e1b4835_F7174788677542.webp" alt="" /></p>
+<p><img src="/images/migrated/5e1b4835_F7174788677542.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖8" /></p>
 <p>本案例中被繼承人乙沒有第一、第二順位之繼承人，第三順位之繼承人為丙、丁二人，而丙先於乙死亡，故對乙沒有繼承權，且戊亦不符合代位繼承之規定，故僅有丁可以繼承乙的遺產，繼承比例如下：</p>
-<p><img src="/images/migrated/858ad930_F8174788677559.webp" alt="" /></p>
+<p><img src="/images/migrated/858ad930_F8174788677559.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖9" /></p>
 <p><strong>四、拋棄繼承後沒有代位繼承的適用</strong></p>
 <p>依照民法第1140條的規定，第一順位之繼承人於繼承開始前死亡或喪失繼承權者，才由直系血親卑親屬代位繼承，如果是拋棄繼承就沒有代位繼承的適用！舉個例子：</p>
 <p>甲有配偶與子女乙、丙、丁，甲過世後丙隨即拋棄繼承，而丙有子女戊跟己。</p>
-<p><img src="/images/migrated/aa4e3f0c_F9174788677565.webp" alt="" /></p>
+<p><img src="/images/migrated/aa4e3f0c_F9174788677565.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖10" /></p>
 <p>因為拋棄繼承後，應繼分歸屬於其他同順位之繼承人，所以戊跟己無法代位繼承，繼承比例如下：</p>
-<p><img src="/images/migrated/9348b144_F10174788677581.webp" alt="" /></p>
+<p><img src="/images/migrated/9348b144_F10174788677581.webp" alt="遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？ 說明圖11" /></p>
 <p><strong>五、結語</strong></p>
 <p>代位繼承制度是為了維護各子股間的公平，以及保護被代位人的直系血親卑親屬之期待利益，所以不會因為代位繼承就侵害到其他繼承人的利益，反而代位人的權利可能會被忽略，而後造成繼承糾紛，有相關繼承問題最好盡早諮詢律師，避免不必要的麻煩。</p>
+<h2 id="s1">法源與查核日期</h2>
+<p>以下條文於 2026-10-24 在全國法規資料庫查核：</p>
+<ul>
+<li>民法第1138條：<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1138" rel="noopener noreferrer">全國法規資料庫</a></li>
+<li>民法第1140條：<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1140" rel="noopener noreferrer">全國法規資料庫</a></li>
+<li>民法第1176條：<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=1176" rel="noopener noreferrer">全國法規資料庫</a></li>
+</ul>
+<p>本文是一般法律資訊，不能取代個案法律意見。</p>
 2b:["$","div",null,{"className":"mt-8","children":["$","div",null,{"className":"paper px-5 py-8 text-[#222] md:px-12 md:py-14","children":[["$","img",null,{"src":"/images/migrated/187483ea_AT2174825384096.webp","alt":"遺產與繼承者們(三) 代位繼承是什麼？父母的財產怎麼會輪到姪子繼承？","width":1200,"height":675,"className":"mb-8 w-full rounded-md object-cover","loading":"lazy","decoding":"async"}],["$","section",null,{"className":"quick-answer mb-6 border-l-4 border-l-[#b8933f] bg-[#efe9df] px-5 py-4","aria-label":"快速回答","children":[["$","p",null,{"className":"text-[11px] tracking-[0.3em] text-[#9a7a2f]","children":"QUICK ANSWER"}],["$","p",null,{"className":"quick-answer-text mt-2 text-[17px] font-semibold leading-relaxed text-[#1a1a1a]","children":"代位繼承依民法第1140條，只適用第一順序繼承人在繼承開始前死亡或喪失繼承權的情形，由其直系血親卑親屬繼承原本的應繼分；父母、兄弟姊妹、祖父母這些順位沒有代位繼承，拋棄繼承也不能代位。"}]]}],null,["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$31"}}],false,"$L32"]}]}]
 2c:["$","section",null,{"className":"mt-14","children":[["$","p",null,{"className":"eyebrow","children":"FAQ"}],["$","h2",null,{"className":"mt-2 text-2xl font-semibold tracking-wide text-[#efe9dc]","children":"常見問題"}],["$","dl",null,{"className":"mt-6 divide-y divide-[#c9a961]/20 border-y border-[#c9a961]/20","children":[["$","div","姪子可以代位繼承祖父母的遺產嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"姪子可以代位繼承祖父母的遺產嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"可以。哥哥在父親過世前先死亡，哥哥的子女依民法第1140條代位繼承哥哥原本的應繼分，只拿哥哥那一份，不會稀釋其他繼承人的份額。"}]]}],["$","div","哥哥在父親過世後才死亡，也是代位繼承嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"哥哥在父親過世後才死亡，也是代位繼承嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"不是。繼承開始時哥哥還在世，符合同時存在原則，他本人已取得繼承權，再由他的繼承人依一般規定繼承，這種情形稱為再轉繼承。"}]]}],["$","div","拋棄繼承後子女可以代位嗎？",{"className":"py-5 md:grid md:grid-cols-[1fr_2fr] md:gap-8","children":[["$","dt",null,{"className":"text-[17px] font-medium leading-relaxed text-[#efe9dc]","children":"拋棄繼承後子女可以代位嗎？"}],["$","dd",null,{"className":"mt-2 text-[15px] leading-loose text-[#d6cfc0] md:mt-0","children":"不行。民法第1140條只規定死亡或喪失繼承權兩種情形，拋棄繼承的應繼分依民法第1176條歸屬其他同順位繼承人。"}]]}]]}]]}]
 2d:["$","section",null,{"className":"band-ink mt-14 p-7 md:p-10","children":[["$","p",null,{"className":"eyebrow","children":"CONTACT"}],["$","p",null,{"className":"serif mt-3 text-2xl font-semibold tracking-wide text-white md:text-[28px]","children":"現在就需要律師？"}],["$","p",null,{"className":"mt-3 max-w-2xl text-[15px] leading-loose text-white/80","children":"收到通知書、被移送、要開羈押庭，請直接來電或加 LINE，先把目前程序告訴律師。"}],["$","div",null,{"className":"mt-6 flex flex-wrap gap-3","children":[["$","a",null,{"href":"https://page.line.me/629xmmsh","className":"btn-line","children":"加 LINE 諮詢"}],["$","a",null,{"href":"tel:+886-909-579-081","className":"inline-flex items-center bg-[#c9a961] px-6 py-3 text-[15px] font-medium tracking-widest text-[#efe9dc] hover:bg-[#e3c98a]","children":["事務所電話 ","0909-579-081"]}]]}],["$","p",null,{"className":"mt-5 text-[13px] text-white/50","children":["台中總所：","台中市西區自由路一段101號10樓之7","（","臺中地方法院旁（法院為自由路一段91號，步行約 1 分鐘）","）｜嘉義分所：","嘉義市東區雅竹路7號"]}]]}]
