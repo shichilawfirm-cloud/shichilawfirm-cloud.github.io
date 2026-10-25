@@ -26,10 +26,10 @@
 - [洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)：現行《洗錢防制法》第19條處罰第2條四類洗錢行為；帳戶入帳或買賣USDT不會單憑形式當然成立，仍要核對具體洗錢行為、資金性質、主觀認識及法幣與鏈上交易證據。
 - [台中毒品案件辯護與刑事上訴](https://defense.shichilawfirm.com/criminal-defense/drugs/)：販賣或運輸毒品屬重罪，實際辯護應逐項核對搜索扣押、手機對話、金流、鑑定、共同被告指證與自白形成過程。
 - [妨害性自主、性騷擾案件辯護](https://defense.shichilawfirm.com/criminal-defense/sex-offense/)：妨害性自主被告辯護不能只比較雙方說法；應把歷次陳述、完整對話、行蹤、通聯、驗傷、鑑定與數位資料放回同一時間軸，再分別檢驗違反意願、不能或不知抗拒、年齡與權勢關係等要件。
-- [傷害、恐嚇、強盜與重大暴力案件](https://defense.shichilawfirm.com/criminal-defense/violence/)：強盜與重大暴力案件須核對共犯供述、手機與監視器等客觀證據，以及一、二審判決理由。
+- [傷害、恐嚇、強盜與重大暴力案件](https://defense.shichilawfirm.com/criminal-defense/violence/)：普通傷害罪最重五年，原則上告訴乃論；和解後仍要依法撤告。若另涉重傷、妨害公務、恐嚇、妨害自由或強盜，不能用同一套撤告結論，應先分清罪名與客觀證據。
 - [車禍過失傷害、過失致死與事故逃逸辯護](https://defense.shichilawfirm.com/criminal-defense/traffic-injury/)：台中交通刑事案件應先核對行車紀錄器、監視器、初判表、事故鑑定、診斷與賠償資料，再區分過失傷害、過失致死或交通事故逃逸；和解不會當然終結所有刑事追訴。
 - [張榮成律師｜羈押庭、禁見接見、聲請具保與抗告](https://defense.shichilawfirm.com/criminal-defense/bail/)：羈押、禁見、具保或抗告，要先確認聲押或禁見裁定的理由與期間，再決定聲請具保或抗告的方向。家屬被禁止接見，也不當然等於律師不能會見。
-- [警示帳戶、告誡處分怎麼辦](https://defense.shichilawfirm.com/criminal-defense/warning-account/)：帳戶被警示、收到告誡書，先分清三件事：警示帳戶是銀行依通報的金融限制、告誡是警察機關的行政處分、刑事責任另由檢察官判斷；解除要找原通報機關，告誡可聲明異議或訴願。
+- [警示帳戶、告誡處分怎麼辦](https://defense.shichilawfirm.com/criminal-defense/warning-account/)：帳戶被警示、收到告誡書，先分清三件事：警示帳戶是銀行依通報的金融限制、告誡是警察機關的行政處分、刑事責任另由檢察官判斷；不服告誡原則上應在送達次日起三十日內依法提起訴願。
 - [妨害名譽、公然侮辱、誹謗案件](https://defense.shichilawfirm.com/criminal-defense/defamation/)：被告公然侮辱或誹謗，先分清是抽象謾罵（刑法第309條）還是指摘具體事實（第310條）；本章之罪告訴乃論，第一審辯論終結前可撤回，真實不罰與善意評論不罰是爭取不起訴的核心。
 - [人頭帳戶情境故事：100種被騙交付帳戶、代收轉款的經過](https://defense.shichilawfirm.com/criminal-defense/mule-account/stories/)：依常見風險整理並改編的複合情境，並說明出事後先做什麼，以及律師可協助的程序判斷、證據整理、陪同詢問與書面答辯。
 
