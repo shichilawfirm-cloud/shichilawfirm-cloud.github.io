@@ -75,6 +75,13 @@
 - [收到警局通知書怎麼辦？刑事律師教你到場前 5 步驟](https://defense.shichilawfirm.com/process/police-notice/)：警局通知書可能是通知犯罪嫌疑人，也可能是通知證人。先確認通知身分與案由，不要無故不到場；到場前整理資料，並依身分評估是否先諮詢或由律師陪同。
 
 ## 法律知識（精選60篇；完整網址見Sitemap）
+- [被詐騙的錢拿得回來嗎？警示帳戶剩餘款發還與求償途徑](https://defense.shichilawfirm.com/blog/recover-scammed-money/)
+- [傷害罪判多久？和解金額、撤告與初犯易科罰金](https://defense.shichilawfirm.com/blog/injury-sentence-settlement-withdrawal-fine/)
+- [刑事附帶民事何時提出？起訴後到二審辯論終結前的流程](https://defense.shichilawfirm.com/blog/criminal-attached-civil-action-timing/)
+- [拒絕酒測罰多少？會被關嗎？18萬元與刑事責任一次看](https://defense.shichilawfirm.com/blog/breath-test-refusal-dui-guide/)
+- [刑事判決確定後如何聲請再審？新證據、期限與程序說明](https://defense.shichilawfirm.com/blog/criminal-retrial-application-guide/)
+- [刑事解除委任狀怎麼寫？換律師、送件與卷宗交接](https://defense.shichilawfirm.com/blog/criminal-change-lawyer-guide/)
+- [假釋通過後多久出來？24小時釋放、報到與保護管束期間](https://defense.shichilawfirm.com/blog/parole-conditions-guide/)
 - [警示帳戶、衍生管制帳戶怎麼解除？申請流程與人頭帳戶風險](https://defense.shichilawfirm.com/blog/warning-account-removal-guide/)
 - [詐欺車手判多久？初犯、自首、和解與緩刑條件](https://defense.shichilawfirm.com/blog/fraud-mule-sentence/)
 - [刑事律師費用多少？警詢、偵查、一審到上訴怎麼計費](https://defense.shichilawfirm.com/blog/criminal-lawyer-fees-guide/)
@@ -84,7 +91,6 @@
 - [離婚可以要贍養費嗎？民法第1057條的條件與常見誤解](https://defense.shichilawfirm.com/blog/alimony-after-divorce/)
 - [法定障礙時間是什麼？被逮捕後多久移送、24小時怎麼算](https://defense.shichilawfirm.com/blog/arrest-24-hour-detention-guide/)
 - [背信罪是什麼？四個成立要件、刑責與侵占詐欺差別](https://defense.shichilawfirm.com/blog/breach-of-trust-vs-embezzlement-guide/)
-- [拒絕酒測罰多少？會被關嗎？18萬元與刑事責任一次看](https://defense.shichilawfirm.com/blog/breath-test-refusal-dui-guide/)
 - [車禍調解流程怎麼走？調解委員會與調解成立的效力](https://defense.shichilawfirm.com/blog/car-accident-mediation-settlement/)
 - [車禍撞死人會判多久？過失致死與和解](https://defense.shichilawfirm.com/blog/car-accident-negligent-homicide/)
 - [離婚後可以改監護權嗎？改定親權的條件與流程](https://defense.shichilawfirm.com/blog/change-custody-after-divorce/)
@@ -104,8 +110,6 @@
 - [犯罪被害人可以參與刑事審判嗎？資格、聲請期限與程序權利](https://defense.shichilawfirm.com/blog/crime-victim-trial-participation-guide/)
 - [被指控犯罪但不在場怎麼辦？不在場證明與證據保全](https://defense.shichilawfirm.com/blog/criminal-alibi-evidence-guide/)
 - [刑事上訴可以撤回嗎？時點、方式、效力與再上訴限制](https://defense.shichilawfirm.com/blog/criminal-appeal-withdrawal-guide/)
-- [刑事附帶民事何時提出？起訴後到二審辯論終結前的流程](https://defense.shichilawfirm.com/blog/criminal-attached-civil-action-timing/)
-- [刑事解除委任狀怎麼寫？換律師、送件與卷宗交接](https://defense.shichilawfirm.com/blog/criminal-change-lawyer-guide/)
 - [被羈押後不起訴或無罪，可以聲請刑事補償嗎？期限、金額與程序](https://defense.shichilawfirm.com/blog/criminal-compensation-detention-guide/)
 - [警詢自白後可以翻供嗎？任意性、補強證據與筆錄爭議](https://defense.shichilawfirm.com/blog/criminal-confession-evidence-guide/)
 - [刑事被告保持緘默會更不利嗎？警詢、偵查與法院的回答策略](https://defense.shichilawfirm.com/blog/criminal-defendant-right-to-silence-guide/)
@@ -117,7 +121,6 @@
 - [準備程序庭是什麼？認罪會怎樣、開多久與後續流程](https://defense.shichilawfirm.com/blog/criminal-pretrial-preparation-procedure/)
 - [未扣案犯罪所得也會沒收嗎？追徵、和解與發還被害人](https://defense.shichilawfirm.com/blog/criminal-proceeds-confiscation-compensation-guide/)
 - [刑事案件被限制出境出海怎麼辦？期間、延長與救濟](https://defense.shichilawfirm.com/blog/criminal-restriction-exit-guide/)
-- [刑事判決確定後如何聲請再審？新證據、期限與程序說明](https://defense.shichilawfirm.com/blog/criminal-retrial-application-guide/)
 - [刑事和解書怎麼寫？必寫內容：給付、撤告與違約條款](https://defense.shichilawfirm.com/blog/criminal-settlement-agreement-clauses/)
 - [收到法院刑事證人傳票可以不去嗎？到庭、拒絕證言與費用](https://defense.shichilawfirm.com/blog/criminal-witness-subpoena-guide/)
 - [交互詰問規則：順序、主詰問與反詰問、誘導問題例外](https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/)
@@ -132,9 +135,6 @@
 - [羈押多久？偵查中、審判中期間，延長次數與通知救濟](https://defense.shichilawfirm.com/blog/detention-period-extension-guide/)
 - [被公司無預警資遣合法嗎？預告期間與資遣費怎麼算](https://defense.shichilawfirm.com/blog/dismissal-without-cause/)
 - [離婚調解怎麼進行？調解成立的效力與不成立怎麼辦](https://defense.shichilawfirm.com/blog/divorce-mediation-process/)
-- [個資法是告訴乃論嗎？第41條例外與貼文刑責](https://defense.shichilawfirm.com/blog/doxxing-personal-data-penalty/)
-- [吸毒後開車會怎樣？毒駕的刑責與行政處罰](https://defense.shichilawfirm.com/blog/drug-driving-penalty/)
-- [觀察勒戒要關多久？流程、強制戒治與之後的結果](https://defense.shichilawfirm.com/blog/drug-observation-rehabilitation-process/)
 
 ## 代表案例（已實質重寫、去識別化；個案結果不構成保證）
 - [提供帳戶涉幫助詐欺、洗錢，成功爭取緩刑](https://defense.shichilawfirm.com/cases/account-aiding-fraud-laundering-confession-probation/)：法院宣告緩刑二年。當事人提供帳戶被控幫助詐欺、洗錢，到案後坦承，也和被害人和解、賠償；法院考量他是幫助角色、犯後態度良好。
