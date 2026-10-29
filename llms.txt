@@ -44,7 +44,7 @@
 - [手機被警察扣押怎麼辦？如何查詢、多久拿回與解鎖權利](https://defense.shichilawfirm.com/blog/police-search-phone-guide/)（作者：張榮成律師；主題：手機搜索、手機扣押、數位證據、同意搜索、刑事偵查）：警察查扣手機，不代表當然可以無限制翻看全部資料。先分清楚搜索、扣押、同意與解鎖要求，核對法律依據、範圍及現場文件。
 - [刑事證據快消失怎麼辦？保全證據聲請資格、流程與5日規定](https://defense.shichilawfirm.com/blog/criminal-evidence-preservation-guide/)（作者：張榮成律師；主題：保全證據、刑事偵查、證據保存、刑事程序、檢察官）：監視器、通訊紀錄或其他證據有被刪除、隱匿或難以使用的風險時，告訴人、犯罪嫌疑人、被告或辯護人，可在偵查中依法聲請保全證據。
 - [刑事判決不服怎麼上訴？張榮成律師談二、三審與20日期限](https://defense.shichilawfirm.com/process/criminal-appeal-guide/)（作者：張榮成律師；主題：上訴、第二審、第三審、上訴期間、量刑上訴）：收到刑事判決後，上訴期限是送達後二十日，上訴狀要送到原來判決的法院，而且要從判決與卷證指出具體理由。說明刑事上訴如何重新檢查證據、程序與法律適用。
-- [聲押是什麼？家人被聲押怎麼辦、羈押庭流程與交保](https://defense.shichilawfirm.com/process/detention-hearing/)（作者：張榮成律師；主題：羈押庭、聲請羈押、具保、刑事程序）：家人被檢察官聲請羈押時，先確認法院與案號，整理固定住居、工作、照護與可替代羈押的資料。聲押不等於一定羈押，法院仍須審查犯罪嫌疑、羈押原因與必要性。
+- [家人被聲押怎麼辦？羈押庭流程、律師與交保一次看懂](https://defense.shichilawfirm.com/process/detention-hearing/)（作者：張榮成律師；主題：羈押庭、聲請羈押、具保、刑事程序）：家人被檢察官聲請羈押時，先確認法院與案號，整理固定住居、工作、照護與可替代羈押的資料。聲押不等於一定羈押，法院仍須審查犯罪嫌疑、羈押原因與必要性。
 - [家人被羈押禁見怎麼辦？接見、送物與律師會見一次看懂](https://defense.shichilawfirm.com/blog/detention-no-contact-family-guide/)（作者：張榮成律師；主題：羈押、禁見、看守所、律師接見、刑事程序）：家人被羈押禁見時，親友通常不能直接接見或通信，但不代表律師也一律不能會見。先確認看守所、案號與禁見裁定範圍，再由符合法定身分的家屬選任律師，並向看守所確認金錢、衣物、藥品等送入規則。
 - [交保金多久能領回？會退嗎？退保、沒入、利息與領回流程](https://defense.shichilawfirm.com/blog/bail-deposit-return-guide/)（作者：張榮成律師；主題：交保金、退保、刑事保證金、具保、保證金沒入）：宣判當天拿不到交保金是正常的。錢要先等具保責任免除、機關之間互相通知、原收繳單位核對具保人，最後才送銀行撥匯；三個營業日是從銀行接到通知才開始算。家人代繳、收據遺失、被告曾經沒到庭，各有不同的處理方式。
 - [詐欺案件想爭取減刑？和解、賠償、自白與供出上手怎麼看](https://defense.shichilawfirm.com/blog/fraud-sentence-reduction-restitution/)（作者：張榮成律師；主題：詐欺、減刑、和解、賠償、自白、自首）：詐欺案件的和解、賠償、自白與提供上手資料，法律效果並不相同。是否能減刑，要先確認罪名是否屬詐欺犯罪危害防制條例所稱詐欺犯罪，再核對自首或自白時點、六個月期限、付款與查獲結果。
@@ -125,7 +125,7 @@
 - [刑事判決確定後如何聲請再審？新證據、期限與程序說明](https://defense.shichilawfirm.com/blog/criminal-retrial-application-guide/)
 - [刑事和解書怎麼寫？必寫內容：給付、撤告與違約條款](https://defense.shichilawfirm.com/blog/criminal-settlement-agreement-clauses/)
 - [收到法院刑事證人傳票可以不去嗎？到庭、拒絕證言與費用](https://defense.shichilawfirm.com/blog/criminal-witness-subpoena-guide/)
-- [交互詰問規則：順序、主詰問與反詰問、誘導問題例外](https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/)
+- [交互詰問規則：順序、誘導問題例外與開庭時怎麼問證人](https://defense.shichilawfirm.com/blog/cross-examination-witness-basics/)
 - [個人買賣虛擬貨幣，為什麼會被當成洗錢或詐欺](https://defense.shichilawfirm.com/blog/crypto-otc-trader-fraud-risk/)
 - [法院怎麼決定小孩跟誰？親權酌定的考量](https://defense.shichilawfirm.com/blog/custody-decision-factors/)
 - [惡意逼車、擋車、攔車會構成什麼罪？](https://defense.shichilawfirm.com/blog/dangerous-driving-road-rage/)
