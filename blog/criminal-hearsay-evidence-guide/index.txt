@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","criminal-hearsay-evidence-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","criminal-hearsay-evidence-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","criminal-hearsay-evidence-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","criminal-hearsay-evidence-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -205,7 +205,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 4c:["$","li","s9",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"09"}],["$","a",null,{"href":"#s9","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"LINE對話截圖是傳聞證據嗎？"}]]}]
 4d:["$","li","s10",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"10"}],["$","a",null,{"href":"#s10","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"準備程序中應如何逐項檢查傳聞證據？"}]]}]
 4e:["$","li","s11",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"11"}],["$","a",null,{"href":"#s11","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"傳聞證據常見問題"}]]}]
-51:T3215,<p><strong>傳聞證據通常是被告以外的人在審判外所作陳述，拿來證明內容真實；原則不得使用，但警詢陳述、特定文書或經同意，符合法定要件時仍可能有證據能力。</strong></p>
+51:T31df,<p><strong>傳聞證據通常是被告以外的人在審判外所作陳述，拿來證明內容真實；原則不得使用，但警詢陳述、特定文書或經同意，符合法定要件時仍可能有證據能力。</strong></p>
 <p>看到卷內有警詢筆錄、轉述或 LINE 截圖，不能立刻說「都是傳聞所以無效」，也不能因資料看起來完整就直接採用。應先問陳述者是誰、在哪裡說、這份資料要證明什麼，再檢查是否符合傳聞例外與對質詰問保障。</p>
 <h2 id="s1">刑事案件的傳聞證據是什麼？</h2>
 <p>依<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=159" rel="noopener noreferrer">《刑事訴訟法》第159條</a>，被告以外的人如果是在法庭之外說的話，不論口頭或寫成書面，原則上都不能拿來當證據，只有法律另有特別規定時才是例外。實際判斷可分三道門檻：</p>
@@ -308,7 +308,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <h2 id="s12">本文依據哪些官方法源？</h2>
 <p>本文於2026年10月4日依全國法規資料庫核對現行《刑事訴訟法》第158條之3、第159條至第159條之5、第161條、第166條、第196條之1、第273條及第273條之2，並核對憲法法庭112年憲判字第12號判決。未使用未核實裁判。</p>
 <blockquote>
-<p>本文為一般法律資訊，不取代律師依完整卷證提供的個案法律意見，也不保證特定證據會被排除或案件結果。</p>
+<p>本文為一般法律資訊，不取代律師依完整卷證提供的個案法律意見。</p>
 </blockquote>
 4f:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$51"}}]
 50:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]

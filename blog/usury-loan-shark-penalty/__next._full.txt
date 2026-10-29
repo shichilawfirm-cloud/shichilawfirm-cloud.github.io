@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","usury-loan-shark-penalty",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","usury-loan-shark-penalty","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","usury-loan-shark-penalty",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","usury-loan-shark-penalty","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -198,7 +198,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 45:["$","li","s4",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"04"}],["$","a",null,{"href":"#s4","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"討債變成恐嚇、跟蹤、上門，刑法怎麼加重？"}]]}]
 46:["$","li","s5",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"05"}],["$","a",null,{"href":"#s5","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"借款人：多付的利息和被騷擾的證據，要怎麼整理？"}]]}]
 47:["$","li","s6",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"06"}],["$","a",null,{"href":"#s6","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"放款人：收到警局通知，先釐清被指的是利率、名目還是收款方式"}]]}]
-4a:T1e09,<p><strong>你屬於哪一種情況？</strong></p>
+4a:T1dd3,<p><strong>你屬於哪一種情況？</strong></p>
 <table>
 <thead>
 <tr>
@@ -287,7 +287,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=205" rel="noopener noreferrer">《民法》第205條：約定利率之上限</a></li>
 <li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=206" rel="noopener noreferrer">《民法》第206條：禁止巧取利益</a></li>
 </ul>
-<p>本文是一般法律資訊，不能取代律師依借據、付款紀錄與完整卷證所作的個別法律意見，也不保證不起訴、無罪或其他特定結果。</p>
+<p>本文是一般法律資訊，不能取代律師依借據、付款紀錄與完整卷證所作的個別法律意見。</p>
 48:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4a"}}]
 49:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]
 21:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#111111"}]]

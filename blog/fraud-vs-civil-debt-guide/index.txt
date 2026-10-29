@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","fraud-vs-civil-debt-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","fraud-vs-civil-debt-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","fraud-vs-civil-debt-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","fraud-vs-civil-debt-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -201,7 +201,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 48:["$","li","s6",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"06"}],["$","a",null,{"href":"#s6","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"被指控詐欺時，刑事與民事責任要怎麼分開看？"}]]}]
 49:["$","li","s7",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"07"}],["$","a",null,{"href":"#s7","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"常見問題有哪些？"}]]}]
 4a:["$","li","s8",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"08"}],["$","a",null,{"href":"#s8","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"官方法規來源在哪裡？"}]]}]
-4d:T31ac,<p><strong>欠錢不還、交貨遲延或買賣失敗，不會只因事後未履約就自動成立詐欺；關鍵在締約、借款或收款當時，是否已用詐術使對方交付款項或財物。</strong></p>
+4d:T3191,<p><strong>欠錢不還、交貨遲延或買賣失敗，不會只因事後未履約就自動成立詐欺；關鍵在締約、借款或收款當時，是否已用詐術使對方交付款項或財物。</strong></p>
 <h2 id="s1">欠錢不還，為什麼不會直接等於刑事詐欺？</h2>
 <p>一筆借款到了約定日期仍未清償，債權人眼前最直接的事實是「錢沒有回來」。但《中華民國刑法》第339條要求行為人意圖為自己或第三人不法之所有，以詐術使他人交付本人或第三人的財物；《中華民國刑法》第13條則規定直接故意與間接故意。判斷重點因此不能只停在未還錢的結果，而要追查對方<strong>收款當時說了什麼、知道什麼，以及為何取得款項</strong>。</p>
 <p>同條第1項的法定刑為不超過五年的有期徒刑，或拘役，也可以單科或併科罰金（上限五十萬元）；行為人取得的若不是金錢或物品，而是財產上的不法利益，依第2項同樣處罰，第3項並規定未遂犯也要處罰。</p>
@@ -271,7 +271,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <ul>
 <li><strong>只提出未清償結果</strong>：若欠缺收款當時的詐術與故意資料，難以完整呈現刑事構成要件。</li>
 <li><strong>把推測寫成事實</strong>：報案或筆錄內容應區分親身見聞、文件記載與自己的判斷。</li>
-<li><strong>忽略民事時效與財產保全</strong>：刑事程序不會自動代替民事求償，也不保證取回款項。</li>
+<li><strong>忽略民事時效與財產保全</strong>：刑事程序不會自動代替民事求償。</li>
 <li><strong>只保留零碎截圖</strong>：缺少前後文、日期或原始檔，可能使證據意義難以核對。</li>
 <li><strong>以為有契約就沒有刑責</strong>：形式上有契約，仍須檢查取得款項時是否使用詐術。</li>
 </ul>

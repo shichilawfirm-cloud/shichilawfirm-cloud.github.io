@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","crime-victim-trial-participation-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","crime-victim-trial-participation-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","crime-victim-trial-participation-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","crime-victim-trial-participation-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -206,7 +206,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 4d:["$","li","s10",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"10"}],["$","a",null,{"href":"#s10","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"訴訟參與人可以決定量刑嗎？"}]]}]
 4e:["$","li","s11",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"11"}],["$","a",null,{"href":"#s11","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"聲請前可以如何準備？"}]]}]
 4f:["$","li","s12",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"12"}],["$","a",null,{"href":"#s12","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"常見問題"}]]}]
-52:T29e7,<p><strong>只有《刑事訴訟法》列舉特定犯罪的被害人，才能在公訴後至第二審言詞辯論終結前，向各審級法院提出書狀聲請參與刑事審判。</strong></p>
+52:T2987,<p><strong>只有《刑事訴訟法》列舉特定犯罪的被害人，才能在公訴後至第二審言詞辯論終結前，向各審級法院提出書狀聲請參與刑事審判。</strong></p>
 <p>收到法院開庭通知後，被害人常希望親自了解證據、回應調查結果，也想讓法院聽見犯罪造成的影響。「犯罪被害人訴訟參與」確實提供一套程序權利，但適用對象與犯罪類型都有明確限制，不是所有報案人或被害人都能使用。</p>
 <h2 id="s1">哪些犯罪被害人可以聲請訴訟參與？</h2>
 <p>依<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=455-38" rel="noopener noreferrer">刑事訴訟法第455條之38</a>，可聲請的案件包括：</p>
@@ -281,7 +281,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <p>本文於2026年10月4日依<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010001" rel="noopener noreferrer">法務部全國法規資料庫《刑事訴訟法》</a>核對現行第455條之38至第455條之47。</p>
 <p><strong>作者：張榮成律師｜發布日期：2026年10月4日｜更新日期：2026年10月4日</strong></p>
 <blockquote>
-<p>本文為一般法律資訊，不構成個案法律意見，也不保證法院准許訴訟參與、認定被告有罪、採納量刑意見或判給賠償。聲請資格、期限與可行使權利，應依起訴罪名、審級與案件進度個別確認。</p>
+<p>本文為一般法律資訊，不構成個案法律意見。聲請資格、期限與可行使權利，應依起訴罪名、審級與案件進度個別確認。</p>
 </blockquote>
 50:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$52"}}]
 51:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]

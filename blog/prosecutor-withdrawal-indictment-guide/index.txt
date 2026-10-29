@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","prosecutor-withdrawal-indictment-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","prosecutor-withdrawal-indictment-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","prosecutor-withdrawal-indictment-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","prosecutor-withdrawal-indictment-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -202,7 +202,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 49:["$","li","s7",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"07"}],["$","a",null,{"href":"#s7","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"撤回起訴後，還能對同一案件再起訴嗎？"}]]}]
 4a:["$","li","s8",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"08"}],["$","a",null,{"href":"#s8","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"當事人收到撤回起訴書後，要先檢查哪些事項？"}]]}]
 4b:["$","li","s9",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"09"}],["$","a",null,{"href":"#s9","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"檢察官撤回起訴的常見問題有哪些？"}]]}]
-4e:T3a43,<p><strong>可以，但限第一審辯論終結前，且檢察官發現有應不起訴或以不起訴為適當的情形，並提出載明理由的撤回書；被告或告訴人不能自行讓公訴消失。</strong></p>
+4e:T39ce,<p><strong>可以，但限第一審辯論終結前，且檢察官發現有應不起訴或以不起訴為適當的情形，並提出載明理由的撤回書；被告或告訴人不能自行讓公訴消失。</strong></p>
 <p>收到起訴書後才出現關鍵監視器、鑑定或程序資料，當事人常會問：「檢察官已經起訴，還能改變決定嗎？」法律確實保留撤回公訴的出口，但它有期限、原因與書面要求，也不能把「被害人撤告」「法院判不受理」或「檢察官撤回起訴」混成同一件事。</p>
 <h2 id="s1">檢察官起訴後，什麼時候可以撤回公訴？</h2>
 <p>依<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=269" rel="noopener noreferrer">《刑事訴訟法》第269條</a>，檢察官須同時符合三項條件，才得撤回起訴：</p>
@@ -311,7 +311,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 </ul>
 <p><strong>作者：張榮成律師｜發布日期：2026年10月4日｜更新日期：2026年10月4日</strong></p>
 <blockquote>
-<p>本文為一般法律資訊，不構成個案法律意見，也不保證檢察官撤回起訴、告訴人再議遭駁回、法院作成特定裁判或同一案件不再偵辦。是否符合撤回條件、撤回範圍、再議與准許提起自訴期間、強制處分效果及第260條再行起訴例外，均須依起訴書、撤回書、送達資料與完整卷證個別判斷。</p>
+<p>本文為一般法律資訊，不構成個案法律意見。是否符合撤回條件、撤回範圍、再議與准許提起自訴期間、強制處分效果及第260條再行起訴例外，均須依起訴書、撤回書、送達資料與完整卷證個別判斷。</p>
 </blockquote>
 4c:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4e"}}]
 4d:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]

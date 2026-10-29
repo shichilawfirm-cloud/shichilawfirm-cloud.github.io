@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","principal-accomplice-difference-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","principal-accomplice-difference-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","principal-accomplice-difference-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","principal-accomplice-difference-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -200,7 +200,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 47:["$","li","s6",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"06"}],["$","a",null,{"href":"#s6","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"詐欺與人頭帳戶案件會怎麼判斷角色？"}]]}]
 48:["$","li","s7",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"07"}],["$","a",null,{"href":"#s7","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"收到警詢通知或起訴書後，應怎麼整理？"}]]}]
 49:["$","li","s8",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"08"}],["$","a",null,{"href":"#s8","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"常見問題"}]]}]
-4c:T2c2b,<p><strong>四種角色不能只看有沒有親手犯案；共同正犯須有犯意聯絡與行為分擔，教唆犯使他人起意，幫助犯則基於幫助故意提供犯罪助力。</strong></p>
+4c:T2bec,<p><strong>四種角色不能只看有沒有親手犯案；共同正犯須有犯意聯絡與行為分擔，教唆犯使他人起意，幫助犯則基於幫助故意提供犯罪助力。</strong></p>
 <p>收到起訴書時，有人看到自己沒有出面收錢，便以為最多只是旁觀者；也有人只因卷內出現「共犯」兩字，就擔心要承擔所有人的行為。刑事責任不能只靠職稱、群組暱稱或是否碰到贓款決定，應回到每個人知道什麼、答應什麼、實際做了什麼，以及行為對犯罪造成何種作用。</p>
 <h2 id="s1">正犯、共同正犯、教唆犯與幫助犯怎麼比較？</h2>
 <p>四種角色的差異，可先用下表掌握：</p>
@@ -293,7 +293,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <p>本文於2026年10月4日依<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0000001" rel="noopener noreferrer">法務部全國法規資料庫《中華民國刑法》</a>核對現行第28條、第29條、第30條及第31條。</p>
 <p><strong>作者：張榮成律師｜發布日期：2026年10月4日｜更新日期：2026年10月4日</strong></p>
 <blockquote>
-<p>本文為一般法律資訊，不構成個案法律意見，也不保證會被認定為特定參與角色或獲得減刑。正犯、共同正犯、教唆犯與幫助犯的區分，仍應依具體罪名、主觀認知、分工內容及全部卷證個別判斷。</p>
+<p>本文為一般法律資訊，不構成個案法律意見。正犯、共同正犯、教唆犯與幫助犯的區分，仍應依具體罪名、主觀認知、分工內容及全部卷證個別判斷。</p>
 </blockquote>
 4a:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4c"}}]
 4b:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]

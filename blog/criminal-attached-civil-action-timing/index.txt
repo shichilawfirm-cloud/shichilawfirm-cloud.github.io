@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","criminal-attached-civil-action-timing",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","criminal-attached-civil-action-timing","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","criminal-attached-civil-action-timing",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","criminal-attached-civil-action-timing","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -203,7 +203,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 4a:["$","li","s8",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"08"}],["$","a",null,{"href":"#s8","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"法院因案件繁雜移送民事庭，要繳裁判費嗎？"}]]}]
 4b:["$","li","s9",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"09"}],["$","a",null,{"href":"#s9","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"移送民事庭是否代表已經勝訴？"}]]}]
 4c:["$","li","s10",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"10"}],["$","a",null,{"href":"#s10","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"常見問題"}]]}]
-4f:T2cb2,<p><strong>因犯罪受損害者，可在刑事案件起訴後至第二審辯論終結前提起附帶民事訴訟；但第一審辯論終結後、提起上訴前的空檔不得提出。</strong></p>
+4f:T2c6a,<p><strong>因犯罪受損害者，可在刑事案件起訴後至第二審辯論終結前提起附帶民事訴訟；但第一審辯論終結後、提起上訴前的空檔不得提出。</strong></p>
 <p>刑事案件開庭後，被害人常急著詢問能否一併求償。這時要先確認三件事：刑事案件是否已起訴、目前位於第幾審，以及第一審是否已辯論終結。附帶民事訴訟有明確的程序窗口，並非刑事案件存在就能隨時提出。</p>
 <table>
 <thead>
@@ -301,7 +301,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <p>本文於2026年10月10日依<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010001" rel="noopener noreferrer">法務部全國法規資料庫《刑事訴訟法》</a>核對現行第487條、第488條、第490條至第492條、第500條、第501條、第503條、第504條及第511條。</p>
 <p><strong>作者：張榮成律師｜發布日期：2026年10月4日｜實質更新日期：2026年10月10日</strong></p>
 <blockquote>
-<p>本文為一般法律資訊，不構成個案法律意見，也不保證附帶民事訴訟、移送民事庭或損害賠償結果。提出資格、審級、辯論終結時間、請求對象與費用會因案件而異，實際處理前應依卷證與法院程序個別確認。</p>
+<p>本文為一般法律資訊，不構成個案法律意見。提出資格、審級、辯論終結時間、請求對象與費用會因案件而異，實際處理前應依卷證與法院程序個別確認。</p>
 </blockquote>
 4d:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4f"}}]
 4e:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]

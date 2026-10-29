@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","criminal-confession-evidence-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","criminal-confession-evidence-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","criminal-confession-evidence-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","criminal-confession-evidence-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -203,7 +203,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 4a:["$","li","s8",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"08"}],["$","a",null,{"href":"#s8","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"其他程序違法取得的證據一定不能用嗎？"}]]}]
 4b:["$","li","s9",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"09"}],["$","a",null,{"href":"#s9","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"發現警詢筆錄有問題，下一步怎麼做？"}]]}]
 4c:["$","li","s10",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"10"}],["$","a",null,{"href":"#s10","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"常見問題"}]]}]
-4f:T2207,<p><strong>警詢後可以更正或改變陳述，但舊筆錄不會自動消失；法院仍會檢查自白是否出於自由意志、是否符合錄音內容，以及有無其他證據補強。</strong></p>
+4f:T21d7,<p><strong>警詢後可以更正或改變陳述，但舊筆錄不會自動消失；法院仍會檢查自白是否出於自由意志、是否符合錄音內容，以及有無其他證據補強。</strong></p>
 <p>離開警局後重新回想，才發現筆錄中的時間、對話或行為和記憶不同，很多人會問能不能「翻供」。後續當然可以更正、補充或改變陳述，但原筆錄仍留在卷內。真正的重點，是具體說明哪裡不正確、為何前後不同，以及現場錄音與其他證據能否驗證。</p>
 <h2 id="s1">警詢自白後可以改變說法嗎？</h2>
 <p>可以更正或改變陳述，但不會使先前筆錄自動消失。後續程序仍可能比較警詢筆錄、偵查陳述、法院陳述與客觀資料，判斷各次說法的可信程度。</p>
@@ -258,7 +258,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <p>本文於2026年10月4日依<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=C0010001" rel="noopener noreferrer">法務部全國法規資料庫《刑事訴訟法》</a>核對現行第95條、第100條之1、第100條之2、第156條、第158條之2及第158條之4。</p>
 <p><strong>作者：張榮成律師｜發布日期：2026年10月4日｜更新日期：2026年10月4日</strong></p>
 <blockquote>
-<p>本文為一般法律資訊，不構成個案法律意見，也不保證自白或其他證據會被排除。自白任意性、筆錄與錄音差異、權利告知及補強證據，均應依實際訊問過程與卷內資料個別判斷。</p>
+<p>本文為一般法律資訊，不構成個案法律意見。自白任意性、筆錄與錄音差異、權利告知及補強證據，均應依實際訊問過程與卷內資料個別判斷。</p>
 </blockquote>
 4d:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$4f"}}]
 4e:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]

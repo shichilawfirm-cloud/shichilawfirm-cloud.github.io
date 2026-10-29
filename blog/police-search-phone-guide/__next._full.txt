@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","police-search-phone-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","police-search-phone-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CdWo5O7QB7IvlyI92Q40B"}
+0:{"P":null,"c":["","blog","police-search-phone-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","police-search-phone-guide","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3yp5-x6p796f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"3d1qZL_AL_0k4TDk577kS"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -205,7 +205,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 4c:["$","li","s9",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"09"}],["$","a",null,{"href":"#s9","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"認為手機搜索違法，十日內可以怎麼救濟？"}]]}]
 4d:["$","li","s10",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"10"}],["$","a",null,{"href":"#s10","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"張榮成律師有處理過手機數位證據的案件嗎？"}]]}]
 4e:["$","li","s11",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"11"}],["$","a",null,{"href":"#s11","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"手機搜索常見問題有哪些？"}]]}]
-56:T56b7,<p><strong>警察不因手機在你身上就當然能任意翻看全部內容。先確認搜索票或無票搜索依據，核對是否包含手機或電磁紀錄；被要求同意或解鎖時，先詢問法律依據並聯絡律師。</strong></p>
+56:T5678,<p><strong>警察不因手機在你身上就當然能任意翻看全部內容。先確認搜索票或無票搜索依據，核對是否包含手機或電磁紀錄；被要求同意或解鎖時，先詢問法律依據並聯絡律師。</strong></p>
 <h2 id="s1">警察拿到手機，是否就能查看裡面的資料？</h2>
 <p>要先把「手機這個裝置」與「手機裡的資料」分開。手機可能因可作為證據而被扣押，但扣押裝置，不宜直接理解為可以毫無範圍地查看所有帳號、照片、對話與雲端內容。</p>
 <p>《刑事訴訟法》第122條將<strong>物件</strong>與<strong>電磁紀錄</strong>都列為得搜索的對象；同法第128條要求搜索票記載應搜索的處所、身體、物件或電磁紀錄。因此，現場要看的不只是不是「你的手機」，還包括：搜索票如何記載標的、涉嫌案件是什麼、資料期間及類型是否有範圍，以及執行方式是否與法律依據相符。</p>
@@ -347,7 +347,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <li><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0010001&amp;flno=418" rel="noopener noreferrer">《刑事訴訟法》第418條：聲請裁定原則上不得抗告</a></li>
 </ul>
 <blockquote>
-<p>本文由張榮成律師撰寫，僅供一般法律資訊參考，不構成個案法律意見，也不保證搜索撤銷、證據排除或任何特定結果。手機搜索與解鎖高度依賴票面、執行過程、資料範圍與裝置技術；應攜帶搜索票、筆錄、扣押物目錄及完整經過向律師諮詢。</p>
+<p>本文由張榮成律師撰寫，僅供一般法律資訊參考，不構成個案法律意見。手機搜索與解鎖高度依賴票面、執行過程、資料範圍與裝置技術；應攜帶搜索票、筆錄、扣押物目錄及完整經過向律師諮詢。</p>
 </blockquote>
 4f:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$56"}}]
 50:["$","aside",null,{"className":"mt-10 border-t border-[#c9a961]/20 pt-5 text-[14px] leading-relaxed text-[#333]","children":[["$","p",null,{"children":[["$","strong",null,{"children":"作者："}],["$","$L11",null,{"href":"/lawyers/zhang-rong-cheng/","prefetch":false,"className":"underline decoration-[#c9a961] underline-offset-4","children":"張榮成律師"}],"（時起法律事務所主持律師）",""]}],["$","p",null,{"className":"mt-2 text-[#a39c8d]","children":"本文引用之法條以全國法規資料庫現行條文為準，修法後將更新。本文為一般法律資訊，非針對個案之法律意見；個案請洽律師。"}]]}]
