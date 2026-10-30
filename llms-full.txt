@@ -2986,3 +2986,26 @@ A：《民法》第949條規定，盜贓、遺失物自喪失占有時起二年�
 - 附帶民事訴訟：被害人在刑事案件起訴後、第二審辯論終結前，向刑事法院一併請求損害賠償的程序，依刑事訴訟法第487條提起且免繳裁判費。案件繁雜時法院可以移送民事庭。（延伸閱讀：https://defense.shichilawfirm.com/blog/criminal-attached-civil-action-timing/）
 - 犯罪被害補償金：因犯罪死亡的遺屬、重傷或性自主權受侵害的被害人，依犯罪被害人權益保障法向地檢署審議會申請的國家補償。應自知有犯罪被害時起五年內申請，有急迫需要可先申請暫時補償金。（延伸閱讀：https://defense.shichilawfirm.com/blog/crime-victim-compensation-guide/）
 - 良民證：正式名稱是警察刑事紀錄證明，只記載判決確定的刑事案件。不起訴、緩起訴、未撤銷的緩刑、拘役、罰金等依警察刑事紀錄證明核發條例第6條不予記載。（延伸閱讀：https://defense.shichilawfirm.com/blog/probation-what-it-means/）
+
+### 民事與家事常用名詞
+- 裁判離婚：一方不同意離婚時，由法院依民法第1052條判准離婚的程序。第1項列有外遇、家暴、惡意遺棄等十款事由，第2項另有難以維持婚姻的重大事由；起訴前原則要先經法院調解。（延伸閱讀：https://defense.shichilawfirm.com/blog/judicial-divorce-grounds/）
+- 協議離婚：夫妻雙方合意離婚，依民法第1050條以書面為之、二人以上證人簽名，並向戶政機關登記才生效。協議書最好同時寫明子女親權、會面交往、扶養費與財產。（延伸閱讀：https://defense.shichilawfirm.com/blog/divorce-complete-guide/）
+- 親權（監護權）：對未成年子女權利義務的行使與負擔，離婚時由父母協議，協議不成由法院依民法第1055條、第1055條之1以子女最佳利益酌定。判給一方後，仍可以因情事變更聲請改定。（延伸閱讀：https://defense.shichilawfirm.com/blog/custody-decision-factors/）
+- 會面交往：未取得親權的一方與子女見面、通訊、同住的權利，依民法第1055條第5項由法院酌定方式與期間；對方阻撓時可以聲請法院處理或強制執行。（延伸閱讀：https://defense.shichilawfirm.com/blog/visitation-rights-after-divorce/）
+- 扶養費：父母對未成年子女的扶養義務不因離婚改變，金額依民法第1119條按子女需要與父母經濟能力決定，沒有固定公式。對方不付時可以聲請法院裁定並強制執行。（延伸閱讀：https://defense.shichilawfirm.com/blog/child-support-calculation-enforcement/）
+- 剩餘財產分配：法定財產制的夫妻在離婚或一方死亡時，依民法第1030條之1各自計算婚後財產扣除婚後債務的剩餘，差額由較少的一方請求平均分配。繼承、無償取得的財產與慰撫金不列入。（延伸閱讀：https://defense.shichilawfirm.com/blog/divorce-property-distribution/）
+- 夫妻財產制：規範婚姻中財產歸屬的制度，沒有約定就適用民法第1005條的法定財產制；要改用分別或共同財產制，須書面契約並向法院登記才能對抗第三人。（延伸閱讀：https://defense.shichilawfirm.com/blog/marital-property-regime-explained/）
+- 贍養費：判決離婚後，無過失的一方因離婚陷於生活困難時，依民法第1057條向他方請求的生活費用。與離婚損害賠償是不同請求，協議離婚現行法不適用。（延伸閱讀：https://defense.shichilawfirm.com/blog/alimony-after-divorce/）
+- 侵害配偶權：配偶與第三者有逾越一般社交的親密往來，侵害婚姻共同生活的身分法益，被害配偶可依民法第184條、第195條第3項向兩人請求慰撫金。請求權自知悉起二年內行使。（延伸閱讀：https://defense.shichilawfirm.com/blog/spouse-affair-evidence-damages/）
+- 特留分：法律保留給法定繼承人、遺囑不能剝奪的最低遺產比例，依民法第1223條子女、父母、配偶為應繼分二分之一，兄弟姊妹、祖父母為三分之一。遺囑侵害特留分時可以向受遺贈人扣減。（延伸閱讀：https://defense.shichilawfirm.com/blog/reserved-portion-inheritance/）
+- 拋棄繼承：繼承人在知悉得繼承時起三個月內，以書面向法院聲請放棄全部繼承的程序，依民法第1174條規定。財產與債務一併拋棄，不能只拋棄債務，也不能在被繼承人生前預先拋棄。（延伸閱讀：https://defense.shichilawfirm.com/blog/inheritance-renunciation-debt/）
+- 限定繼承／遺產清冊：現行法下繼承人對被繼承人的債務，以所得遺產為限負責，依民法第1148條第2項規定；三個月內向法院陳報遺產清冊可以確保清償程序正確，避免因隱匿或處分遺產而喪失限定利益。（延伸閱讀：https://defense.shichilawfirm.com/blog/inherited-debt-limited-liability/）
+- 代位繼承：第一順序繼承人在繼承開始前死亡或喪失繼承權時，由其直系血親卑親屬承接原本的應繼分，依民法第1140條規定。其他順位沒有代位繼承，拋棄繼承也不能代位。（延伸閱讀：https://defense.shichilawfirm.com/blog/inheritance-representation/）
+- 應繼分：各繼承人依法可以分得的遺產比例，同一順序繼承人依民法第1141條按人數平均；配偶的應繼分依第1144條隨同順位的繼承人而不同。分割前遺產由全體公同共有。（延伸閱讀：https://defense.shichilawfirm.com/blog/estate-division-dispute/）
+- 自書遺囑：遺囑人親自書寫全文、記明年月日並親自簽名的遺囑，依民法第1190條規定；電腦打字再簽名不符合要件。遺囑另有公證、密封、代筆、口授四種方式。（延伸閱讀：https://defense.shichilawfirm.com/blog/will-types-and-validity/）
+- 監護宣告：本人因精神障礙或心智缺陷不能表達意思或辨識效果時，由本人、配偶、四親等內親屬等依民法第14條向法院聲請，受宣告的人成為無行為能力人，由監護人代為處理。程度較輕者改為輔助宣告。（延伸閱讀：https://defense.shichilawfirm.com/blog/adult-guardianship-declaration/）
+- 支付命令：債權人不經開庭，請法院命債務人給付金錢的簡化程序，依民事訴訟法第508條以下規定。債務人收到後二十日內可以不附理由提出異議，逾期未異議，支付命令可以作為執行名義。（延伸閱讀：https://defense.shichilawfirm.com/blog/payment-order-received/）
+- 假扣押：債權人為避免債務人脫產，在訴訟前或訴訟中請法院先行查封財產的保全程序，依民事訴訟法第522條以下規定。要釋明請求與假扣押原因，法院通常命供擔保。（延伸閱讀：https://defense.shichilawfirm.com/blog/provisional-attachment-guide/）
+- 小額訴訟：請求金額十萬元以下的金錢給付案件適用的簡化程序，依民事訴訟法第436條之8規定，可以用表格化訴狀起訴，判決不服須以違背法令為理由才能上訴。（延伸閱讀：https://defense.shichilawfirm.com/blog/small-claims-procedure/）
+- 消滅時效：請求權超過法定期間不行使，債務人就可以拒絕給付的制度，依民法第125條一般為十五年，利息、租金五年，餐宿費、律師報酬等二年。時效完成後自願給付不能要回。（延伸閱讀：https://defense.shichilawfirm.com/blog/debt-statute-of-limitations/）
+- 慰撫金：非財產上損害的金錢賠償，依民法第195條在身體、健康、名譽、自由、隱私、貞操等人格權或配偶關係受侵害時可以請求，被害人死亡時父母、子女、配偶依第194條請求。金額由法院依情節酌定。（延伸閱讀：https://defense.shichilawfirm.com/blog/mental-damages-when-to-claim/）
