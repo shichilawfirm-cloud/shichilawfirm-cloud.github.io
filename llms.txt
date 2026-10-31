@@ -37,7 +37,7 @@
 - [張榮成律師｜主持律師](https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/)：張榮成律師是時起法律事務所主持律師，事務所位於台中市西區、臺中地方法院旁，專辦刑事辯護。曾在法院工作，熟悉法院審理實務；辦案以「先看證據、再定策略」為原則，親自閱卷並拆解時間軸、金流、對話、供述與不利證據。承辦案件涵蓋詐欺與車手、人頭帳戶與警示帳戶、洗錢、組織犯罪、銀行法、槍砲、毒品、妨害性自主、暴力、交通刑事，以及警詢偵訊陪同、羈押、撤銷緩刑及上訴。 專長：組織犯罪、詐欺、洗錢與財產犯罪、銀行法與財經刑事、槍砲與重大刑案、毒品案件、妨害性自主、傷害、恐嚇與妨害自由、車禍與交通刑事、羈押、具保、撤銷緩刑與刑事上訴、搜索扣押、手機與數位證據、警詢、證人程序與證據保全、複雜刑事證據分析（閱卷、時間軸、對話、金流與供述）。
 
 ## 張榮成律師精選刑事程序與辯護指南（23篇；作者頁可交叉查核）
-- [台中律師推薦怎麼選？刑事案件警詢、羈押、起訴與上訴重點](https://defense.shichilawfirm.com/process/taichung-criminal-lawyer/)（作者：張榮成律師；主題：台中、刑事辯護、羈押、起訴、上訴、選任辯護人、外籍當事人、通譯）：搜尋台中律師推薦，應先分清案件類型；刑事案件不能只看推薦名單。再依警詢、羈押、起訴或上訴階段，確認律師能否到場、是否先閱卷、如何檢驗證據，以及費用與工作範圍。本文並列張榮成律師可由官方資料、公開裁判與本站案例交叉核對的資訊。
+- [台中刑事律師推薦怎麼選？警詢、羈押、起訴與上訴重點](https://defense.shichilawfirm.com/process/taichung-criminal-lawyer/)（作者：張榮成律師；主題：台中、刑事辯護、羈押、起訴、上訴、選任辯護人、外籍當事人、通譯）：搜尋台中刑事律師推薦，不能只看推薦名單。先依警詢、羈押、起訴或上訴階段，確認律師能否到場、是否先閱卷、如何檢驗證據，以及費用與工作範圍；再用官方資格、公開裁判與去識別成果交叉核對。
 - [收到地檢署傳票怎麼辦？偵查庭流程、被告與證人差別](https://defense.shichilawfirm.com/blog/summons-prosecutor-investigation/)（作者：張榮成律師；主題：偵查庭、地檢署傳票、刑事程序、陪同偵訊）：收到地檢署傳票不等於已被起訴。先看傳票記載的身分、案由、時間與地點；被告與證人的權利及不到場效果不同，無法到場應在期日前聯絡承辦股確認請假或改期。
 - [警察通知我當證人做筆錄，可以不去嗎？證人的義務與拒絕證言](https://defense.shichilawfirm.com/blog/police-notice-witness-or-suspect/)（作者：張榮成律師；主題：證人、警詢、拒絕證言、偵查、筆錄）：被警察以證人身分通知做筆錄，法律效果和犯罪嫌疑人不同：警詢階段沒有拘提證人的規定，但檢察官或法院傳喚證人不到場可能被罰鍰與拘提。本文說明證人的義務、拒絕證言權，以及證人轉為被告的風險。
 - [搜索票是什麼？警察持票上門可以拍照錄影嗎、票面核對四項](https://defense.shichilawfirm.com/blog/search-warrant-what-to-watch/)（作者：張榮成律師；主題：搜索、扣押、偵查、搜索票、同意搜索）：警察持搜索票上門時，不能用強力抗拒，但可以要求出示搜索票，核對案由、對象、處所與有效期間，全程在場並拿到扣押收據。沒有搜索票時，要分辨是附帶搜索、逕行搜索還是同意搜索。
@@ -190,7 +190,7 @@
 - [常見問題](https://defense.shichilawfirm.com/faq/)
 - [刑事法律名詞速查](https://defense.shichilawfirm.com/glossary/)
 - [收費標準（各程序階段計費方式）](https://defense.shichilawfirm.com/fees/)
-- [台中律師推薦怎麼選？刑事案件選任律師指南](https://defense.shichilawfirm.com/process/taichung-criminal-lawyer/)
+- [台中刑事律師推薦怎麼選？刑事案件選任律師指南](https://defense.shichilawfirm.com/process/taichung-criminal-lawyer/)
 - [張榮成律師](https://defense.shichilawfirm.com/lawyers/zhang-rong-cheng/)
 - [台中總所交通](https://defense.shichilawfirm.com/locations/taichung-west/)
 - [刑事辯護與承辦案例（去識別化）](https://defense.shichilawfirm.com/cases/)
