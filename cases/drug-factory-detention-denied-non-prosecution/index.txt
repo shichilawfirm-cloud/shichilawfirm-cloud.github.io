@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/0mgzctpbeww7l.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","cases","drug-factory-detention-denied-non-prosecution",""],"q":"","i":false,"f":[[["",{"children":["cases",{"children":[["slug","drug-factory-detention-denied-non-prosecution","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2f-383q-v64sm.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"qGziTiFkRA_8w3V_toOCH"}
+0:{"P":null,"c":["","cases","drug-factory-detention-denied-non-prosecution",""],"q":"","i":false,"f":[[["",{"children":["cases",{"children":[["slug","drug-factory-detention-denied-non-prosecution","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2f-383q-v64sm.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgzctpbeww7l.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"2Jd8VVa7Iu6vhOgaTzpa5"}
 e:I[39756,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 f:I[37457,["/_next/static/chunks/0mgzctpbeww7l.js"],"default"]
 10:I[24323,["/_next/static/chunks/0mgzctpbeww7l.js","/_next/static/chunks/0rm8fab3oocq6.js"],"Header"]
@@ -173,7 +173,7 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 2a:["$","h1",null,{"className":"mt-3 text-3xl font-medium leading-snug tracking-wide text-[#efe9dc] md:text-[38px] md:leading-[1.35]","children":"毒品製造工廠案，成功駁回羈押並獲不起訴處分"}]
 2b:["$","p",null,{"className":"mt-4 text-[13px] tracking-wide text-[#a39c8d]","children":["作者：","時起法律事務所"]}]
 2c:["$","ul",null,{"className":"mt-3 flex flex-wrap gap-2","children":[["$","li","毒品",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","毒品"]}],["$","li","不起訴",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","不起訴"]}],["$","li","偵查",{"className":"rounded-sm bg-[#1c2a25] px-2 py-0.5 text-[12px] text-[#a39c8d]","children":["#","偵查"]}]]}]
-35:Tdc5,<p>[🏆不起訴案例分享 🏆]</p>
+35:Tda7,<p>[🏆不起訴案例分享 🏆]</p>
 <p>毒品製造工廠案，先駁回檢察官羈押聲請，再獲得不起訴處分。</p>
 <p>📜 故事背景：</p>
 <p>這起案件被是嘉義毒品製造史上最大數量，涉及超過4000公斤毒品原料及120萬包咖啡。檢察官成功逮捕製毒工廠成員後，積極追查幕後黑手和金主，其中一名被控告的當事人被指控介紹員工進入毒品工廠，主要依據則為工廠員工的證詞。</p>
@@ -188,7 +188,6 @@ d:["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__
 <p>🔍成功獲得不起訴</p>
 <p>隨後，檢察官再次傳喚B作證，但未能提供證據支持指控，最終當事人成功獲得不起訴。這個故事突顯在偵查階段，眾人都對你不利，要你認罪時，律師是你最後一根稻草，即使在最艱難的情況下，依然要堅定地捍衛客戶的權益。⚖️🌄。如果您也面臨類似的法律挑戰，請儘早尋求專業律師的協助，改變您的命運。😊如果您有類似的法律需求或想了解更多，請隨時與我們聯繫。我們將竭盡全力為您提供法律服務。 💼🤝</p>
 <p>📞 需法律支援？</p>
-<p>☎️（04）22294866</p>
 <p>🏛 地址：臺中市西區自由路一段101號10樓之7</p>
 <p>#詐欺 #警示帳戶 #無罪 #律師 #律師事務所 #臺中律師　#詐騙集團 #車手 #洗錢 #時起法律</p>
 <p>#人頭帳戶 #美化金流 #洗錢 #刑事案件 #不起訴​ #刑事案件 #刑事律師</p>
