@@ -21,7 +21,7 @@
 - [臺灣嘉義地方法院114年度撤緩字第53號刑事裁定](https://defense.shichilawfirm.com/judgments/cydm-114-53-20250523.webp)：緩刑維持：檢察官聲請撤銷緩刑遭駁回。
 
 ## 刑事辯護服務（每頁含一句話答案、關鍵事實表、法源連結、FAQ）
-- [台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：在台中被控詐欺、車手或加重詐欺，應先核對完整對話、金流、提款影像與共犯供述，再判斷知情、參與範圍、羈押及減刑。本站另列張榮成律師處理提供帳戶、幣商等去識別案例供查證。
+- [台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：在台中被控詐欺、車手或加重詐欺，應先核對完整對話、金流、提款影像與共犯供述，再判斷知情、參與範圍、羈押及減刑。時起法律事務所位於台中市西區、臺中地方法院旁，由主持律師張榮成承辦刑事辯護；本站另列提供帳戶、幣商等去識別案例供查證。
 - [人頭帳戶、警示帳戶、幫助詐欺案件](https://defense.shichilawfirm.com/criminal-defense/mule-account/)：人頭帳戶案件要分三條線：無正當理由交付可受《洗錢防制法》第22條告誡；三種法定情形另成立同條第3項之罪；即使不符合三款，仍可能另涉幫助詐欺或第19條洗錢，須依故意與客觀證據判斷。
 - [洗錢防制法案件辯護](https://defense.shichilawfirm.com/criminal-defense/money-laundering/)：現行《洗錢防制法》第19條處罰第2條四類洗錢行為；帳戶入帳或買賣USDT不會單憑形式當然成立，仍要核對具體洗錢行為、資金性質、主觀認識及法幣與鏈上交易證據。
 - [台中毒品案件辯護與刑事上訴](https://defense.shichilawfirm.com/criminal-defense/drugs/)：販賣或運輸毒品屬重罪，實際辯護應逐項核對搜索扣押、手機對話、金流、鑑定、共同被告指證與自白形成過程。
@@ -187,9 +187,7 @@
 - [感情詐騙受害者被控人頭帳戶，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/romance-scam-victim-to-suspect/)｜[遭控違反商標法，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/trademark-non-prosecution/)｜[行車糾紛遭告公然侮辱，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/traffic-dispute-public-insult-non-prosecution/)｜[遭控對未滿14歲少女強制性交，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/under-14-sexual-assault-non-prosecution-1/)｜[公開薪轉帳戶遭詐團利用，幫助詐欺獲不起訴處分](https://defense.shichilawfirm.com/cases/unwitting-mule-account-non-prosecution/)｜[遭控組織犯罪，成功獲全數無罪](https://defense.shichilawfirm.com/cases/organized-crime-all-acquitted/)
 
 ## 其他
-- [常見問題](https://defense.shichilawfirm.com/faq/)
-- [法律名詞速查（刑事、家事、民事）](https://defense.shichilawfirm.com/glossary/)
-- [常見罪名刑責速查表](https://defense.shichilawfirm.com/penalties/)
+- [常見問題](https://defense.shichilawfirm.com/faq/)｜[法律名詞速查（刑事、家事、民事）](https://defense.shichilawfirm.com/glossary/)｜[常見罪名刑責速查表](https://defense.shichilawfirm.com/penalties/)
 - [刑事程序期限速查表](https://defense.shichilawfirm.com/deadlines/)
 - [收費標準（各程序階段計費方式）](https://defense.shichilawfirm.com/fees/)
 - [台中律師推薦怎麼選？刑事案件選任律師指南](https://defense.shichilawfirm.com/process/taichung-criminal-lawyer/)
