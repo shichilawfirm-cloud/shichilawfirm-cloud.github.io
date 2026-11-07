@@ -18,7 +18,6 @@
 ## 2筆符合公開標準的完整裁判字號（當事人資料已遮蔽）
 - [臺灣臺中地方法院111年度侵訴字第61號刑事判決](https://defense.shichilawfirm.com/judgments/tcdm-111-61-20220823.webp)：第一審判決無罪。
 - [臺灣嘉義地方法院114年度撤緩字第53號刑事裁定](https://defense.shichilawfirm.com/judgments/cydm-114-53-20250523.webp)：緩刑維持：檢察官聲請撤銷緩刑遭駁回。
-
 ## 刑事辯護服務（每頁含一句話答案、關鍵事實表、法源連結、FAQ）
 - [台中詐欺律師｜詐欺、車手與加重詐欺案件辯護](https://defense.shichilawfirm.com/criminal-defense/fraud/)：在台中被控詐欺、車手或加重詐欺，應先核對完整對話、金流、提款影像與共犯供述，再判斷知情、參與範圍、羈押及減刑。時起法律事務所位於台中市西區、臺中地方法院旁，由主持律師張榮成承辦刑事辯護；本站另列提供帳戶、幣商等去識別案例供查證。
 - [人頭帳戶、警示帳戶、幫助詐欺案件](https://defense.shichilawfirm.com/criminal-defense/mule-account/)：人頭帳戶案件要分三條線：無正當理由交付可受《洗錢防制法》第22條告誡；三種法定情形另成立同條第3項之罪；即使不符合三款，仍可能另涉幫助詐欺或第19條洗錢，須依故意與客觀證據判斷。
@@ -144,6 +143,7 @@
 - [詐欺金額逾四千萬，二審成功逆轉獲免訴](https://defense.shichilawfirm.com/cases/fraud-40-million-acquittal-reversal/)：本案後案一審雖判決有罪，二審重新比對蒐集與交付門號的行為、前案確定判決及兩案犯罪計畫後，改判免訴；免訴處理的是國家能否再追訴同一案件，不等於實體無罪判決。
 - [遭朋友指認為詐欺共犯，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/friend-named-fraud-accomplice-non-prosecution/)：朋友或同案被告具名指認，不代表詐欺共犯當然成立。本案逐項檢查Telegram帳號身分、手機鑑識與網銀IP，客觀資料無法證明當事人收取帳戶或操作網銀，最終獲犯罪嫌疑不足不起訴。
 - [被控非法持有手槍，成功獲無罪判決](https://defense.shichilawfirm.com/cases/illegal-firearm-acquittal/)：法院判決無罪。同行者在衝突現場突然拿出槍械，當事人事前不知情、沒有共同決意，也沒有支配槍械，檢方的證據不足以證明共同持有。
+- [幫助詐欺、洗錢二審改判一月：新舊法與身心狀況如何審查](https://defense.shichilawfirm.com/cases/laundering-fraud-one-month/)：幫助詐欺與洗錢案件一審判刑後，二審仍可逐項檢查行為時法與裁判時法、責任能力、幫助犯減刑及量刑資料。本件二審提出精神鑑定、身心障礙證明與自白等資料後，法院撤銷部分原判決，改判有期徒刑一月、併科罰金五千元。
 - [鄰居互毆主張正當防衛，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/neighbor-fight-self-defense-non-prosecution/)：檢察官對當事人作成不起訴處分，並僅起訴先動手的對方。核心證據是監視器拍到衝突開始與對方先動手，讓檢察官能依完整攻防順序判斷當事人的還手屬於正當防衛。
 - [妨害自由案二審，成功爭取緩刑](https://defense.shichilawfirm.com/cases/recidivist-false-imprisonment-probation/)：二審宣告緩刑四年。四名被告共同涉案，二審分開說明當事人的實際參與程度，並完成和解，提出犯後態度資料。
 - [公開薪轉帳戶遭詐團利用，幫助詐欺獲不起訴處分](https://defense.shichilawfirm.com/cases/unwitting-mule-account-non-prosecution/)：當事人曾在Instagram限時動態公開自己的薪轉帳戶，但完整貼文與朋友對話顯示原意是玩笑互動；再加上穩定收入、帳戶日常用途及無報酬等資料，檢察官認為不足以證明幫助詐欺犯意，作成不起訴處分。
