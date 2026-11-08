@@ -140,6 +140,7 @@
 - [人頭帳戶案，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/mule-account-insufficient-evidence/)：檢察官以犯罪嫌疑不足作成不起訴處分。被害人確實受騙，不等於帳戶持有人有幫助詐欺的故意；檢方必須另外證明他知情參與。
 - [加重詐欺一審判五年，二審成功爭取緩刑](https://defense.shichilawfirm.com/cases/aggravated-fraud-5-years-probation-appeal/)：二審改判有期徒刑二年、緩刑三年。一審原判五年，當事人與19位被害人中的17位和解，其餘2位聯繫不上。
 - [製毒工廠案遭聲押，法院駁回羈押後獲不起訴](https://defense.shichilawfirm.com/cases/drug-factory-detention-denied-non-prosecution/)：當事人因他人指述被捲入製毒工廠案並遭聲押；辯護人閱卷後指出指述前後不一、聲押理由記載與卷內資料不符且欠缺補強證據，法院駁回羈押聲請，案件後續獲不起訴處分。
+- [販毒證據模糊，成功獲無罪判決](https://defense.shichilawfirm.com/cases/drug-sale-vague-evidence-acquittal/)：證人對交易時間、地點與價格反覆改口，全案只有證人供述與當事人事後翻供的自白；辯護主張缺乏客觀證據且自白不能單獨定罪，一審無罪，檢察官上訴後遭駁回維持無罪。
 - [詐欺金額逾四千萬，二審成功逆轉獲免訴](https://defense.shichilawfirm.com/cases/fraud-40-million-acquittal-reversal/)：本案後案一審雖判決有罪，二審重新比對蒐集與交付門號的行為、前案確定判決及兩案犯罪計畫後，改判免訴；免訴處理的是國家能否再追訴同一案件，不等於實體無罪判決。
 - [遭朋友指認為詐欺共犯，成功獲不起訴處分](https://defense.shichilawfirm.com/cases/friend-named-fraud-accomplice-non-prosecution/)：朋友或同案被告具名指認，不代表詐欺共犯當然成立。本案逐項檢查Telegram帳號身分、手機鑑識與網銀IP，客觀資料無法證明當事人收取帳戶或操作網銀，最終獲犯罪嫌疑不足不起訴。
 - [被控非法持有手槍，成功獲無罪判決](https://defense.shichilawfirm.com/cases/illegal-firearm-acquittal/)：法院判決無罪。同行者在衝突現場突然拿出槍械，當事人事前不知情、沒有共同決意，也沒有支配槍械，檢方的證據不足以證明共同持有。
