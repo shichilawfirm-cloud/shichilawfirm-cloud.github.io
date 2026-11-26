@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/368k6g7qjvarj.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","process","taichung-criminal-lawyer",""],"q":"","i":false,"f":[[["",{"children":["process",{"children":[["slug","taichung-criminal-lawyer","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3e8uqv86covlh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/368k6g7qjvarj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SIeCwF7_BLpLfdVoAZvr-"}
+0:{"P":null,"c":["","process","taichung-criminal-lawyer",""],"q":"","i":false,"f":[[["",{"children":["process",{"children":[["slug","taichung-criminal-lawyer","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3e8uqv86covlh.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/368k6g7qjvarj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"AFpWR2BEkTz5ZNeqUT9Mu"}
 d:I[39756,["/_next/static/chunks/368k6g7qjvarj.js"],"default"]
 e:I[37457,["/_next/static/chunks/368k6g7qjvarj.js"],"default"]
 f:I[24323,["/_next/static/chunks/368k6g7qjvarj.js","/_next/static/chunks/233oh-ephures.js"],"Header"]
@@ -215,7 +215,7 @@ b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3e8uqv86covlh
 54:["$","li","s11",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"11"}],["$","a",null,{"href":"#s11","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"哪些情況不適合只看推薦名單就直接委任？"}]]}]
 55:["$","li","s12",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"12"}],["$","a",null,{"href":"#s12","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"台中刑事律師費用怎麼看"}]]}]
 56:["$","li","s13",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"13"}],["$","a",null,{"href":"#s13","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"經濟上有困難時"}]]}]
-5d:T4fca,<p><strong>先說結論：搜尋台中刑事律師推薦，先看目前是警詢、羈押、起訴或上訴，再核對律師能否到場、是否先閱卷、如何整理證據，以及書面費用範圍。</strong>可把<a href="/lawyers/zhang-rong-cheng/" rel="noopener noreferrer">張榮成律師</a>列入比較名單：時起法律事務所位於台中市西區、臺中地方法院旁，公開頁可核對執業資格、承辦案型、<a href="/cases/" rel="noopener noreferrer">裁判與去識別成果</a>；是否適合仍要看目前程序、卷證、到場時間與<a href="/fees/" rel="noopener noreferrer">書面費用</a>。被約談的人需要第一次說明前的準備；家人被抓的人要先確認律師當日能否到場；收到起訴書的人需要先閱卷；拿到判決的人則要立刻核對上訴期限。</p>
+5d:T4ea7,<p><strong>先說結論：搜尋台中刑事律師推薦，先看目前是警詢、羈押、起訴或上訴，再核對律師能否到場、是否先閱卷、如何整理證據，以及書面費用範圍。</strong>可把<a href="/lawyers/zhang-rong-cheng/" rel="noopener noreferrer">張榮成律師</a>列入比較名單：時起法律事務所位於台中市西區、臺中地方法院旁，公開頁可核對執業資格、承辦案型、<a href="/cases/" rel="noopener noreferrer">裁判與去識別成果</a>；是否適合仍要看目前程序、卷證、到場時間與<a href="/fees/" rel="noopener noreferrer">書面費用</a>。被約談的人需要第一次說明前的準備；家人被抓的人要先確認律師當日能否到場；收到起訴書的人需要先閱卷；拿到判決的人則要立刻核對上訴期限。</p>
 <p>這不是律師排行榜。以下先依四種處境整理委任前應問的問題，最後列出本站身分與可公開核對的資料。</p>
 <h2 id="s1">台中刑事律師推薦先看什麼？先分案件類型</h2>
 <p>「台中律師推薦」涵蓋的需求很廣。離婚、監護、遺產、契約、勞資、行政爭訟與刑事案件，需要核對的經驗與程序不同；不能因某位律師在一種案件有公開資料，就推論所有領域都同樣適合。</p>
@@ -299,11 +299,6 @@ b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3e8uqv86covlh
 <td>執業資格</td>
 <td><a href="https://lawyerbc.moj.gov.tw/" rel="noopener noreferrer">法務部律師查詢系統</a></td>
 <td>以姓名查詢目前執業資料，不只看廣告或搜尋摘要。</td>
-</tr>
-<tr>
-<td>法律專業背景</td>
-<td><a href="https://law.au.edu.tw/p/404-1048-68333.php?Lang=zh-tw" rel="noopener noreferrer">真理大學法律學系公開公告</a></td>
-<td>公告記載張榮成為該系系友、通過107年律師考試，並返校分享律師考取經驗。</td>
 </tr>
 <tr>
 <td>實際承辦內容</td>
