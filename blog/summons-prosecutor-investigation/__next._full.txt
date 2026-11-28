@@ -136,7 +136,7 @@ a:I[68027,["/_next/static/chunks/368k6g7qjvarj.js"],"default",1]
   },{capture:true});
 }());
 8:X
-0:{"P":null,"c":["","blog","summons-prosecutor-investigation",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","summons-prosecutor-investigation","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2g2a8mg-b_n9j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/368k6g7qjvarj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lC8c2K4HPWD4zxn6gkHgk"}
+0:{"P":null,"c":["","blog","summons-prosecutor-investigation",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","summons-prosecutor-investigation","d",["category"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2g2a8mg-b_n9j.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/368k6g7qjvarj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-Hant-TW","className":"oswald_8acee5a1-module__q-21zq__variable h-full antialiased","children":[["$","head",null,{"children":[["$","script",null,{"id":"line-attribution-entry","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],"$L4"]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$8"]},null,false,"$8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8eGn26wSuViGotmL3XE9L"}
 d:I[39756,["/_next/static/chunks/368k6g7qjvarj.js"],"default"]
 e:I[37457,["/_next/static/chunks/368k6g7qjvarj.js"],"default"]
 f:I[24323,["/_next/static/chunks/368k6g7qjvarj.js","/_next/static/chunks/233oh-ephures.js"],"Header"]
@@ -203,7 +203,7 @@ b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2g2a8mg-b_n9j
 48:["$","li","s7",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"07"}],["$","a",null,{"href":"#s7","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"偵查庭當天通常會怎麼進行？"}]]}]
 49:["$","li","s8",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"08"}],["$","a",null,{"href":"#s8","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"去偵查庭會被羈押嗎？"}]]}]
 4a:["$","li","s9",{"className":"flex gap-2","children":[["$","span",null,{"className":"shrink-0 font-semibold text-[#b8933f]","children":"09"}],["$","a",null,{"href":"#s9","className":"underline decoration-[#c9a961]/40 underline-offset-4 hover:text-[#8a6a1f]","children":"偵查庭結束後，接下來會發生什麼？"}]]}]
-4d:T31ba,<p>收到地檢署傳票，<strong>不等於已被起訴或一定有罪</strong>。先看清楚傳票上的身分、案由、到場時間、地點與承辦股；被告與證人的權利及不到場效果不同。確實無法到場時，要在期日前主動聯絡承辦股，並確認是否准予改期，不要直接忽略。</p>
+4d:T326b,<p>收到地檢署傳票，<strong>不等於已被起訴或一定有罪</strong>。先看清楚傳票上的身分、案由、到場時間、地點與承辦股；被告與證人的權利及不到場效果不同。確實無法到場時，要在期日前主動聯絡承辦股，並確認是否准予改期，不要直接忽略。</p>
 <h2 id="s1">被告或證人收到傳票，先看哪個差別？</h2>
 <table>
 <thead>
@@ -236,6 +236,7 @@ b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2g2a8mg-b_n9j
 <li><strong>評估是否先諮詢律師</strong>：若傳票記載被告、案情不明、證人回答可能使自己涉案，或涉及詐欺、洗錢、毒品、妨害性自主等高風險案件，宜在到庭前先釐清陳述與證據風險。</li>
 </ol>
 <p>如果目前收到的是警察機關通知書，而不是地檢署傳票，可先閱讀<a href="/process/police-notice/" rel="noopener noreferrer">收到警局通知書怎麼辦</a>；兩種文件的發文機關、法律依據與程序位置不同。</p>
+<p>如果傳票是法院寄來的，可先看<a href="/process/summons/" rel="noopener noreferrer">地檢署與法院傳票怎麼分、到庭前要核對哪些欄位</a>。</p>
 <h2 id="s3">收到地檢署傳票，是否代表已經被起訴？</h2>
 <p><strong>不是。</strong>偵查庭是檢察官在起訴前調查事實與證據的程序，不是法院的審判庭。傳票只表示檢察官依法通知特定人到場，不能單從收到傳票推論最後會起訴、不起訴或判刑。</p>
 <p>依《刑事訴訟法》第71條，偵查中傳喚被告的傳票由檢察官簽名，並應記載被告資料、案由、到場時間與地點，以及沒有正當理由卻不到場可能被拘提。依同法第175條，傳喚證人的傳票同樣由檢察官簽名，並應記載待證事由、到場時間與地點、不到場的效果，以及證人得請求日費與旅費。</p>
